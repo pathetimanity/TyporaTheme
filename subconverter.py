@@ -68,7 +68,7 @@ def _sc_config_url():
             sha = data['object']['sha']
         except KeyError:
             raise Exception(data)
-        return f'https://gist.githubusercontent.com/pathetimanity/a3b5e31b6485b10ba6feb6114cc95706/raw/'
+        return f'https://raw.githubusercontent.com/pathetimanity/clash-verge-rev/main/rules/clash.ini'
     except Exception as e:
         raise Exception(f'_get_sc_config_url: 获取订阅转换配置链接失败: {e}')
 
