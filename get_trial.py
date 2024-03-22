@@ -371,7 +371,7 @@ if __name__ == '__main__':
         remove('trial.cache')
         write('.github/repo_get_trial', cur_repo)
 
-    cfg = read_cfg('trial.cfg')['default']
+    cfg = read_cfg('sub.list')['default']
 
     opt = build_options(cfg)
 
