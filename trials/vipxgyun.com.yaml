@@ -47,7 +47,7 @@ proxies:
 - {name: 🇬🇧 英国 2 - 西瓜皮是真的皮, server: xg.cm.go002.xyz, port: 19894, type: vmess, uuid: b6e98de2-5a20-3490-baac-921c2de52bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: b6e98de2-5a20-3490-baac-921c2de52bba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
-- DOMAIN,www.bing.com,🚀 节点选择
+- DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
 - DOMAIN-KEYWORD,.facebook.,🚀 节点选择
 - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
@@ -2333,7 +2333,6 @@ rules:
 - DOMAIN-SUFFIX,adv.ccb.com,REJECT
 - DOMAIN-SUFFIX,advert.api.thejoyrun.com,REJECT
 - DOMAIN-SUFFIX,api-deal.kechenggezi.com,REJECT
-- DOMAIN-SUFFIX,bat.bing.com,REJECT
 - DOMAIN-SUFFIX,bd1.52che.com,REJECT
 - DOMAIN-SUFFIX,bd2.52che.com,REJECT
 - DOMAIN-SUFFIX,beacon.tingyun.com,REJECT
@@ -9251,6 +9250,5 @@ rules:
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
 - DOMAIN-SUFFIX,wxdown.org,DIRECT
-- DOMAIN,www4.bing.com,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择

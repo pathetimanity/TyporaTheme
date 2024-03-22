@@ -97,7 +97,7 @@ proxies:
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: SGe3UgTvvc2iGKYf, udp: true}
 - {name: ℹ️ 官网 https://1100.gg 使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: f6cbd5dd-4a2e-31dc-9242-520a994b6e7f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
-- DOMAIN,www.bing.com,🚀 节点选择
+- DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
 - DOMAIN-KEYWORD,.facebook.,🚀 节点选择
 - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
@@ -2383,7 +2383,6 @@ rules:
 - DOMAIN-SUFFIX,adv.ccb.com,REJECT
 - DOMAIN-SUFFIX,advert.api.thejoyrun.com,REJECT
 - DOMAIN-SUFFIX,api-deal.kechenggezi.com,REJECT
-- DOMAIN-SUFFIX,bat.bing.com,REJECT
 - DOMAIN-SUFFIX,bd1.52che.com,REJECT
 - DOMAIN-SUFFIX,bd2.52che.com,REJECT
 - DOMAIN-SUFFIX,beacon.tingyun.com,REJECT
@@ -9301,6 +9300,5 @@ rules:
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
 - DOMAIN-SUFFIX,wxdown.org,DIRECT
-- DOMAIN,www4.bing.com,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择

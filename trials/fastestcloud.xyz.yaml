@@ -141,7 +141,7 @@ proxies:
 - {name: 🇬🇧 vip1 英国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: 6a66007f-8ec4-4a47-b407-fe6ce64fdad7, udp: true}
 - {name: 🇬🇧 vip1 英国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: 6a66007f-8ec4-4a47-b407-fe6ce64fdad7, udp: true}
 rules:
-- DOMAIN,www.bing.com,🚀 节点选择
+- DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
 - DOMAIN-KEYWORD,.facebook.,🚀 节点选择
 - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
@@ -2427,7 +2427,6 @@ rules:
 - DOMAIN-SUFFIX,adv.ccb.com,REJECT
 - DOMAIN-SUFFIX,advert.api.thejoyrun.com,REJECT
 - DOMAIN-SUFFIX,api-deal.kechenggezi.com,REJECT
-- DOMAIN-SUFFIX,bat.bing.com,REJECT
 - DOMAIN-SUFFIX,bd1.52che.com,REJECT
 - DOMAIN-SUFFIX,bd2.52che.com,REJECT
 - DOMAIN-SUFFIX,beacon.tingyun.com,REJECT
@@ -9345,6 +9344,5 @@ rules:
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
 - DOMAIN-SUFFIX,wxdown.org,DIRECT
-- DOMAIN,www4.bing.com,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择

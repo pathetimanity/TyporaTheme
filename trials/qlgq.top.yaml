@@ -73,7 +73,7 @@ proxies:
 - {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip103.qlgq.fun, port: 41116, type: trojan, password: b64aef37-1ee4-3caf-8aad-efc1930a0939, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 - {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip103.qlgq.fun, port: 51116, type: trojan, password: b64aef37-1ee4-3caf-8aad-efc1930a0939, sni: hkvip103.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip103}, udp: true}
 rules:
-- DOMAIN,www.bing.com,🚀 节点选择
+- DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
 - DOMAIN-KEYWORD,.facebook.,🚀 节点选择
 - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
@@ -2359,7 +2359,6 @@ rules:
 - DOMAIN-SUFFIX,adv.ccb.com,REJECT
 - DOMAIN-SUFFIX,advert.api.thejoyrun.com,REJECT
 - DOMAIN-SUFFIX,api-deal.kechenggezi.com,REJECT
-- DOMAIN-SUFFIX,bat.bing.com,REJECT
 - DOMAIN-SUFFIX,bd1.52che.com,REJECT
 - DOMAIN-SUFFIX,bd2.52che.com,REJECT
 - DOMAIN-SUFFIX,beacon.tingyun.com,REJECT
@@ -9277,6 +9276,5 @@ rules:
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
 - DOMAIN-SUFFIX,wxdown.org,DIRECT
-- DOMAIN,www4.bing.com,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择

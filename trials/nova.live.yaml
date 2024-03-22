@@ -27,7 +27,7 @@ proxies:
 - {name: 🇺🇸 US180|CN2GIA - NovaLive, server: 103.136.185.27, port: 5492, type: trojan, password: f08ae68d-3707-3455-81eb-42b0fb3c139e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: 🇺🇸 US181|CN2GIA - NovaLive, server: 103.136.185.28, port: 3500, type: trojan, password: f08ae68d-3707-3455-81eb-42b0fb3c139e, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 rules:
-- DOMAIN,www.bing.com,🚀 节点选择
+- DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
 - DOMAIN-KEYWORD,.facebook.,🚀 节点选择
 - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
@@ -2313,7 +2313,6 @@ rules:
 - DOMAIN-SUFFIX,adv.ccb.com,REJECT
 - DOMAIN-SUFFIX,advert.api.thejoyrun.com,REJECT
 - DOMAIN-SUFFIX,api-deal.kechenggezi.com,REJECT
-- DOMAIN-SUFFIX,bat.bing.com,REJECT
 - DOMAIN-SUFFIX,bd1.52che.com,REJECT
 - DOMAIN-SUFFIX,bd2.52che.com,REJECT
 - DOMAIN-SUFFIX,beacon.tingyun.com,REJECT
@@ -9231,6 +9230,5 @@ rules:
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
 - DOMAIN-SUFFIX,wxdown.org,DIRECT
-- DOMAIN,www4.bing.com,DIRECT
 - GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择
