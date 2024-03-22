@@ -96,16 +96,10 @@ proxy-groups:
   - DIRECT
   - REJECT
   - 1
-proxy-providers:
-  All:
-    type: http
-    url: https://raw.kgithub.com/pathetimanity/TyporaTheme/main/trials_providers/All.yaml
-    interval: 180
-    path: trials_providers/All.yaml
-    health-check:
-      enable: true
-      url: https://i.ytimg.com/generate_204
-      interval: 30
+proxies:
+- {name: 🇯🇵 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
+- {name: 🇸🇬 免费-新加坡 - bee.sulepay.com, server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
+- {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
 rules:
 - DOMAIN,analyticsmobile-pa.googleapis.com,🐞 谷歌分析
 - DOMAIN,analyticsinsights-pa.googleapis.com,🐞 谷歌分析
