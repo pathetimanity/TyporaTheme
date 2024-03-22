@@ -17,9 +17,9 @@ proxy-groups:
 proxy-providers:
   All:
     type: http
-    url: https://raw.kgithub.com/pathetimanity/TyporaTheme/main/trials_providers/All.yaml
+    url: https://raw.kgithub.com/pathetimanity/TyporaTheme/main/trials_providers/qlgq.top/All.yaml
     interval: 180
-    path: trials_providers/All.yaml
+    path: trials_providers/qlgq.top/All.yaml
     health-check:
       enable: true
       url: https://i.ytimg.com/generate_204
