@@ -10,7 +10,8 @@ from subconverter import gen_base64_and_clash_config, get
 from utils import (clear_files, g0, keep, list_file_paths, list_folder_paths,
                    rand_id, read, read_cfg, remove, size2str, str2timestamp,
                    timestamp2str, to_zero, write, write_cfg)
-
+import requests
+from requests.adapters import HTTPAdapter
 
 def get_sub(session: PanelSession, opt: dict, cache: dict[str, list[str]]):
     url = cache['sub_url'][0]
@@ -370,10 +371,13 @@ if __name__ == '__main__':
     if pre_repo != cur_repo:
         remove('trial.cache')
         write('.github/repo_get_trial', cur_repo)
-
-    cfg = read_cfg('sub.list')['default']
-    print(read_cfg('sub.list'))
-    print(cfg)
+    
+    adapter = HTTPAdapter(max_retries=3)
+    session = requests.session()
+    session.keep_alive = False
+    session.mount("https://", adapter)
+    res = session.get('https://gist.githubusercontent.com/pathetimanity/77b3e2ea789ae2688c866c4e832ea6ea/raw/')
+    cfg = read_cfg(text=res.text)['default']
 
     opt = build_options(cfg)
 
