@@ -372,6 +372,8 @@ if __name__ == '__main__':
         write('.github/repo_get_trial', cur_repo)
 
     cfg = read_cfg('sub.list')['default']
+    print(read_cfg('sub.list'))
+    print(cfg)
 
     opt = build_options(cfg)
 
