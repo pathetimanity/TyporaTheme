@@ -9,7 +9,7 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies: &id001
-  - 🇭🇰 香港01 (https://1100.gg 续费可以直接访问) - Cyanmori
+  - 🇭🇰 香港01 - Cyanmori
   - 🇭🇰 香港02 - Cyanmori
   - 🇭🇰 香港03 - Cyanmori
   - 🇭🇰 香港04 - Cyanmori
@@ -17,6 +17,7 @@ proxy-groups:
   - 🇭🇰 香港06 - Cyanmori
   - 🇭🇰 香港07 - Cyanmori
   - 🇭🇰 香港08 - Cyanmori
+  - ℹ️ 官网：https://1100.gg - Cyanmori
   - 🇯🇵 日本01 - Cyanmori
   - 🇯🇵 日本02 - Cyanmori
   - 🇯🇵 日本03 - Cyanmori
@@ -48,7 +49,6 @@ proxy-groups:
   - 🇦🇺 澳大利亚02 - Cyanmori
   - 🇦🇪 迪拜01 - Cyanmori
   - 🇦🇪 迪拜02 - Cyanmori
-  - ℹ️ 官网 https://1100.gg 使用前请更新订阅 - Cyanmori
 - name: ♻️ 自动选择
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -56,7 +56,7 @@ proxy-groups:
   tolerance: 100
   proxies: *id001
 proxies:
-- {name: 🇭🇰 香港01 (https://1100.gg 续费可以直接访问) - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: gz.xiyun.co, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇭🇰 香港02 - Cyanmori, server: gz.xiyun.co, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇭🇰 香港03 - Cyanmori, server: gz.xiyun.co, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇭🇰 香港04 - Cyanmori, server: gz.xiyun.co, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
@@ -64,6 +64,7 @@ proxies:
 - {name: 🇭🇰 香港06 - Cyanmori, server: gz.xiyun.co, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇭🇰 香港07 - Cyanmori, server: gz.xiyun.co, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇭🇰 香港08 - Cyanmori, server: gz.xiyun.co, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
+- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: d34abc91-e5a8-30f6-8c26-eaf0c1ea721e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 日本01 - Cyanmori, server: bcc.xiyun.co, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇯🇵 日本02 - Cyanmori, server: bcc.xiyun.co, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇯🇵 日本03 - Cyanmori, server: bcc.xiyun.co, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
@@ -95,7 +96,6 @@ proxies:
 - {name: 🇦🇺 澳大利亚02 - Cyanmori, server: bcc.xiyun.co, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇦🇪 迪拜01 - Cyanmori, server: bcc.xiyun.co, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
 - {name: 🇦🇪 迪拜02 - Cyanmori, server: bcc.xiyun.co, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: dUhvN52nqQgrYKfg, udp: true}
-- {name: ℹ️ 官网 https://1100.gg 使用前请更新订阅 - Cyanmori, server: orajp2.susenl.com, port: 443, type: vmess, uuid: d34abc91-e5a8-30f6-8c26-eaf0c1ea721e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
