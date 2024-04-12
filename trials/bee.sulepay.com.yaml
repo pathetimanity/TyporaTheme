@@ -9,9 +9,9 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies: &id001
-  - 免费-日本 - bee.sulepay.com
-  - 免费-新加坡 - bee.sulepay.com
-  - 免费-美国 - bee.sulepay.com
+  - 🇯🇵 免费-日本 - bee.sulepay.com
+  - 🇸🇬 免费-新加坡 - bee.sulepay.com
+  - 🇺🇸 免费-美国 - bee.sulepay.com
 - name: ♻️ 自动选择
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -19,9 +19,9 @@ proxy-groups:
   tolerance: 100
   proxies: *id001
 proxies:
-- {name: 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
-- {name: 免费-新加坡 - bee.sulepay.com, server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
-- {name: 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
+- {name: 🇯🇵 免费-日本 - bee.sulepay.com, server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
+- {name: 🇸🇬 免费-新加坡 - bee.sulepay.com, server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
+- {name: 🇺🇸 免费-美国 - bee.sulepay.com, server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, protocol: auth_aes128_sha1, obfs: plain, protocol-param: 20290:xUFeBP, obfs-param: 02a6f20290.microsoft.com, udp: true}
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
