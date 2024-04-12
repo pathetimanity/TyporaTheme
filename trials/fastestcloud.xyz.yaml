@@ -9,68 +9,68 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies: &id001
-  - ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly
-  - ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly
-  - 🇯🇵 vip1 日本-01 - FastFly
-  - 🇯🇵 vip1 日本-02 - FastFly
-  - 🇯🇵 vip1 日本-03 - FastFly
-  - 🇯🇵 vip1 日本-06 - FastFly
-  - 🇯🇵 vip1 日本-07 - FastFly
-  - 🇯🇵 vip1 日本-08 - FastFly
-  - 🇭🇰 vip1 香港-01 - FastFly
-  - 🇭🇰 vip1 香港-02 - FastFly
-  - 🇭🇰 vip1 香港-03 - FastFly
-  - 🇭🇰 vip1 香港-06 - FastFly
-  - 🇭🇰 vip1 香港-07 - FastFly
-  - 🇭🇰 vip1 香港-08 - FastFly
-  - 🇭🇰 vip1 香港-11 - FastFly
-  - 🇭🇰 vip1 香港-12 - FastFly
-  - 🇭🇰 vip1 香港-13 - FastFly
-  - 🇭🇰 vip1 香港-16 - FastFly
-  - 🇭🇰 vip1 香港-17 - FastFly
-  - 🇭🇰 vip1 香港-18 - FastFly
-  - 🇹🇼 vip1 台湾-01 - FastFly
-  - 🇹🇼 vip1 台湾-02 - FastFly
-  - 🇹🇼 vip1 台湾-03 - FastFly
-  - 🇹🇼 vip1 台湾-06 - FastFly
-  - 🇹🇼 vip1 台湾-07 - FastFly
-  - 🇹🇼 vip1 台湾-08 - FastFly
-  - 🇸🇬 vip1 新加坡-01 - FastFly
-  - 🇸🇬 vip1 新加坡-02 - FastFly
-  - 🇸🇬 vip1 新加坡-03 - FastFly
-  - 🇸🇬 vip1 新加坡-06 - FastFly
-  - 🇸🇬 vip1 新加坡-07 - FastFly
-  - 🇸🇬 vip1 新加坡-08 - FastFly
-  - 🇲🇾 vip1 马来西亚-01 - FastFly
-  - 🇲🇾 vip1 马来西亚-02 - FastFly
-  - 🇲🇾 vip1 马来西亚-03 - FastFly
-  - 🇺🇸 vip1 美国-01 - FastFly
-  - 🇺🇸 vip1 美国-02 - FastFly
-  - 🇺🇸 vip1 美国-03 - FastFly
-  - 🇺🇸 vip1 美国-06 - FastFly
-  - 🇺🇸 vip1 美国-07 - FastFly
-  - 🇺🇸 vip1 美国-08 - FastFly
-  - 🇺🇸 vip1 美国-11 - FastFly
-  - 🇺🇸 vip1 美国-12 - FastFly
-  - 🇺🇸 vip1 美国-13 - FastFly
-  - 🇻🇳 vip1 越南-01 - FastFly
-  - 🇻🇳 vip1 越南-02 - FastFly
-  - 🇻🇳 vip1 越南-03 - FastFly
-  - 🇮🇳 vip1 印度-01 - FastFly
-  - 🇮🇳 vip1 印度-02 - FastFly
-  - 🇮🇳 vip1 印度-03 - FastFly
-  - 🇦🇺 vip1 澳大利亚-01 - FastFly
-  - 🇦🇺 vip1 澳大利亚-02 - FastFly
-  - 🇦🇺 vip1 澳大利亚-03 - FastFly
-  - 🇹🇷 vip1 土耳其-01 - FastFly
-  - 🇹🇷 vip1 土耳其-02 - FastFly
-  - 🇹🇷 vip1 土耳其-03 - FastFly
-  - 🇩🇪 vip1 德国-01 - FastFly
-  - 🇩🇪 vip1 德国-02 - FastFly
-  - 🇩🇪 vip1 德国-03 - FastFly
-  - 🇬🇧 vip1 英国-01 - FastFly
-  - 🇬🇧 vip1 英国-02 - FastFly
-  - 🇬🇧 vip1 英国-03 - FastFly
+  - FastFly 永久跳转地址 https://fastfly.club - FastFly
+  - FastFly 国外地址： https://cloud.fastfly.top - FastFly
+  - vip1 日本-01 - FastFly
+  - vip1 日本-02 - FastFly
+  - vip1 日本-03 - FastFly
+  - vip1 日本-06 - FastFly
+  - vip1 日本-07 - FastFly
+  - vip1 日本-08 - FastFly
+  - vip1 香港-01 - FastFly
+  - vip1 香港-02 - FastFly
+  - vip1 香港-03 - FastFly
+  - vip1 香港-06 - FastFly
+  - vip1 香港-07 - FastFly
+  - vip1 香港-08 - FastFly
+  - vip1 香港-11 - FastFly
+  - vip1 香港-12 - FastFly
+  - vip1 香港-13 - FastFly
+  - vip1 香港-16 - FastFly
+  - vip1 香港-17 - FastFly
+  - vip1 香港-18 - FastFly
+  - vip1 台湾-01 - FastFly
+  - vip1 台湾-02 - FastFly
+  - vip1 台湾-03 - FastFly
+  - vip1 台湾-06 - FastFly
+  - vip1 台湾-07 - FastFly
+  - vip1 台湾-08 - FastFly
+  - vip1 新加坡-01 - FastFly
+  - vip1 新加坡-02 - FastFly
+  - vip1 新加坡-03 - FastFly
+  - vip1 新加坡-06 - FastFly
+  - vip1 新加坡-07 - FastFly
+  - vip1 新加坡-08 - FastFly
+  - vip1 马来西亚-01 - FastFly
+  - vip1 马来西亚-02 - FastFly
+  - vip1 马来西亚-03 - FastFly
+  - vip1 美国-01 - FastFly
+  - vip1 美国-02 - FastFly
+  - vip1 美国-03 - FastFly
+  - vip1 美国-06 - FastFly
+  - vip1 美国-07 - FastFly
+  - vip1 美国-08 - FastFly
+  - vip1 美国-11 - FastFly
+  - vip1 美国-12 - FastFly
+  - vip1 美国-13 - FastFly
+  - vip1 越南-01 - FastFly
+  - vip1 越南-02 - FastFly
+  - vip1 越南-03 - FastFly
+  - vip1 印度-01 - FastFly
+  - vip1 印度-02 - FastFly
+  - vip1 印度-03 - FastFly
+  - vip1 澳大利亚-01 - FastFly
+  - vip1 澳大利亚-02 - FastFly
+  - vip1 澳大利亚-03 - FastFly
+  - vip1 土耳其-01 - FastFly
+  - vip1 土耳其-02 - FastFly
+  - vip1 土耳其-03 - FastFly
+  - vip1 德国-01 - FastFly
+  - vip1 德国-02 - FastFly
+  - vip1 德国-03 - FastFly
+  - vip1 英国-01 - FastFly
+  - vip1 英国-02 - FastFly
+  - vip1 英国-03 - FastFly
 - name: ♻️ 自动选择
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -78,68 +78,68 @@ proxy-groups:
   tolerance: 100
   proxies: *id001
 proxies:
-- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇲🇾 vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇺🇸 vip1 美国-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇻🇳 vip1 越南-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇻🇳 vip1 越南-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇻🇳 vip1 越南-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇮🇳 vip1 印度-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇮🇳 vip1 印度-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇮🇳 vip1 印度-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇦🇺 vip1 澳大利亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇦🇺 vip1 澳大利亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇦🇺 vip1 澳大利亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇹🇷 vip1 土耳其-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 vip1 土耳其-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇹🇷 vip1 土耳其-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇩🇪 vip1 德国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇩🇪 vip1 德国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇩🇪 vip1 德国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇬🇧 vip1 英国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇬🇧 vip1 英国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
-- {name: 🇬🇧 vip1 英国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 日本-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 37581, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: jp03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15976, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 14490, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk04.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 46912, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk03.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 新加坡-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 40276, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: sg01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 马来西亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 马来西亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 马来西亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25881, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: my01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 美国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10598, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 10519, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-11 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-12 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 美国-13 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 28625, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 越南-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 越南-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 越南-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 54295, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 印度-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 印度-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 印度-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 45852, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 澳大利亚-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 澳大利亚-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 澳大利亚-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 63640, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 土耳其-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 土耳其-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 土耳其-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 15762, type: trojan, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, sni: tur01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: vip1 德国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 德国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 德国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20943, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 英国-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 英国-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
+- {name: vip1 英国-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 39788, type: ss, cipher: chacha20-ietf-poly1305, password: ccc15fbe-5bc6-4c7f-9828-baf2f0344957, udp: true}
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
