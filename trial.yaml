@@ -455,18 +455,18 @@ proxies:
 - {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
 - {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
 - {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: e7489f3f-4f82-37ca-8242-33983c9fb3cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp2.lvuy.xyz, port: 10039, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: aes-192-gcm, password: o9vX3jh9uBIkA9V4, udp: true}
 - {name: 🇺🇸 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
 - {name: 🇺🇸 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
 - {name: 🇺🇸 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: aes-256-cfb, password: MetronTheme, udp: true}
