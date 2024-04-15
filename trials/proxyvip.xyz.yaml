@@ -96,6 +96,7 @@ rules:
 - DOMAIN-KEYWORD,.facebook.,🚀 节点选择
 - DOMAIN-KEYWORD,.hbogoasia.,🚀 节点选择
 - DOMAIN-KEYWORD,.pinterest.,🚀 节点选择
+- DOMAIN-SUFFIX,coze.com,🚀 节点选择
 - IP-CIDR,103.2.30.0/23,🚀 节点选择,no-resolve
 - IP-CIDR,103.5.34.153/32,🚀 节点选择,no-resolve
 - IP-CIDR,104.109.129.153/32,🚀 节点选择,no-resolve
