@@ -5,7 +5,7 @@ email  otmntqu112@tmpeml.com
 last_checkin  2024-04-17 14:38:03.628106+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-18 14:38:03+08:00  (剩余 888G 23:59:55.440901)
+sub_info  0B  888G  2024-04-18 14:38:03+08:00  (剩余 888G 23:24:17.372332)
 sub_url  https://www.qlgq.top/link/e022353d71271610?clash=1
 time  2024-04-17 14:38:04.579252+08:00
 type  sspanel
@@ -18,7 +18,7 @@ email  nrkkzmo367@linshiyou.com
 last_checkin  2024-04-17 05:37:48.129116+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  48.8M  1.162G  2024-04-18 05:37:47+08:00  (剩余 1.114G 15:00:05.507512)
+sub_info  60.27M  1.162G  2024-04-18 05:37:47+08:00  (剩余 1.103G 14:23:55.955757)
 sub_url  https://network.ayucloud.nl/link/CS0C8tO66wUmOApa?clash=1
 time  2024-04-17 05:37:48.998043+08:00
 type  sspanel
@@ -30,7 +30,7 @@ email  odffslpf367@gmail.com
 last_checkin  2024-04-17 10:25:00.094295+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.267G  2024-04-17 16:24:59+08:00  (剩余 1.267G 1:46:54.943943)
+sub_info  0B  1.267G  2024-04-17 16:24:59+08:00  (剩余 1.267G 1:09:06.682976)
 sub_url  https://accd.zhiyin.asia/link/Wlgnp0rViD6xslOB?clash=1
 time  2024-04-17 10:25:01.424402+08:00
 type  sspanel
@@ -44,14 +44,14 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新旧订阅失败  HTTPSConnectionPool(host='biubiufast.com', port=443): Read timed out. (read timeout=30)
 
 [proxyvip.xyz]
 buy  pass
 email  guyojxun694@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  37.68M  1G  2024-04-20 22:11:45+08:00  (剩余 986.3M 3 days, 7:34:02.259746)
+sub_info  37.68M  1G  2024-04-20 22:11:45+08:00  (剩余 986.3M 3 days, 6:57:57.193784)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=5e7d77d1687c685fcca0a6c3a5546ec8
 time  2024-04-13 22:11:45.894885+08:00
 type  v2board
@@ -63,7 +63,7 @@ email  zrfnxnfzj517@gmail.com
 last_checkin  2024-04-17 14:28:37.384161+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-04-17 16:28:37+08:00  (剩余 10.11G 1:50:57.543561)
+sub_info  0B  10.11G  2024-04-17 16:28:37+08:00  (剩余 10.11G 1:14:47.026576)
 sub_url  https://dy1.dx035.top/link/HQR0MpRY1gWXEUIV?sub=3
 time  2024-04-17 14:28:40.315559+08:00
 type  sspanel
@@ -75,7 +75,7 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-17 00:35:36.462064+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  20.06G  66.53G  2024-04-21 19:36:10+08:00  (剩余 46.47G 4 days, 4:58:30.209975)
+sub_info  20.06G  66.53G  2024-04-21 19:36:10+08:00  (剩余 46.47G 4 days, 4:20:23.492051)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
@@ -85,7 +85,7 @@ buy  pass
 email  xnktwnqb660@gmail.com
 name  FastFly
 node_n  62
-sub_info  0B  1G  2024-04-18 14:37:49+08:00  (剩余 1G 23:59:51.620575)
+sub_info  0B  1G  2024-04-18 14:37:49+08:00  (剩余 1G 23:24:00.360941)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=cf272170a8f0a5768df0ede56e401684
 time  2024-04-17 14:37:50.281797+08:00
 type  v2board
