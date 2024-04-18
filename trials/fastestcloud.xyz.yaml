@@ -9,8 +9,8 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies: &id001
-  - FastFly 永久跳转地址 https://fastfly.club - FastFly
-  - FastFly 国外地址： https://cloud.fastfly.top - FastFly
+  - ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly
+  - ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly
   - 🇯🇵 vip1 日本-01 - FastFly
   - 🇯🇵 vip1 日本-02 - FastFly
   - 🇯🇵 vip1 日本-03 - FastFly
@@ -29,12 +29,12 @@ proxy-groups:
   - 🇭🇰 vip1 香港-16 - FastFly
   - 🇭🇰 vip1 香港-17 - FastFly
   - 🇭🇰 vip1 香港-18 - FastFly
-  - 🇨🇳 vip1 台湾-01 - FastFly
-  - 🇨🇳 vip1 台湾-02 - FastFly
-  - 🇨🇳 vip1 台湾-03 - FastFly
-  - 🇨🇳 vip1 台湾-06 - FastFly
-  - 🇨🇳 vip1 台湾-07 - FastFly
-  - 🇨🇳 vip1 台湾-08 - FastFly
+  - 🇹🇼 vip1 台湾-01 - FastFly
+  - 🇹🇼 vip1 台湾-02 - FastFly
+  - 🇹🇼 vip1 台湾-03 - FastFly
+  - 🇹🇼 vip1 台湾-06 - FastFly
+  - 🇹🇼 vip1 台湾-07 - FastFly
+  - 🇹🇼 vip1 台湾-08 - FastFly
   - 🇸🇬 vip1 新加坡-01 - FastFly
   - 🇸🇬 vip1 新加坡-02 - FastFly
   - 🇸🇬 vip1 新加坡-03 - FastFly
@@ -78,8 +78,8 @@ proxy-groups:
   tolerance: 100
   proxies: *id001
 proxies:
-- {name: FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ️ FastFly 永久跳转地址 https://fastfly.club - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: ℹ️ FastFly 国外地址： https://cloud.fastfly.top - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇯🇵 vip1 日本-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 20356, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: jp01.ckcloud.info, skip-cert-verify: true, udp: true}
@@ -98,12 +98,12 @@ proxies:
 - {name: 🇭🇰 vip1 香港-16 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-17 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 vip1 香港-18 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 22704, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: hk05.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
-- {name: 🇨🇳 vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 25074, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw01.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-06 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-07 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 vip1 台湾-08 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 35672, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: tw02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-01 - FastFly, server: n00007.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-02 - FastFly, server: n00003.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
 - {name: 🇸🇬 vip1 新加坡-03 - FastFly, server: n00005.bzdqsmzngpyyng.sbs, port: 21526, type: trojan, password: 25c27061-6a12-4a76-bf76-4a9cd3467f3a, sni: sg02.ckcloud.info, skip-cert-verify: true, udp: true}
