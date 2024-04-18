@@ -5,23 +5,26 @@ email  flrnvgt676@disbox.org
 last_checkin  2024-04-19 00:37:30.287817+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-19 14:19:38+08:00  (剩余 888G 10:05:55.618804)
+sub_info  0B  888G  2024-04-19 14:19:38+08:00  (剩余 888G 9:42:45.451035)
 sub_url  https://www.qlgq.top/link/36ccb45506b32d01?clash=1
 time  2024-04-18 14:19:38.933064+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ayucloud.services]
 auth_path  user
 auto_invite  F
+banned_domains  yzm.de
 buy  pass
 email  scpvktkw233@guerrillamail.biz
 last_checkin  2024-04-19 00:37:30.286817+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  436.7M  1.945G  2024-04-19 05:13:14+08:00  (剩余 1.519G 0:59:31.658817)
+sub_info  444.3M  1.945G  2024-04-19 05:13:14+08:00  (剩余 1.511G 0:35:11.007167)
 sub_url  https://network.ayucloud.nl/link/PtWoKrX7VBfgsH6u?clash=1
 time  2024-04-18 05:13:15.434663+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(imcyujr659@yzm.de)
 
 [cyanmori.com]
 auto_invite  F
@@ -30,7 +33,7 @@ email  zutnqwp566@gmail.com
 last_checkin  2024-04-19 02:16:37.559067+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.201G  2024-04-19 08:16:37+08:00  (剩余 1.201G 4:02:50.455114)
+sub_info  0B  1.201G  2024-04-19 08:16:37+08:00  (剩余 1.201G 3:39:40.768516)
 sub_url  https://accd.zhiyin.asia/link/TZ8P8bx6sDyMMnvS?clash=1
 time  2024-04-19 02:16:39.289956+08:00
 type  sspanel
@@ -51,7 +54,7 @@ buy  pass
 email  guyojxun694@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  401.5M  1G  2024-04-20 22:11:45+08:00  (剩余 622.5M 1 day, 17:56:02.733521)
+sub_info  401.5M  1G  2024-04-20 22:11:45+08:00  (剩余 622.5M 1 day, 17:34:53.372215)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=5e7d77d1687c685fcca0a6c3a5546ec8
 time  2024-04-13 22:11:45.894885+08:00
 type  v2board
@@ -63,7 +66,7 @@ email  gorfzpy98@gmail.com
 last_checkin  2024-04-19 04:13:40.559365+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-04-19 06:13:40+08:00  (剩余 10.14G 1:59:51.554373)
+sub_info  0B  10.14G  2024-04-19 06:13:40+08:00  (剩余 10.14G 1:36:48.557940)
 sub_url  https://dy1.dx035.top/link/JwbTtmCr6fwRg5nF?sub=3
 time  2024-04-19 04:13:43.653721+08:00
 type  sspanel
@@ -75,7 +78,7 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-19 00:37:30.292698+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  37.89G  68.23G  2024-04-21 19:36:10+08:00  (剩余 30.34G 2 days, 15:20:23.315570)
+sub_info  37.89G  68.23G  2024-04-21 19:36:10+08:00  (剩余 30.34G 2 days, 14:57:15.851791)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
@@ -85,7 +88,7 @@ buy  pass
 email  teowytzao890@gmail.com
 name  FastFly
 node_n  62
-sub_info  75.97K  1G  2024-04-19 14:17:32+08:00  (剩余 1024M 10:03:49.783317)
+sub_info  75.97K  1G  2024-04-19 14:17:32+08:00  (剩余 1024M 9:40:36.545405)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=ee4055e82f0ed7b0659b6af5830833e1
 time  2024-04-18 14:17:33.144240+08:00
 type  v2board
