@@ -5,7 +5,7 @@ email  gisregrbq869@wj1.haihantnc.xyz
 last_checkin  2024-04-21 14:17:35.802739+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-22 14:17:35+08:00  (剩余 888G 17:53:05.920736)
+sub_info  0B  888G  2024-04-22 14:17:35+08:00  (剩余 888G 17:31:34.218366)
 sub_url  https://www.qlgq.top/link/c9ae364eff2a776e?clash=1
 time  2024-04-21 14:17:36.569488+08:00
 type  sspanel
@@ -23,7 +23,7 @@ sub_info  10.26M  1.167G  2024-04-22 00:47:14+08:00  (剩余 1.157G 5:10:49.5666
 sub_url  https://network.ayucloud.nl/link/1ujf2d0vwYIscRVh?clash=1
 time  2024-04-21 00:47:15.351817+08:00
 type  sspanel
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/1ujf2d0vwYIscRVh?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8699a15a50>: Failed to resolve 'ayucloud.services' ([Errno -5] No address associated with hostname)"))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/1ujf2d0vwYIscRVh?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8860e0b610>: Failed to resolve 'ayucloud.services' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 auto_invite  F
@@ -32,7 +32,7 @@ email  jfgdeim455@gmail.com
 last_checkin  2024-04-21 15:35:58.594309+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.167G  2024-04-21 21:35:58+08:00  (剩余 1.167G 1:12:24.873574)
+sub_info  0B  1.167G  2024-04-21 21:35:58+08:00  (剩余 1.167G 0:49:53.709493)
 sub_url  https://accd.zhiyin.asia/link/gG6eOyFwQLDRLQBU?clash=1
 time  2024-04-21 15:36:00.357237+08:00
 type  sspanel
@@ -53,11 +53,10 @@ buy  pass
 email  iaczdfqg10@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  328.6M  1G  2024-04-27 21:36:08+08:00  (剩余 695.4M 6 days, 1:55:43.772969)
+sub_info  509.4M  1G  2024-04-27 21:36:08+08:00  (剩余 514.6M 6 days, 0:50:08.218161)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=897b456eaaa62c34714f4d5dde6fa998
 time  2024-04-20 21:36:09.295075+08:00
 type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
@@ -66,10 +65,11 @@ email  xdfjrfu94@gmail.com
 last_checkin  2024-04-21 19:36:21.594002+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-04-21 21:36:21+08:00  (剩余 10.14G 1:12:50.325721)
+sub_info  1.627M  10.14G  2024-04-21 21:36:21+08:00  (剩余 10.14G 0:50:22.329349)
 sub_url  https://dy1.dx035.top/link/F3svYl5QpndslCju?sub=3
 time  2024-04-21 19:36:25.294268+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [bee.sulepay.com]
 auto_invite  F
@@ -78,24 +78,24 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-20 00:38:09.239076+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -1 day, 23:12:41.764797)
+sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -1 day, 22:50:11.201602)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
 尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
-更新订阅链接/续费续签失败  注册失败(cpocwyxu927@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+更新订阅链接/续费续签失败  注册失败(stczrypjs303@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (404 Not Found '<html>\r\n<head><title>404 Not Found</title></head>\r\n<body>\r\n<center><h1>404 Not Found</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [fastestcloud.xyz]
 buy  pass
 email  kazcrbqy768@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -2 days, 17:51:50.688547)
+sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -2 days, 17:29:17.671521)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=0c5f7002924612fe628bead7b2eb092d
 time  2024-04-19 14:17:31.201646+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(rlkkdxh698@lplso.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(ytyvkbynm953@h11gggujjj.bond): 邮箱后缀不处于白名单中
 
 [nova.live]
 auto_invite  F
