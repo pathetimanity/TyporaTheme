@@ -5,7 +5,7 @@ email  cjzmtfm963@965.tmmad.com
 last_checkin  2024-04-22 14:17:34.462428+08:00
 name  墙了个墙
 node_n  28
-sub_info  108.1M  888G  2024-04-23 14:17:34+08:00  (剩余 887.9G 19:06:25.177273)
+sub_info  108.1M  888G  2024-04-23 14:17:34+08:00  (剩余 887.9G 18:39:25.442906)
 sub_url  https://www.qlgq.top/link/af0112a9396a2894?clash=1
 time  2024-04-22 14:17:35.248121+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  iuiknqrv582@miteon.com
 last_checkin  2024-04-22 00:15:53.668315+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  71.15M  1.075G  2024-04-23 00:15:53+08:00  (剩余 1.006G 5:04:23.629385)
+sub_info  71.15M  1.075G  2024-04-23 00:15:53+08:00  (剩余 1.006G 4:39:45.919210)
 sub_url  https://network.ayucloud.nl/link/4Kd9WS9clnstpPRr?clash=1
 time  2024-04-22 00:15:54.584156+08:00
 type  sspanel
@@ -31,7 +31,7 @@ email  ihnmzfhj737@gmail.com
 last_checkin  2024-04-22 14:36:58.264943+08:00
 name  Cyanmori
 node_n  40
-sub_info  226.3K  1.124G  2024-04-22 20:36:58+08:00  (剩余 1.124G 1:25:40.380428)
+sub_info  226.3K  1.124G  2024-04-22 20:36:58+08:00  (剩余 1.124G 1:00:48.281552)
 sub_url  https://accd.zhiyin.asia/link/lSQvshzpIZmJcOPL?clash=1
 time  2024-04-22 14:36:59.927052+08:00
 type  sspanel
@@ -45,7 +45,7 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新旧订阅失败  HTTPSConnectionPool(host='biubiufast.com', port=443): Read timed out. (read timeout=30)
 
 [proxyvip.xyz]
 buy  pass
@@ -56,17 +56,18 @@ sub_info  203.6K  1G  2024-04-28 22:11:41+08:00  (剩余 1024M 6 days, 2:58:30.7
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=f2a5b0bc3a1378840d7ea95957402c16
 time  2024-04-21 22:11:42.361701+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  ioqvkax488@gmail.com
-last_checkin  2024-04-22 18:15:16.213812+08:00
+email  ekwcddn33@gmail.com
+last_checkin  2024-04-22 19:38:05.683798+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-04-22 20:15:16+08:00  (剩余 10.1G 1:04:05.321978)
-sub_url  https://dy1.dx035.top/link/aoS5SYGviSyjYu86?sub=3
-time  2024-04-22 18:15:19.244266+08:00
+sub_info  0B  10.1G  2024-04-22 21:38:05+08:00  (剩余 10.1G 1:59:53.867761)
+sub_url  https://dy1.dx035.top/link/ZW3yREygUUeninI1?sub=3
+time  2024-04-22 19:38:08.756926+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -77,12 +78,12 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-20 00:38:09.239076+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -1 day, 0:21:28.048374)
+sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -2 days, 23:59:58.926129)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱验证码超时(mpznzln750@guerrillamail.com)
+更新订阅链接/续费续签失败  获取邮箱失败: 获取 www.emailnator.com XSRF-TOKEN 失败
 
 [fastestcloud.xyz]
 banned_domains  uuf.me
@@ -90,12 +91,12 @@ buy  pass
 email  kazcrbqy768@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -3 days, 19:03:59.685665)
+sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -3 days, 18:41:11.600354)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=0c5f7002924612fe628bead7b2eb092d
 time  2024-04-19 14:17:31.201646+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(sxzuhrd677@wj32.haihantnc.xyz): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(pfaihfsd595@tmail.ws): 邮箱后缀不处于白名单中
 
 [nova.live]
 auto_invite  F
