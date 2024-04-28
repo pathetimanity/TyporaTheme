@@ -5,7 +5,7 @@ email  jukfwod61@disbox.net
 last_checkin  2024-04-28 14:19:38.674175+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-04-29 14:19:38+08:00  (剩余 888G 17:54:54.185320)
+sub_info  0B  888G  2024-04-29 14:19:38+08:00  (剩余 888G 17:32:38.576437)
 sub_url  https://www.qlgq.top/link/6fd0d7c2ab9ea9ed?clash=1
 time  2024-04-28 14:19:39.311917+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  armjcgwzy936@mail.wvwvw.tech
 last_checkin  2024-04-28 15:12:00.950749+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  106M  1.129G  2024-04-29 15:12:00+08:00  (剩余 1.025G 18:47:12.823232)
+sub_info  106.5M  1.129G  2024-04-29 15:12:00+08:00  (剩余 1.025G 18:24:57.281487)
 sub_url  https://network.ayucloud.nl/link/Tzodep9tk2WJlvSw?clash=1
 time  2024-04-28 15:12:01.890404+08:00
 type  sspanel
@@ -31,7 +31,7 @@ email  tdczhpvc645@gmail.com
 last_checkin  2024-04-28 20:24:48.402965+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.476G  2024-04-29 02:24:48+08:00  (剩余 1.476G 5:59:53.117372)
+sub_info  0B  1.476G  2024-04-29 02:24:48+08:00  (剩余 1.476G 5:35:23.723007)
 sub_url  https://accd.zhiyin.asia/link/EYeGld6OszZ0vJIn?clash=1
 time  2024-04-28 20:24:49.911751+08:00
 type  sspanel
@@ -56,6 +56,7 @@ sub_info  0B  1G  2024-05-05 12:36:10+08:00  (剩余 1G 6 days, 16:11:27.010637)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=a2bf0b048ec29ce4a996ffc3ad6cf548
 time  2024-04-28 12:36:11.163237+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
@@ -64,7 +65,7 @@ email  ogfzdzpd849@gmail.com
 last_checkin  2024-04-28 19:37:25.621514+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-04-28 21:37:25+08:00  (剩余 10.14G 1:12:40.567393)
+sub_info  0B  10.14G  2024-04-28 21:37:25+08:00  (剩余 10.14G 0:50:27.799891)
 sub_url  https://dy2.dx035.top/link/FCVpXQoeRm4qNJb4?sub=3
 time  2024-04-28 19:37:28.936079+08:00
 type  sspanel
@@ -77,7 +78,7 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-20 00:38:09.239076+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -8 days, 23:09:24.358066)
+sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -8 days, 22:49:08.026215)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
@@ -90,12 +91,12 @@ buy  pass
 email  kazcrbqy768@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -9 days, 17:52:32.002998)
+sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -9 days, 17:30:19.127190)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=0c5f7002924612fe628bead7b2eb092d
 time  2024-04-19 14:17:31.201646+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(xgrbvjcif140@nqmo.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(lqftuedfd514@lyx13.xyz): 邮箱后缀不处于白名单中
 
 [nova.live]
 auto_invite  F
