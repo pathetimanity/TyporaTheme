@@ -5,7 +5,7 @@ email  jgutvxps250@tmpeml.com
 last_checkin  2024-04-30 00:37:09.452415+08:00
 name  墙了个墙
 node_n  28
-sub_info  126.9K  888.1G  2024-04-30 14:18:46+08:00  (剩余 888.1G 6:42:19.096448)
+sub_info  173.7K  888.1G  2024-04-30 14:18:46+08:00  (剩余 888.1G 5:20:17.288760)
 sub_url  https://www.qlgq.top/link/4aa1fa4f705b9c65?clash=1
 time  2024-04-29 14:18:47.918153+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  opagmuj794@bccto.cc
 last_checkin  2024-04-30 00:37:09.451231+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  148.8M  1.698G  2024-04-30 15:25:01+08:00  (剩余 1.553G 7:48:36.387448)
+sub_info  651.3M  1.698G  2024-04-30 15:25:01+08:00  (剩余 1.062G 6:22:23.976821)
 sub_url  https://network.ayucloud.nl/link/L0f3Valr9PMjoLXl?clash=1
 time  2024-04-29 15:25:02.669965+08:00
 type  sspanel
@@ -27,13 +27,13 @@ type  sspanel
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  jvhkyrjcu721@gmail.com
-last_checkin  2024-04-30 02:16:53.176413+08:00
+email  rirqjeoge525@gmail.com
+last_checkin  2024-04-30 08:58:32.105024+08:00
 name  Cyanmori
 node_n  40
-sub_info  545.4K  1.394G  2024-04-30 08:16:53+08:00  (剩余 1.393G 0:40:24.826119)
-sub_url  https://accd.zhiyin.asia/link/mPi7KiZXuOXHii8J?clash=1
-time  2024-04-30 02:16:54.714550+08:00
+sub_info  0B  1.116G  2024-04-30 14:58:31+08:00  (剩余 1.116G 5:57:49.525033)
+sub_url  https://accd.zhiyin.asia/link/vII6eAoixt595S6g?clash=1
+time  2024-04-30 08:58:33.499202+08:00
 type  sspanel
 
 [biubiufast.com]
@@ -45,14 +45,14 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新旧订阅失败  HTTPSConnectionPool(host='biubiufast.com', port=443): Read timed out. (read timeout=30)
 
 [proxyvip.xyz]
 buy  pass
 email  gbmrmojh909@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  13.63M  1G  2024-05-05 12:36:10+08:00  (剩余 1010M 5 days, 4:59:44.894098)
+sub_info  13.74M  1G  2024-05-05 12:36:10+08:00  (剩余 1010M 5 days, 3:35:42.694214)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=a2bf0b048ec29ce4a996ffc3ad6cf548
 time  2024-04-28 12:36:11.163237+08:00
 type  v2board
@@ -60,13 +60,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  nhlymmuj263@gmail.com
-last_checkin  2024-04-30 07:12:24.525921+08:00
+email  oakofhxa353@gmail.com
+last_checkin  2024-04-30 08:58:26.900869+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  9.958K  10.11G  2024-04-30 09:12:24+08:00  (剩余 10.11G 1:35:54.727009)
-sub_url  https://dy2.dx035.top/link/aYAKzZLlYj90n6sU?sub=3
-time  2024-04-30 07:12:27.919840+08:00
+sub_info  0B  10.13G  2024-04-30 10:58:26+08:00  (剩余 10.13G 1:59:53.765129)
+sub_url  https://dy2.dx035.top/link/6qyqkVDJkYjmDdbC?sub=3
+time  2024-04-30 08:58:30.250673+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -77,12 +77,12 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-20 00:38:09.239076+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -9 days, 11:57:40.269042)
+sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -9 days, 10:37:40.759897)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"ylnlatk377@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"xtvtsvtot203@rootsh.com","success":"false"}'
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live
@@ -90,12 +90,12 @@ buy  pass
 email  kazcrbqy768@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -10 days, 6:38:43.983908)
+sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -10 days, 5:14:49.176832)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=0c5f7002924612fe628bead7b2eb092d
 time  2024-04-19 14:17:31.201646+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(uxmmusw375@spam4.me): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(omsmnof803@h11gggujjj.bond): 邮箱后缀不处于白名单中
 
 [nova.live]
 auto_invite  F
