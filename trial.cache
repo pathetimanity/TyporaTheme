@@ -5,7 +5,7 @@ email  tettpfsz221@spam4.me
 last_checkin  2024-05-02 14:19:44.285784+08:00
 name  墙了个墙
 node_n  28
-sub_info  173.4M  888G  2024-05-03 14:19:44+08:00  (剩余 887.9G 14:44:10.901644)
+sub_info  173.9M  888G  2024-05-03 14:19:44+08:00  (剩余 887.9G 14:03:24.896263)
 sub_url  https://www.qlgq.top/link/0067bff9786cc28a?clash=1
 time  2024-05-02 14:19:44.954561+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  enxfpbhvt222@spam4.me
 last_checkin  2024-05-02 16:36:43.664954+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  313.6M  1.034G  2024-05-03 16:36:43+08:00  (剩余 745.4M 17:01:09.386000)
+sub_info  317.7M  1.034G  2024-05-03 16:36:43+08:00  (剩余 741.3M 16:20:35.018435)
 sub_url  https://network.ayucloud.nl/link/HeOmFakJOHxDCPoI?clash=1
 time  2024-05-02 16:36:44.497673+08:00
 type  sspanel
@@ -31,7 +31,7 @@ email  bvgdofww377@gmail.com
 last_checkin  2024-05-02 20:25:10.100987+08:00
 name  Cyanmori
 node_n  40
-sub_info  8.61M  1.216G  2024-05-03 02:25:09+08:00  (剩余 1.207G 2:49:32.201975)
+sub_info  10.3M  1.216G  2024-05-03 02:25:09+08:00  (剩余 1.206G 2:07:04.303960)
 sub_url  https://accd.zhiyin.asia/link/rxomEEDjAic31CiH?clash=1
 time  2024-05-02 20:25:11.532029+08:00
 type  sspanel
@@ -45,18 +45,17 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新旧订阅失败  HTTPSConnectionPool(host='biubiufast.com', port=443): Read timed out. (read timeout=30)
 
 [proxyvip.xyz]
 buy  pass
 email  vhvvnjah283@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  228.5M  1G  2024-05-08 13:12:45+08:00  (剩余 795.5M 5 days, 13:58:43.802966)
+sub_info  300.1M  1G  2024-05-08 13:12:45+08:00  (剩余 723.9M 5 days, 12:56:41.370169)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=6dd39828d169295ec26f57d40662f407
 time  2024-05-01 13:12:45.904882+08:00
 type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
@@ -65,7 +64,7 @@ email  npzemxkvw852@gmail.com
 last_checkin  2024-05-02 23:35:31.073494+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-05-03 01:35:31+08:00  (剩余 10.13G 1:59:39.854553)
+sub_info  0B  10.13G  2024-05-03 01:35:31+08:00  (剩余 10.13G 1:17:23.640450)
 sub_url  https://dy2.dx035.top/link/bWid64XViCmllVWg?sub=3
 time  2024-05-02 23:35:34.288353+08:00
 type  sspanel
@@ -78,12 +77,12 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-20 00:38:09.239076+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -12 days, 20:00:31.598172)
+sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -12 days, 19:20:04.390820)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"ncbkidz57@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 www.emailnator.com 账户失败(xqbsjfl202@smartnator.com): 500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>Server Error</title>\n\n<link rel="preconnect" href="https://fonts.gstatic.com">\n<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">\n<style>\n /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\\:rounded-lg{border-radius:.5rem}.sm\\:block{display:block}.sm\\:items-center{align-items:center}.sm\\:justify-start{justify-content:flex-start}.sm\\:justify-between{justify-content:space-between}.sm\\:h-20{height:5rem}.sm\\:ml-0{margin-left:0}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:pt-0{padding-top:0}.sm\\:text-left{text-align:left}.sm\\:text-right{text-align:right}}@media (min-width:768px){.md\\:border-t-0{border-top-width:0}.md\\:border-l{border-left-width:1px}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}\n </style>\n<style>\n body {\n font-family: \'Nunito\', sans-serif;\n }\n </style>\n</head>\n<body class="antialiased">\n<div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">\n<div class="max-w-xl mx-auto sm:px-6 lg:px-8">\n<div class="flex items-center pt-8 sm:justify-start sm:pt-0">\n<div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">\n500 </div>\n<div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">\nServer Error </div>\n</div>\n</div>\n</div>\n</body>\n</html>\n'
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -91,12 +90,12 @@ buy  pass
 email  kazcrbqy768@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -13 days, 14:41:42.172513)
+sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -13 days, 14:01:21.786364)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=0c5f7002924612fe628bead7b2eb092d
 time  2024-04-19 14:17:31.201646+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(psftdqb892@965.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 www.emailnator.com 账户失败(ltpdniia480@femailtor.com): 500 Internal Server Error '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="utf-8">\n<meta name="viewport" content="width=device-width, initial-scale=1">\n<title>Server Error</title>\n\n<link rel="preconnect" href="https://fonts.gstatic.com">\n<link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">\n<style>\n /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}a{background-color:transparent}code{font-family:monospace,monospace;font-size:1em}[hidden]{display:none}html{font-family:system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;line-height:1.5}*,:after,:before{box-sizing:border-box;border:0 solid #e2e8f0}a{color:inherit;text-decoration:inherit}code{font-family:Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace}svg,video{display:block;vertical-align:middle}video{max-width:100%;height:auto}.bg-white{--bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--bg-opacity))}.bg-gray-100{--bg-opacity:1;background-color:#f7fafc;background-color:rgba(247,250,252,var(--bg-opacity))}.border-gray-200{--border-opacity:1;border-color:#edf2f7;border-color:rgba(237,242,247,var(--border-opacity))}.border-gray-400{--border-opacity:1;border-color:#cbd5e0;border-color:rgba(203,213,224,var(--border-opacity))}.border-t{border-top-width:1px}.border-r{border-right-width:1px}.flex{display:flex}.grid{display:grid}.hidden{display:none}.items-center{align-items:center}.justify-center{justify-content:center}.font-semibold{font-weight:600}.h-5{height:1.25rem}.h-8{height:2rem}.h-16{height:4rem}.text-sm{font-size:.875rem}.text-lg{font-size:1.125rem}.leading-7{line-height:1.75rem}.mx-auto{margin-left:auto;margin-right:auto}.ml-1{margin-left:.25rem}.mt-2{margin-top:.5rem}.mr-2{margin-right:.5rem}.ml-2{margin-left:.5rem}.mt-4{margin-top:1rem}.ml-4{margin-left:1rem}.mt-8{margin-top:2rem}.ml-12{margin-left:3rem}.-mt-px{margin-top:-1px}.max-w-xl{max-width:36rem}.max-w-6xl{max-width:72rem}.min-h-screen{min-height:100vh}.overflow-hidden{overflow:hidden}.p-6{padding:1.5rem}.py-4{padding-top:1rem;padding-bottom:1rem}.px-4{padding-left:1rem;padding-right:1rem}.px-6{padding-left:1.5rem;padding-right:1.5rem}.pt-8{padding-top:2rem}.fixed{position:fixed}.relative{position:relative}.top-0{top:0}.right-0{right:0}.shadow{box-shadow:0 1px 3px 0 rgba(0,0,0,.1),0 1px 2px 0 rgba(0,0,0,.06)}.text-center{text-align:center}.text-gray-200{--text-opacity:1;color:#edf2f7;color:rgba(237,242,247,var(--text-opacity))}.text-gray-300{--text-opacity:1;color:#e2e8f0;color:rgba(226,232,240,var(--text-opacity))}.text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}.text-gray-500{--text-opacity:1;color:#a0aec0;color:rgba(160,174,192,var(--text-opacity))}.text-gray-600{--text-opacity:1;color:#718096;color:rgba(113,128,150,var(--text-opacity))}.text-gray-700{--text-opacity:1;color:#4a5568;color:rgba(74,85,104,var(--text-opacity))}.text-gray-900{--text-opacity:1;color:#1a202c;color:rgba(26,32,44,var(--text-opacity))}.uppercase{text-transform:uppercase}.underline{text-decoration:underline}.antialiased{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.tracking-wider{letter-spacing:.05em}.w-5{width:1.25rem}.w-8{width:2rem}.w-auto{width:auto}.grid-cols-1{grid-template-columns:repeat(1,minmax(0,1fr))}@-webkit-keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@keyframes spin{0%{transform:rotate(0deg)}to{transform:rotate(1turn)}}@-webkit-keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@keyframes ping{0%{transform:scale(1);opacity:1}75%,to{transform:scale(2);opacity:0}}@-webkit-keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@keyframes pulse{0%,to{opacity:1}50%{opacity:.5}}@-webkit-keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@keyframes bounce{0%,to{transform:translateY(-25%);-webkit-animation-timing-function:cubic-bezier(.8,0,1,1);animation-timing-function:cubic-bezier(.8,0,1,1)}50%{transform:translateY(0);-webkit-animation-timing-function:cubic-bezier(0,0,.2,1);animation-timing-function:cubic-bezier(0,0,.2,1)}}@media (min-width:640px){.sm\\:rounded-lg{border-radius:.5rem}.sm\\:block{display:block}.sm\\:items-center{align-items:center}.sm\\:justify-start{justify-content:flex-start}.sm\\:justify-between{justify-content:space-between}.sm\\:h-20{height:5rem}.sm\\:ml-0{margin-left:0}.sm\\:px-6{padding-left:1.5rem;padding-right:1.5rem}.sm\\:pt-0{padding-top:0}.sm\\:text-left{text-align:left}.sm\\:text-right{text-align:right}}@media (min-width:768px){.md\\:border-t-0{border-top-width:0}.md\\:border-l{border-left-width:1px}.md\\:grid-cols-2{grid-template-columns:repeat(2,minmax(0,1fr))}}@media (min-width:1024px){.lg\\:px-8{padding-left:2rem;padding-right:2rem}}@media (prefers-color-scheme:dark){.dark\\:bg-gray-800{--bg-opacity:1;background-color:#2d3748;background-color:rgba(45,55,72,var(--bg-opacity))}.dark\\:bg-gray-900{--bg-opacity:1;background-color:#1a202c;background-color:rgba(26,32,44,var(--bg-opacity))}.dark\\:border-gray-700{--border-opacity:1;border-color:#4a5568;border-color:rgba(74,85,104,var(--border-opacity))}.dark\\:text-white{--text-opacity:1;color:#fff;color:rgba(255,255,255,var(--text-opacity))}.dark\\:text-gray-400{--text-opacity:1;color:#cbd5e0;color:rgba(203,213,224,var(--text-opacity))}}\n </style>\n<style>\n body {\n font-family: \'Nunito\', sans-serif;\n }\n </style>\n</head>\n<body class="antialiased">\n<div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center sm:pt-0">\n<div class="max-w-xl mx-auto sm:px-6 lg:px-8">\n<div class="flex items-center pt-8 sm:justify-start sm:pt-0">\n<div class="px-4 text-lg text-gray-500 border-r border-gray-400 tracking-wider">\n500 </div>\n<div class="ml-4 text-lg text-gray-500 uppercase tracking-wider">\nServer Error </div>\n</div>\n</div>\n</div>\n</body>\n</html>\n'
 
 [nova.live]
 auto_invite  F
