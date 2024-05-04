@@ -5,7 +5,7 @@ email  iiljlyihr185@tmails.net
 last_checkin  2024-05-04 00:37:33.256681+08:00
 name  墙了个墙
 node_n  28
-sub_info  266.4M  888.1G  2024-05-04 14:19:52+08:00  (剩余 887.8G 1:44:05.268760)
+sub_info  266.5M  888.1G  2024-05-04 14:19:52+08:00  (剩余 887.8G 1:06:16.473007)
 sub_url  https://www.qlgq.top/link/813f59737139f9ba?clash=1
 time  2024-05-03 14:19:53.206207+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  wehkstj594@grr.la
 last_checkin  2024-05-04 11:37:03.848425+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  530.2M  1.2G  2024-05-05 11:37:03+08:00  (剩余 698.8M 22:59:13.976544)
+sub_info  797M  1.2G  2024-05-05 11:37:03+08:00  (剩余 432M 22:23:14.364587)
 sub_url  https://network.ayucloud.nl/link/tVnXcO0jcrxHlQ8j?clash=1
 time  2024-05-04 11:37:04.745241+08:00
 type  sspanel
@@ -31,7 +31,7 @@ email  ohvvpjjhl675@gmail.com
 last_checkin  2024-05-04 08:58:26.140835+08:00
 name  Cyanmori
 node_n  40
-sub_info  1.444M  1.458G  2024-05-04 14:58:26+08:00  (剩余 1.457G 2:22:35.580477)
+sub_info  1.757M  1.458G  2024-05-04 14:58:26+08:00  (剩余 1.456G 1:42:46.925354)
 sub_url  https://accd.zhiyin.asia/link/pVAh6aKFuK0EfB8K?clash=1
 time  2024-05-04 08:58:27.933201+08:00
 type  sspanel
@@ -56,6 +56,7 @@ sub_info  61.55M  1G  2024-05-10 04:36:20+08:00  (剩余 962.4M 5 days, 16:00:31
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=d55295bbedd7c2fb6bc1528c2e58c48e
 time  2024-05-03 04:36:21.692151+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
@@ -64,7 +65,7 @@ email  pzcygwgd750@gmail.com
 last_checkin  2024-05-04 12:17:11.350253+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  84.97K  10.1G  2024-05-04 14:17:11+08:00  (剩余 10.1G 1:39:20.550407)
+sub_info  162.6K  10.1G  2024-05-04 14:17:11+08:00  (剩余 10.1G 1:01:36.630476)
 sub_url  https://dy2.dx035.top/link/Kp9VMzYDJzWEJvjQ?sub=3
 time  2024-05-04 12:17:15.289024+08:00
 type  sspanel
@@ -77,12 +78,12 @@ email  cssqinupo17@bccto.cc
 last_checkin  2024-04-20 00:38:09.239076+08:00
 name  bee.sulepay.com
 node_n  3
-sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -13 days, 6:58:14.800748)
+sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -13 days, 6:22:31.143869)
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
 尝试签到失败  {'ret': 0, 'msg': '您的账户已过期，无法签到。'}
-更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"buqrdczjs274@rootsh.com","success":"false"}'
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 200 OK '{"message":"该后缀域名邮箱无法提供服务,请选择其它域名后缀","user":"sdhqupwh418@rootsh.com","success":"false"}'
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -90,12 +91,12 @@ buy  pass
 email  kazcrbqy768@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -14 days, 1:37:30.693725)
+sub_info  0B  1G  2024-04-20 14:17:30+08:00  (剩余 1G -14 days, 1:03:40.784873)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=0c5f7002924612fe628bead7b2eb092d
 time  2024-04-19 14:17:31.201646+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(wjudqle285@bareed.ws): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(rybtbuf805@nm.pe): 邮箱后缀不处于白名单中
 
 [nova.live]
 auto_invite  F
@@ -108,3 +109,4 @@ sub_info  1.439G  4.313G  永不过期  (剩余 2.874G)
 sub_url  https://new.gfw.news/link/tqZ559QaB3mjwvZN?sub=3
 time  2024-03-31 17:36:04.554432+08:00
 type  sspanel
+保存base64/clash订阅失败  _cache_base_clash_config: 获取基本 clash 配置失败: 'NoneType' object is not iterable
