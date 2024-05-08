@@ -5,7 +5,7 @@ email  iusaxdmch902@guerrillamail.org
 last_checkin  2024-05-09 00:40:13.409908+08:00
 name  墙了个墙
 node_n  28
-sub_info  250M  888G  2024-05-09 14:16:03+08:00  (剩余 887.8G 13:35:41.254788)
+sub_info  250M  888G  2024-05-09 14:16:03+08:00  (剩余 887.8G 13:04:38.954298)
 sub_url  https://www.qlgq.top/link/34c9dea6a2446b17?clash=1
 time  2024-05-08 14:16:04.323115+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  awoftei555@zhangjie.studio
 last_checkin  2024-05-09 00:40:13.408949+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  9.867M  1.673G  2024-05-09 08:49:59+08:00  (剩余 1.663G 8:09:38.073466)
+sub_info  9.867M  1.673G  2024-05-09 08:49:59+08:00  (剩余 1.663G 7:38:32.759646)
 sub_url  https://network.ayucloud.nl/link/5tkEJae79vaKyyUw?clash=1
 time  2024-05-08 08:50:01.072037+08:00
 type  sspanel
@@ -27,13 +27,13 @@ type  sspanel
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  zdvrqsz271@gmail.com
-last_checkin  2024-05-09 00:40:13.411062+08:00
+email  wekkbrxyk28@gmail.com
+last_checkin  2024-05-09 01:11:33.539237+08:00
 name  Cyanmori
 node_n  40
-sub_info  1.569M  1.599G  2024-05-09 01:36:12+08:00  (剩余 1.597G 0:55:49.158830)
-sub_url  https://accd.zhiyin.asia/link/kK6RFMzntKAnOYPa?clash=1
-time  2024-05-08 19:36:14.877980+08:00
+sub_info  0B  1.26G  2024-05-09 07:11:33+08:00  (剩余 1.26G 5:59:47.644055)
+sub_url  https://accd.zhiyin.asia/link/kYHgriLiFZgnH5Tx?clash=1
+time  2024-05-09 01:11:35.791960+08:00
 type  sspanel
 
 [biubiufast.com]
@@ -45,14 +45,14 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新旧订阅失败  HTTPSConnectionPool(host='biubiufast.com', port=443): Read timed out. (read timeout=30)
 
 [proxyvip.xyz]
 buy  pass
 email  bzrvpogju474@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  262.9M  1G  2024-05-10 04:36:20+08:00  (剩余 761.1M 1 day, 3:56:03.397384)
+sub_info  299.3M  1G  2024-05-10 04:36:20+08:00  (剩余 724.7M 1 day, 3:24:53.827153)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=d55295bbedd7c2fb6bc1528c2e58c48e
 time  2024-05-03 04:36:21.692151+08:00
 type  v2board
@@ -83,8 +83,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fce14b93130>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fce00ca3280>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6f901e1ae0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6f7c2b1b40>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -92,7 +92,7 @@ buy  pass
 email  gssdiav604@gmail.com
 name  FastFly
 node_n  119
-sub_info  3.644M  1G  2024-05-09 20:25:49+08:00  (剩余 1020M 19:45:28.956880)
+sub_info  3.644M  1G  2024-05-09 20:25:49+08:00  (剩余 1020M 19:14:22.315812)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=d575d09354f97045426619932b83a950
 time  2024-05-08 20:25:49.790766+08:00
 type  v2board
