@@ -5,7 +5,7 @@ email  inkyedsv647@www.nm.pe
 last_checkin  2024-05-09 14:18:41.812670+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-10 14:18:41+08:00  (剩余 888G 15:03:44.708766)
+sub_info  0B  888G  2024-05-10 14:18:41+08:00  (剩余 888G 14:40:44.787141)
 sub_url  https://www.qlgq.top/link/bec60064ce101082?clash=1
 time  2024-05-09 14:18:42.814444+08:00
 type  sspanel
@@ -19,7 +19,7 @@ email  uwzmrhgdc840@adxp.haihantnc.xyz
 last_checkin  2024-05-09 09:09:14.204486+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  232M  1.076G  2024-05-10 09:09:13+08:00  (剩余 870M 9:54:12.282335)
+sub_info  244M  1.076G  2024-05-10 09:09:13+08:00  (剩余 858M 9:31:16.387304)
 sub_url  https://network.ayucloud.nl/link/j8tCsk76bY8r0WCM?clash=1
 time  2024-05-09 09:09:14.977141+08:00
 type  sspanel
@@ -27,13 +27,13 @@ type  sspanel
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  puhlrhn383@gmail.com
-last_checkin  2024-05-09 18:15:48.959512+08:00
+email  hpgcuha233@gmail.com
+last_checkin  2024-05-09 23:40:48.322594+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.31G  2024-05-10 00:15:48+08:00  (剩余 1.31G 1:00:41.153826)
-sub_url  https://accd.zhiyin.asia/link/MDYS5rfsdpGGe1nW?clash=1
-time  2024-05-09 18:15:50.321357+08:00
+sub_info  0B  1.147G  2024-05-10 05:40:48+08:00  (剩余 1.147G 5:59:50.846385)
+sub_url  https://accd.zhiyin.asia/link/TplC9KMU3CR8hooB?clash=1
+time  2024-05-09 23:40:49.507700+08:00
 type  sspanel
 
 [biubiufast.com]
@@ -45,14 +45,14 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'invalid http method')
 
 [proxyvip.xyz]
 buy  pass
 email  bzrvpogju474@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  589M  1G  2024-05-10 04:36:20+08:00  (剩余 435M 5:21:17.012295)
+sub_info  589M  1G  2024-05-10 04:36:20+08:00  (剩余 435M 5:00:24.269660)
 sub_url  https://sub2.proxyvip.top/api/v1/client/subscribe?token=d55295bbedd7c2fb6bc1528c2e58c48e
 time  2024-05-03 04:36:21.692151+08:00
 type  v2board
@@ -83,8 +83,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc414e17e80>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc400d8f610>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fedbafb5d20>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fedb0cea680>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -92,7 +92,7 @@ buy  pass
 email  qcekbti26@gmail.com
 name  FastFly
 node_n  119
-sub_info  0B  1G  2024-05-10 20:24:28+08:00  (剩余 1G 21:09:28.618466)
+sub_info  0B  1G  2024-05-10 20:24:28+08:00  (剩余 1G 20:48:09.401277)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=d04f184085cbc495adf5697ca495d116
 time  2024-05-09 20:24:28.873571+08:00
 type  v2board
