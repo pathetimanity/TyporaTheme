@@ -2,13 +2,13 @@
 auto_invite  F
 banned_domains  psnator.com
 buy  pass
-email  qvdxion141@xxxhi.cc
-last_checkin  2024-05-12 00:36:22.447041+08:00
+email  tgvtlrfb409@yzm.de
+last_checkin  2024-05-12 14:17:57.273638+08:00
 name  墙了个墙
 node_n  28
-sub_info  19.59K  888G  2024-05-12 14:16:40+08:00  (剩余 888G 0:39:05.617925)
-sub_url  https://www.qlgq.top/link/811e7689ca297a22?clash=1
-time  2024-05-11 14:16:41.779224+08:00
+sub_info  0B  888G  2024-05-13 14:17:57+08:00  (剩余 888G 23:57:55.126001)
+sub_url  https://www.qlgq.top/link/8e79a0cd90e1d142?clash=1
+time  2024-05-12 14:17:58.833627+08:00
 type  sspanel
 
 [ayucloud.services]
@@ -20,7 +20,7 @@ email  eqhpwdb609@mail.wvwvw.tech
 last_checkin  2024-05-12 11:37:08.615892+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  0B  1.124G  2024-05-13 11:37:08+08:00  (剩余 1.124G 22:01:26.020663)
+sub_info  0B  1.124G  2024-05-13 11:37:08+08:00  (剩余 1.124G 21:19:05.646137)
 sub_url  https://network.ayucloud.nl/link/7T8heRxPihf5X0X4?clash=1
 time  2024-05-12 11:37:09.513027+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  iuygqzwg70@gmail.com
 last_checkin  2024-05-12 13:13:30.307169+08:00
 name  Cyanmori
 node_n  40
-sub_info  680.7K  1.168G  2024-05-12 19:13:30+08:00  (剩余 1.167G 5:37:51.766048)
+sub_info  1.209M  1.168G  2024-05-12 19:13:30+08:00  (剩余 1.167G 4:55:42.393183)
 sub_url  https://accd.zhiyin.asia/link/HJuN1IC7235vNFUX?clash=1
 time  2024-05-12 13:13:31.860352+08:00
 type  sspanel
@@ -53,7 +53,7 @@ buy  pass
 email  bvzrhlohz382@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  117.9M  1G  2024-05-17 04:13:28+08:00  (剩余 906.1M 4 days, 14:37:53.808677)
+sub_info  117.9M  1G  2024-05-17 04:13:28+08:00  (剩余 906.1M 4 days, 13:55:43.703408)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=1e00ca9c052e60ff920873e630538fe5
 time  2024-05-10 04:13:29.493460+08:00
 type  v2board
@@ -61,13 +61,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  rngqxpw286@gmail.com
-last_checkin  2024-05-12 13:35:31.143835+08:00
+email  ytofkrjw541@gmail.com
+last_checkin  2024-05-12 14:17:42.425102+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-05-11 14:03:33+08:00  (剩余 10.12G -1 day, 0:27:56.401888)
-sub_url  https://dy2.dx035.top/link/qKzIuIZdP0rWzl1S?sub=3
-time  2024-05-12 13:35:34.675594+08:00
+sub_info  0B  10.11G  2024-05-11 14:49:16+08:00  (剩余 10.11G -1 day, 0:29:24.080067)
+sub_url  https://dy2.dx035.top/link/10euROQtF0XpQ5c7?sub=3
+time  2024-05-12 14:17:46.570204+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -82,8 +82,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f271010cee0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2708e53490>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcb18a04d00>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcb181fb340>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -91,7 +91,7 @@ buy  pass
 email  fwnukvfr547@gmail.com
 name  FastFly
 node_n  42
-sub_info  53.51M  1G  2024-05-12 20:23:21+08:00  (剩余 970.5M 6:47:43.079539)
+sub_info  53.51M  1G  2024-05-12 20:23:21+08:00  (剩余 970.5M 6:05:33.289827)
 sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=41761820291d7103ce5e65eeeee29cd6
 time  2024-05-11 20:23:21.567550+08:00
 type  v2board
