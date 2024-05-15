@@ -6,7 +6,7 @@ email  rsiunqh736@guerrillamail.biz
 last_checkin  2024-05-15 14:18:23.192829+08:00
 name  墙了个墙
 node_n  28
-sub_info  0B  888G  2024-05-16 14:18:23+08:00  (剩余 888G 23:40:58.061579)
+sub_info  0B  888G  2024-05-16 14:18:23+08:00  (剩余 888G 23:04:52.408657)
 sub_url  https://www.qlgq.top/link/5e45e6addba6889b?clash=1
 time  2024-05-15 14:18:24.627459+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  tkkkvcmgc279@dijingka.com
 last_checkin  2024-05-15 00:39:53.026762+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  403.6M  1.739G  2024-05-15 17:15:02+08:00  (剩余 1.345G 2:36:47.079106)
+sub_info  403.7M  1.739G  2024-05-15 17:15:02+08:00  (剩余 1.345G 2:01:31.309553)
 sub_url  https://network.ayucloud.nl/link/BOqj4GIcs0MSPy4Y?clash=1
 time  2024-05-14 17:15:03.982948+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  bxbrcalau336@gmail.com
 last_checkin  2024-05-15 14:37:33.982450+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.255G  2024-05-15 20:37:33+08:00  (剩余 1.255G 5:59:55.018970)
+sub_info  0B  1.255G  2024-05-15 20:37:33+08:00  (剩余 1.255G 5:23:58.423636)
 sub_url  https://accd.zhiyin.asia/link/kdJdwDTsxJieajIf?clash=1
 time  2024-05-15 14:37:35.295477+08:00
 type  sspanel
@@ -53,22 +53,21 @@ buy  pass
 email  bvzrhlohz382@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  234.6M  1G  2024-05-17 04:13:28+08:00  (剩余 789.4M 1 day, 13:55:19.957257)
+sub_info  234.6M  1G  2024-05-17 04:13:28+08:00  (剩余 789.4M 1 day, 12:59:56.875387)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=1e00ca9c052e60ff920873e630538fe5
 time  2024-05-10 04:13:29.493460+08:00
 type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  aukoghydi323@gmail.com
-last_checkin  2024-05-15 14:39:32.674439+08:00
+email  easxbrvd196@gmail.com
+last_checkin  2024-05-15 15:13:30.509068+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-05-14 21:12:55+08:00  (剩余 10.14G -1 day, 6:33:00.120583)
-sub_url  https://dy2.dx035.top/link/iX38rPoKfyxcdf0l?sub=3
-time  2024-05-15 14:39:36.305315+08:00
+sub_info  0B  10.11G  2024-05-14 21:49:43+08:00  (剩余 10.11G -1 day, 6:36:06.512591)
+sub_url  https://dy2.dx035.top/link/NsvWLe6Xo7IwhySh?sub=3
+time  2024-05-15 15:13:34.173822+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -83,8 +82,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6245f18eb0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6245c978e0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4b65017fa0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4b64eaada0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -97,7 +96,7 @@ sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=d3c96dad9c
 time  2024-05-15 07:36:51.082893+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(hkzgfqw961@tmpmail.org): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(rtnizcz408@dijingka.com): 邮箱后缀不处于白名单中
 
 [nova.live]
 auto_invite  F
