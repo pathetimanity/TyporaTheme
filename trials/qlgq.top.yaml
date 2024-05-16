@@ -40,6 +40,9 @@ proxy-groups:
   - 🇭🇰 香港 108 - 墙了个墙
   - 🇭🇰 香港 109 - 墙了个墙
   - 🇭🇰 香港 110 - 墙了个墙
+  - 🇲🇾 马来西亚 001 - 墙了个墙
+  - 🇲🇾 马来西亚 002 - 墙了个墙
+  - 🇲🇾 马来西亚 003 - 墙了个墙
 - name: ♻️ 自动选择
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -78,6 +81,9 @@ proxies:
 - {name: 🇭🇰 香港 108 - 墙了个墙, server: hkvip104.qlgq.fun, port: 31116, type: trojan, password: 3d695f92-1c29-3f71-a1e7-77da0a7fef6c, sni: hkvip104.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip104}, udp: true}
 - {name: 🇭🇰 香港 109 - 墙了个墙, server: hkvip105.qlgq.fun, port: 41116, type: trojan, password: 3d695f92-1c29-3f71-a1e7-77da0a7fef6c, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
 - {name: 🇭🇰 香港 110 - 墙了个墙, server: hkvip105.qlgq.fun, port: 51116, type: trojan, password: 3d695f92-1c29-3f71-a1e7-77da0a7fef6c, sni: hkvip105.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: hkvip105}, udp: true}
+- {name: 🇲🇾 马来西亚 001 - 墙了个墙, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: 3d695f92-1c29-3f71-a1e7-77da0a7fef6c, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 002 - 墙了个墙, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: 3d695f92-1c29-3f71-a1e7-77da0a7fef6c, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇲🇾 马来西亚 003 - 墙了个墙, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: 3d695f92-1c29-3f71-a1e7-77da0a7fef6c, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
