@@ -6,7 +6,7 @@ email  pfrfaigej711@disbox.net
 last_checkin  2024-05-17 13:38:31.108793+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-05-18 13:38:30+08:00  (剩余 888G 21:02:09.252191)
+sub_info  0B  888G  2024-05-18 13:38:30+08:00  (剩余 888G 20:23:07.757549)
 sub_url  https://www.qlgq.top/link/85e9a2e2ff654744?clash=1
 time  2024-05-17 13:38:32.087250+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  uchrguid320@youxiang.dev
 last_checkin  2024-05-17 00:37:39.832373+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  753.9M  1.668G  2024-05-17 18:14:35+08:00  (剩余 954.1M 1:38:16.650136)
+sub_info  824.6M  1.668G  2024-05-17 18:14:35+08:00  (剩余 883.4M 0:59:05.978728)
 sub_url  https://network.ayucloud.nl/link/wQOggAfHCezEGZUh?clash=1
 time  2024-05-16 18:14:37.048450+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  vzlfgonn82@gmail.com
 last_checkin  2024-05-17 14:37:55.619621+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.179G  2024-05-17 20:37:55+08:00  (剩余 1.179G 4:01:26.403092)
+sub_info  202.7K  1.179G  2024-05-17 20:37:55+08:00  (剩余 1.179G 3:20:29.196345)
 sub_url  https://accd.zhiyin.asia/link/XdHm9V8CEO5AzhQs?clash=1
 time  2024-05-17 14:37:57.178112+08:00
 type  sspanel
@@ -53,22 +53,21 @@ buy  pass
 email  ejsytksnj454@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  44.71M  1G  2024-05-18 03:35:33+08:00  (剩余 979.3M 11:18:17.236064)
+sub_info  47.5M  1G  2024-05-18 03:35:33+08:00  (剩余 976.5M 10:18:08.452928)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=09da8fb2d30fa5aae0e0a5e0cdbfde6a
 time  2024-05-17 03:35:34.348728+08:00
 type  v2board
-更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  zgxltmif442@gmail.com
-last_checkin  2024-05-17 16:37:31.336640+08:00
+email  qtjoele522@gmail.com
+last_checkin  2024-05-17 17:15:19.947598+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-17 03:20:44+08:00  (剩余 10.1G -1 day, 10:43:07.977814)
-sub_url  https://dy2.dx035.top/link/pzm5xaVyolWFSdUK?sub=3
-time  2024-05-17 16:37:35.058666+08:00
+sub_info  0B  10.14G  2024-05-17 04:01:41+08:00  (剩余 10.14G -1 day, 10:46:15.774289)
+sub_url  https://dy2.dx035.top/link/5oJ5wPF52dIHn7RY?sub=3
+time  2024-05-17 17:15:23.757338+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -83,8 +82,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa0cda14f40>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa0c4955120>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6f49f184f0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6f4845d510>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -92,7 +91,7 @@ buy  pass
 email  gokqnkd52@gmail.com
 name  FastFly
 node_n  62
-sub_info  0B  1G  2024-05-18 00:36:22+08:00  (剩余 1G 7:59:08.263350)
+sub_info  0B  1G  2024-05-18 00:36:22+08:00  (剩余 1G 7:21:00.913666)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=3af047cc05695f15e09884626c6278b4
 time  2024-05-17 16:36:23.481457+08:00
 type  v2board
