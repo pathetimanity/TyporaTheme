@@ -6,7 +6,7 @@ email  zguftcs245@jkb.tmmad.com
 last_checkin  2024-05-19 00:36:09.509102+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-05-19 13:15:28+08:00  (剩余 888G 3:01:56.906031)
+sub_info  0B  888G  2024-05-19 13:15:28+08:00  (剩余 888G 2:30:41.120928)
 sub_url  https://www.qlgq.top/link/bb34cc047661599c?clash=1
 time  2024-05-18 13:15:29.092557+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  dmahempt350@mynanaimohomes.com
 last_checkin  2024-05-19 00:36:09.507531+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  291.7M  1.854G  2024-05-19 14:17:15+08:00  (剩余 1.57G 4:05:44.044841)
+sub_info  299.3M  1.854G  2024-05-19 14:17:15+08:00  (剩余 1.562G 3:32:27.217168)
 sub_url  https://network.ayucloud.nl/link/VmrawZzrJpytUlpF?clash=1
 time  2024-05-18 14:17:16.562128+08:00
 type  sspanel
@@ -32,10 +32,11 @@ email  zrdihbpl335@gmail.com
 last_checkin  2024-05-19 09:05:03.115033+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.385G  2024-05-19 15:05:02+08:00  (剩余 1.385G 4:53:28.139466)
+sub_info  0B  1.385G  2024-05-19 15:05:02+08:00  (剩余 1.385G 4:22:17.444109)
 sub_url  https://accd.zhiyin.asia/link/D5isQIm18DEw3new?clash=1
 time  2024-05-19 09:05:05.079601+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [biubiufast.com]
 buy  pass
@@ -53,7 +54,7 @@ buy  pass
 email  dqsuzibp982@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  76.29K  1G  2024-05-20 03:09:55+08:00  (剩余 1024M 16:58:26.233459)
+sub_info  76.29K  1G  2024-05-20 03:09:55+08:00  (剩余 1024M 16:27:14.113364)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=8c100eb5e7f20505fc1346c075e46b51
 time  2024-05-19 03:09:55.759619+08:00
 type  v2board
@@ -61,13 +62,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  bvyxcudm951@gmail.com
-last_checkin  2024-05-19 10:11:30.987658+08:00
+email  fagulsrqz190@gmail.com
+last_checkin  2024-05-19 10:42:43.549413+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-05-19 00:22:33+08:00  (剩余 10.1G -1 day, 14:10:55.890454)
-sub_url  https://dy2.dx035.top/link/3Wuq4bkcUi8d89Rm?sub=3
-time  2024-05-19 10:11:35.556370+08:00
+sub_info  0B  10.1G  2024-05-19 00:56:22+08:00  (剩余 10.1G -1 day, 14:11:30.587264)
+sub_url  https://dy2.dx035.top/link/ZtUn4tI7Rg2yRXwN?sub=3
+time  2024-05-19 10:42:46.865382+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -82,8 +83,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcf91920be0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcf88832b00>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdcc9414ca0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdcc4b013c0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -91,7 +92,7 @@ buy  pass
 email  qvzlkeibc627@gmail.com
 name  FastFly
 node_n  62
-sub_info  223.6K  1G  2024-05-19 14:11:48+08:00  (剩余 1024M 4:00:18.092116)
+sub_info  223.6K  1G  2024-05-19 14:11:48+08:00  (剩余 1024M 3:28:59.195655)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=a2f9e9fc2801cafb71b4853f02c5e278
 time  2024-05-19 06:11:49.135669+08:00
 type  v2board
