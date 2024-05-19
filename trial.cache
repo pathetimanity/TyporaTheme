@@ -6,7 +6,7 @@ email  ezmdoee391@snapmail.cc
 last_checkin  2024-05-19 12:37:40.889598+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-05-20 12:37:40+08:00  (剩余 888G 23:01:27.777650)
+sub_info  0B  888G  2024-05-20 12:37:40+08:00  (剩余 888G 22:20:40.088614)
 sub_url  https://www.qlgq.top/link/c03781da4f8adf92?clash=1
 time  2024-05-19 12:37:41.831278+08:00
 type  sspanel
@@ -24,6 +24,9 @@ sub_info  736.8M  1.854G  2024-05-19 14:17:15+08:00  (剩余 1.135G 0:41:02.6999
 sub_url  https://network.ayucloud.nl/link/VmrawZzrJpytUlpF?clash=1
 time  2024-05-18 14:17:16.562128+08:00
 type  sspanel
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(jxhigbff870@bareed.ws): 邮箱后缀已被拉黑
 
 [cyanmori.com]
 auto_invite  F
@@ -32,7 +35,7 @@ email  zrdihbpl335@gmail.com
 last_checkin  2024-05-19 09:05:03.115033+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.385G  2024-05-19 15:05:02+08:00  (剩余 1.385G 1:28:44.854336)
+sub_info  0B  1.385G  2024-05-19 15:05:02+08:00  (剩余 1.385G 0:47:58.531608)
 sub_url  https://accd.zhiyin.asia/link/D5isQIm18DEw3new?clash=1
 time  2024-05-19 09:05:05.079601+08:00
 type  sspanel
@@ -53,7 +56,7 @@ buy  pass
 email  dqsuzibp982@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  76.29K  1G  2024-05-20 03:09:55+08:00  (剩余 1024M 13:33:40.037723)
+sub_info  76.29K  1G  2024-05-20 03:09:55+08:00  (剩余 1024M 12:52:54.406103)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=8c100eb5e7f20505fc1346c075e46b51
 time  2024-05-19 03:09:55.759619+08:00
 type  v2board
@@ -61,13 +64,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  cslophi864@gmail.com
-last_checkin  2024-05-19 13:36:17.568298+08:00
+email  hvkwxhrwp911@gmail.com
+last_checkin  2024-05-19 14:16:58.151855+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-05-19 04:04:24+08:00  (剩余 10.14G -1 day, 14:27:55.217001)
-sub_url  https://dy2.dx035.top/link/izAQsl7VfYezoHHe?sub=3
-time  2024-05-19 13:36:26.768765+08:00
+sub_info  0B  10.1G  2024-05-19 04:48:28+08:00  (剩余 10.1G -1 day, 14:31:23.872566)
+sub_url  https://dy2.dx035.top/link/985XJsRHB48F6mPO?sub=3
+time  2024-05-19 14:17:01.734286+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -82,8 +85,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbbc22c1000>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbbc046f250>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f642a0b0250>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f642839f4f0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -91,7 +94,7 @@ buy  pass
 email  arprbnv203@gmail.com
 name  FastFly
 node_n  62
-sub_info  0B  1G  2024-05-19 21:40:16+08:00  (剩余 1G 7:59:57.118435)
+sub_info  0B  1G  2024-05-19 21:40:16+08:00  (剩余 1G 7:20:37.003652)
 sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=645051b53e0f7370d9b221133f8e4c9e
 time  2024-05-19 13:40:16.810860+08:00
 type  v2board
@@ -103,7 +106,7 @@ email  vhtcqjak504@wj1.haihantnc.xyz
 last_checkin  2024-05-19 00:36:09.515080+08:00
 name  NovaLive
 node_n  5
-sub_info  2.063G  6.337G  永不过期  (剩余 4.274G)
+sub_info  2.067G  6.337G  永不过期  (剩余 4.27G)
 sub_url  https://new.gfw.news/link/tqZ559QaB3mjwvZN?sub=3
 time  2024-03-31 17:36:04.554432+08:00
 type  sspanel
