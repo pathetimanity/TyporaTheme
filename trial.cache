@@ -6,7 +6,7 @@ email  ppsgikyex214@ww.nm.pe
 last_checkin  2024-05-21 12:16:07.566634+08:00
 name  墙了个墙
 node_n  34
-sub_info  0B  888G  2024-05-22 12:16:07+08:00  (剩余 888G 16:39:18.312251)
+sub_info  0B  888G  2024-05-22 12:16:07+08:00  (剩余 888G 15:50:15.611671)
 sub_url  https://www.qlgq.top/link/ff121b9aa3dee9f9?clash=1
 time  2024-05-21 12:16:08.444182+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  icyjilmx139@snapmail.cc
 last_checkin  2024-05-21 18:36:33.490394+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  0B  1.075G  2024-05-22 18:36:33+08:00  (剩余 1.075G 22:59:43.030030)
+sub_info  511.4K  1.075G  2024-05-22 18:36:33+08:00  (剩余 1.075G 22:10:29.099983)
 sub_url  https://network.ayucloud.nl/link/2OBYvsjQvGXgz35c?clash=1
 time  2024-05-21 18:36:34.442019+08:00
 type  sspanel
@@ -28,13 +28,13 @@ type  sspanel
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  scaqavsvh480@gmail.com
-last_checkin  2024-05-21 14:38:48.859253+08:00
+email  gzonfoznw117@gmail.com
+last_checkin  2024-05-21 20:26:06.104548+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  1.443G  2024-05-21 20:38:48+08:00  (剩余 1.443G 0:59:19.176705)
-sub_url  https://accd.zhiyin.asia/link/MNTaAkEPJJSpdxHQ?clash=1
-time  2024-05-21 14:38:50.493577+08:00
+sub_info  0B  1.378G  2024-05-22 02:26:05+08:00  (剩余 1.378G 5:59:50.192466)
+sub_url  https://accd.zhiyin.asia/link/KjSndDjzgBaEMXnn?clash=1
+time  2024-05-21 20:26:07.551938+08:00
 type  sspanel
 
 [biubiufast.com]
@@ -46,14 +46,14 @@ sub_info  0B  1G  2024-04-12 14:16:52+08:00  (剩余 1G 3:02:17.589714)
 sub_url  https://biubiufast.com/api/v1/client/subscribe?token=e54817019d8b2041edbbc5e15c567762
 time  2024-04-11 14:16:52.669934+08:00
 type  v2board
-更新旧订阅失败  HTTPSConnectionPool(host='biubiufast.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '')
 
 [proxyvip.xyz]
 buy  pass
 email  vbwecdmm730@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  507.7M  1G  2024-05-22 02:37:10+08:00  (剩余 516.3M 6:58:21.504452)
+sub_info  507.7M  1G  2024-05-22 02:37:10+08:00  (剩余 516.3M 6:11:17.374862)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=d3c2bd4031de6d31eebe39da5f343dfb
 time  2024-05-21 02:37:11.394218+08:00
 type  v2board
@@ -61,13 +61,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  weoltfsv919@gmail.com
-last_checkin  2024-05-21 19:36:50.398408+08:00
+email  ffjqmgki435@gmail.com
+last_checkin  2024-05-21 20:25:51.096901+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-05-21 14:34:59+08:00  (剩余 10.13G -1 day, 18:57:58.732287)
-sub_url  https://dy2.dx035.top/link/2xfPKkzwX3qFB2qr?sub=3
-time  2024-05-21 19:36:54.474176+08:00
+sub_info  0B  10.14G  2024-05-21 15:28:05+08:00  (剩余 10.14G -1 day, 19:02:07.589885)
+sub_url  https://dy2.dx035.top/link/I0vSlNtU11TtJp1U?sub=3
+time  2024-05-21 20:25:54.563348+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -82,18 +82,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://43.154.249.237/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdd1e5a5060>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fdd1cd7d660>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6474514ee0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f64745c4250>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  fbfnaxrbq746@gmail.com
+email  xmjunmp501@gmail.com
 name  FastFly
 node_n  59
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=cfe83e3676147b7b94053eccb5a32418
-time  2024-05-21 19:37:02.261387+08:00
+sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=b3ede8c2aa2030c4f4f596482cd741df
+time  2024-05-21 20:29:22.114127+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -104,7 +104,7 @@ email  vhtcqjak504@wj1.haihantnc.xyz
 last_checkin  2024-05-21 00:39:01.020229+08:00
 name  NovaLive
 node_n  5
-sub_info  2.376G  6.576G  永不过期  (剩余 4.201G)
+sub_info  2.376G  6.576G  永不过期  (剩余 4.2G)
 sub_url  https://new.gfw.news/link/tqZ559QaB3mjwvZN?sub=3
 time  2024-03-31 17:36:04.554432+08:00
 type  sspanel
