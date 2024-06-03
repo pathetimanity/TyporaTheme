@@ -6,7 +6,7 @@ email  jbplukl551@lplso.tmmad.com
 last_checkin  2024-06-04 00:39:22.768993+08:00
 name  墙了个墙
 node_n  34
-sub_info  5.13G  888G  2024-06-04 10:12:32+08:00  (剩余 882.9G 7:00:02.423898)
+sub_info  5.134G  888G  2024-06-04 10:12:32+08:00  (剩余 882.9G 6:35:54.831040)
 sub_url  https://www.qlgq.top/link/7746f6ef86240374?clash=1
 time  2024-06-03 10:12:33.484418+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  oyinhkfq74@wj32.haihantnc.xyz
 last_checkin  2024-06-04 00:39:22.767917+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  37.47M  1.702G  2024-06-04 12:18:55+08:00  (剩余 1.666G 9:06:23.721862)
+sub_info  37.8M  1.702G  2024-06-04 12:18:55+08:00  (剩余 1.665G 8:42:13.894744)
 sub_url  https://network.ayucloud.nl/link/eXJzh6tzPJ3Kwp5P?clash=1
 time  2024-06-03 12:18:56.486931+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  mcekvdor271@gmail.com
 last_checkin  2024-06-04 02:19:21.796374+08:00
 name  Cyanmori
 node_n  40
-sub_info  77.82K  1.474G  2024-06-04 08:19:21+08:00  (剩余 1.474G 5:06:48.916402)
+sub_info  135.6K  1.474G  2024-06-04 08:19:21+08:00  (剩余 1.474G 4:42:09.433404)
 sub_url  https://accd.vo0.site/link/pyjc8iTppoZQBsz2?clash=1
 time  2024-06-04 02:19:23.498006+08:00
 type  sspanel
@@ -57,6 +57,7 @@ sub_info  2.276M  1G  2024-06-04 11:36:33+08:00  (剩余 1022M 8:24:16.451626)
 sub_url  https://sub3.proxyvip.top/api/v1/client/subscribe?token=4c6e8727885f4d07e788868e016914e4
 time  2024-06-03 11:36:34.389143+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
@@ -65,7 +66,7 @@ email  iyqnskzwq479@gmail.com
 last_checkin  2024-06-04 02:39:17.346677+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  14.22K  10.11G  2024-06-04 04:39:17+08:00  (剩余 10.11G 1:26:47.464652)
+sub_info  39.13K  10.11G  2024-06-04 04:39:17+08:00  (剩余 10.11G 1:02:39.368577)
 sub_url  https://dy2.dx035.top/link/EiOgmSII4Eool9wG?sub=3
 time  2024-06-04 02:39:21.795894+08:00
 type  sspanel
@@ -82,18 +83,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f039c8f3760>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f039815d300>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5100017ee0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f50ec2cabf0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  gwiqwdj488@gmail.com
+email  qbxcbtb552@gmail.com
 name  FastFly
 node_n  59
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=788066d25abbcdd2cd43801584e2ef68
-time  2024-06-04 03:12:23.020670+08:00
+sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=cc8a6563ba066ae6a59cbedaf34662bb
+time  2024-06-04 03:37:10.604066+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -104,7 +105,7 @@ email  vhtcqjak504@wj1.haihantnc.xyz
 last_checkin  2024-06-04 00:39:22.776227+08:00
 name  NovaLive
 node_n  5
-sub_info  4.501G  7.761G  永不过期  (剩余 3.259G)
+sub_info  4.502G  7.761G  永不过期  (剩余 3.259G)
 sub_url  https://new.gfw.news/link/tqZ559QaB3mjwvZN?sub=3
 time  2024-03-31 17:36:04.554432+08:00
 type  sspanel
