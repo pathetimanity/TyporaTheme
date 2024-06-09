@@ -6,7 +6,7 @@ email  grlauzpjc442@moakt.co
 last_checkin  2024-06-10 00:37:10.983872+08:00
 name  墙了个墙
 node_n  34
-sub_info  9.523G  888G  2024-06-10 10:22:32+08:00  (剩余 878.5G 3:46:48.405383)
+sub_info  9.614G  888G  2024-06-10 10:22:32+08:00  (剩余 878.4G 3:08:48.617721)
 sub_url  https://www.qlgq.top/link/418998043716dcfa?clash=1
 time  2024-06-09 10:22:33.871536+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  iqwdcezq580@965.tmmad.com
 last_checkin  2024-06-10 00:37:10.982840+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  844.3M  1.854G  2024-06-10 20:25:38+08:00  (剩余 1.029G 13:49:50.648071)
+sub_info  859.5M  1.854G  2024-06-10 20:25:38+08:00  (剩余 1.014G 13:11:52.543095)
 sub_url  https://network.ayucloud.nl/link/fcBDTYYEpvzLN1NC?clash=1
 time  2024-06-09 20:25:40.081533+08:00
 type  sspanel
@@ -28,13 +28,13 @@ type  sspanel
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  ledqlbhx468@gmail.com
-last_checkin  2024-06-10 06:13:14.447792+08:00
+email  wdclize886@gmail.com
+last_checkin  2024-06-10 07:13:52.903578+08:00
 name  Cyanmori
 node_n  40
-sub_info  282.6K  414M  2024-06-10 12:13:14+08:00  (剩余 413.7M 5:37:25.532470)
-sub_url  https://accd.vo0.site/link/oN3GZ1yWggoiEXVW?clash=1
-time  2024-06-10 06:13:16.967153+08:00
+sub_info  0B  414M  2024-06-10 13:13:52+08:00  (剩余 414M 5:59:52.579837)
+sub_url  https://accd.vo0.site/link/71u0ceRTQDmHj9hX?clash=1
+time  2024-06-10 07:13:54.465784+08:00
 type  sspanel
 
 [biubiufast.com]
@@ -53,7 +53,7 @@ buy  pass
 email  iursmrgfw212@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  144.4M  1G  2024-06-10 08:00:17+08:00  (剩余 879.6M 1:24:33.312197)
+sub_info  202.9M  1G  2024-06-10 08:00:17+08:00  (剩余 821.1M 0:46:29.042903)
 sub_url  https://sub1.proxyvip.de/api/v1/client/subscribe?token=054f785ebc005f4d834b09ef6f260ab7
 time  2024-06-10 00:16:27.821117+08:00
 type  v2board
@@ -61,13 +61,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  eabpiwae625@gmail.com
-last_checkin  2024-06-10 06:35:46.225033+08:00
+email  rbhyywewn860@gmail.com
+last_checkin  2024-06-10 07:13:42.882683+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-06-09 18:15:01+08:00  (剩余 10.12G -1 day, 11:39:05.077464)
-sub_url  https://dy2.dx035.top/link/IoLW1LyymiuncmpY?sub=3
-time  2024-06-10 06:35:50.941237+08:00
+sub_info  0B  10.1G  2024-06-09 18:56:07+08:00  (剩余 10.1G -1 day, 11:42:17.051759)
+sub_url  https://dy2.dx035.top/link/Eykf7DaQZWEUfi9p?sub=3
+time  2024-06-10 07:13:46.994302+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -82,18 +82,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f77a7feb7c0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f77a424d0c0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5ff8119c90>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f5ff4b2bca0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  ldkqftw954@gmail.com
+email  ldyapcoha786@gmail.com
 name  FastFly
 node_n  59
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=bd1b7a853703bb18e12adeccf05026f7
-time  2024-06-10 06:35:52.465804+08:00
+sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=8ac71a551221cd1ae347acd332dc7fe6
+time  2024-06-10 07:13:45.123811+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
@@ -104,7 +104,7 @@ email  vhtcqjak504@wj1.haihantnc.xyz
 last_checkin  2024-06-10 00:37:10.989411+08:00
 name  NovaLive
 node_n  5
-sub_info  4.522G  8.272G  永不过期  (剩余 3.751G)
+sub_info  4.53G  8.272G  永不过期  (剩余 3.742G)
 sub_url  https://nova.live/link/tqZ559QaB3mjwvZN?sub=3
 time  2024-03-31 17:36:04.554432+08:00
 type  sspanel
