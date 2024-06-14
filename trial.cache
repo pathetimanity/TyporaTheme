@@ -6,7 +6,7 @@ email  ozilzayb698@tmpnator.live
 last_checkin  2024-06-14 10:13:14.352146+08:00
 name  墙了个墙
 node_n  34
-sub_info  985.5M  888G  2024-06-15 10:13:14+08:00  (剩余 887.1G 16:37:30.641967)
+sub_info  1001M  888G  2024-06-15 10:13:14+08:00  (剩余 887.1G 15:58:53.493944)
 sub_url  https://www.qlgq.top/link/2e663afd0580ec56?clash=1
 time  2024-06-14 10:13:15.086545+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  gyubskimc511@mydefipet.live
 last_checkin  2024-06-14 15:36:36.413389+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  554.6M  1.117G  2024-06-15 15:36:36+08:00  (剩余 589.4M 22:00:45.670269)
+sub_info  565.3M  1.117G  2024-06-15 15:36:36+08:00  (剩余 578.7M 21:22:09.593741)
 sub_url  https://network.ayucloud.nl/link/9dL9z0F140hQddye?clash=1
 time  2024-06-14 15:36:37.306070+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  lpjezimxt218@gmail.com
 last_checkin  2024-06-14 14:39:49.095806+08:00
 name  Cyanmori
 node_n  40
-sub_info  780.4K  401M  2024-06-14 20:39:48+08:00  (剩余 400.2M 3:04:04.038869)
+sub_info  1.043M  401M  2024-06-14 20:39:48+08:00  (剩余 400M 2:25:22.976589)
 sub_url  https://accd.vo0.site/link/7c0UdpkCUK4A9qSD?clash=1
 time  2024-06-14 14:39:50.817372+08:00
 type  sspanel
@@ -53,7 +53,7 @@ buy  pass
 email  burozyjih990@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  1.121M  1G  2024-06-15 07:14:09+08:00  (剩余 1023M 13:38:27.308326)
+sub_info  1.33M  1G  2024-06-15 07:14:09+08:00  (剩余 1023M 12:59:48.461236)
 sub_url  https://sub1.proxyvip.de/api/v1/client/subscribe?token=7e44c2b3fe3156d7ab44a2543da432ce
 time  2024-06-14 14:20:01.966200+08:00
 type  v2board
@@ -61,13 +61,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  zvoeguf798@gmail.com
-last_checkin  2024-06-14 17:35:41.530838+08:00
+email  fvshofbip289@gmail.com
+last_checkin  2024-06-14 18:14:21.118688+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.14G  2024-06-14 14:09:56+08:00  (剩余 10.14G -1 day, 20:34:06.357345)
-sub_url  https://dy2.dx035.top/link/UaIPE5z0yeOQ3EkK?sub=3
-time  2024-06-14 17:35:46.107873+08:00
+sub_info  0B  10.14G  2024-06-14 14:51:49+08:00  (剩余 10.14G -1 day, 20:37:20.708690)
+sub_url  https://dy2.dx035.top/link/bnlznAfrFUNN7qoT?sub=3
+time  2024-06-14 18:14:26.860440+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -82,8 +82,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f64bda810f0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f64b4f53010>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbb8eba8d60>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbb84750ca0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -96,6 +96,7 @@ sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=794b97a333
 time  2024-06-14 17:35:48.469843+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
+更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [nova.live]
 auto_invite  F
