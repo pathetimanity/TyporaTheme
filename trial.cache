@@ -6,7 +6,7 @@ email  cengrpmr400@tmpeml.com
 last_checkin  2024-06-17 00:38:18.704595+08:00
 name  墙了个墙
 node_n  34
-sub_info  794M  888G  2024-06-17 10:22:43+08:00  (剩余 887.3G 9:11:12.340898)
+sub_info  794.1M  888G  2024-06-17 10:22:43+08:00  (剩余 887.3G 8:47:14.733344)
 sub_url  https://www.qlgq.top/link/74999953b68305e1?clash=1
 time  2024-06-16 10:22:44.712437+08:00
 type  sspanel
@@ -16,13 +16,13 @@ auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com
 buy  pass
-email  glbtomg933@wfes.site
-last_checkin  2024-06-17 00:38:18.703466+08:00
+email  lxkueqk913@guerrillamail.biz
+last_checkin  2024-06-17 01:35:58.274131+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  1.244G  1.641G  2024-06-17 15:14:15+08:00  (剩余 406.6M 14:02:32.951759)
-sub_url  https://network.ayucloud.nl/link/rY6TMJRJHvE7mXRP?clash=1
-time  2024-06-16 15:14:16.779848+08:00
+sub_info  0B  1.058G  2024-06-18 01:35:57+08:00  (剩余 1.058G 23:59:55.067752)
+sub_url  https://network.ayucloud.nl/link/BmXBfVDkwpqA63FW?clash=1
+time  2024-06-17 01:35:59.103015+08:00
 type  sspanel
 
 [cyanmori.com]
@@ -32,7 +32,7 @@ email  kkzxfat388@gmail.com
 last_checkin  2024-06-17 00:38:25.762671+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  469M  2024-06-17 06:38:25+08:00  (剩余 469M 5:26:51.164413)
+sub_info  73.7K  469M  2024-06-17 06:38:25+08:00  (剩余 468.9M 5:02:55.073929)
 sub_url  https://accd.vo0.site/link/p5YzLfIypZJrvUlD?clash=1
 time  2024-06-17 00:38:27.502487+08:00
 type  sspanel
@@ -57,6 +57,7 @@ sub_info  138.6M  1G  2024-06-17 16:57:12+08:00  (剩余 885.4M 15:45:34.511439)
 sub_url  https://sub1.proxyvip.de/api/v1/client/subscribe?token=f368a8774fa9ad34b5144d2a9d8074e2
 time  2024-06-16 19:36:41.834076+08:00
 type  v2board
+更新旧订阅失败  could not convert string to float: '1;'
 
 [vipxgyun.com]
 auto_invite  F
@@ -65,7 +66,7 @@ email  utwnemri130@gmail.com
 last_checkin  2024-06-17 01:11:31.483485+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-06-17 02:23:45+08:00  (剩余 10.11G 1:12:06.854256)
+sub_info  21.17K  10.11G  2024-06-17 02:23:45+08:00  (剩余 10.11G 0:48:13.358219)
 sub_url  https://dy2.dx035.top/link/YROjSGx8qH04XnHr?sub=3
 time  2024-06-17 01:11:36.098703+08:00
 type  sspanel
@@ -82,18 +83,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd9acf44850>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd9ac514310>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8274c79060>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8260b83b50>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  nmqplebxv669@gmail.com
+email  bmygxych214@gmail.com
 name  FastFly
 node_n  59
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=262ae40f2fb7e08cc2d017647d22acdb
-time  2024-06-17 01:11:42.890732+08:00
+sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=5f3cf3ee72d44e3ae20c323336fd4b8f
+time  2024-06-17 01:35:35.203584+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
