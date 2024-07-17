@@ -6,7 +6,7 @@ email  jecdfej352@sharklasers.com
 last_checkin  2024-07-18 00:41:04.484898+08:00
 name  墙了个墙
 node_n  34
-sub_info  574.1M  888G  2024-07-18 05:14:35+08:00  (剩余 887.5G 2:55:30.087455)
+sub_info  580.4M  888G  2024-07-18 05:14:35+08:00  (剩余 887.5G 2:34:27.221277)
 sub_url  https://www.qlgq.top/link/bab57e9bbb77330d?clash=1
 time  2024-07-17 05:14:36.516700+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  nsrodww197@grr.la
 last_checkin  2024-07-18 00:41:04.483457+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  930.1M  1.802G  2024-07-18 20:28:35+08:00  (剩余 914.9M 18:09:33.152264)
+sub_info  930.2M  1.802G  2024-07-18 20:28:35+08:00  (剩余 914.8M 17:48:22.541538)
 sub_url  https://network.ayucloud.nl/link/3bBW3dlI8b2di7jt?clash=1
 time  2024-07-17 20:28:36.403498+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  ovotqpt724@gmail.com
 last_checkin  2024-07-18 00:41:04.486073+08:00
 name  Cyanmori
 node_n  40
-sub_info  3.795M  1023M  2024-07-18 04:14:33+08:00  (剩余 1019M 1:55:26.267674)
+sub_info  3.819M  1023M  2024-07-18 04:14:33+08:00  (剩余 1019M 1:34:22.924969)
 sub_url  https://qslink.yeahfast.com/link/KSTP4MKykhQRpYKw?clash=1
 time  2024-07-17 22:14:36.041067+08:00
 type  sspanel
@@ -64,13 +64,13 @@ type  v2board
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  umfituqe664@gmail.com
-last_checkin  2024-07-18 02:19:00.373798+08:00
+email  crqeuuqf722@gmail.com
+last_checkin  2024-07-18 02:40:12.915508+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.13G  2024-07-17 17:32:19+08:00  (剩余 10.13G -1 day, 15:13:06.550712)
-sub_url  https://dy2.dx035.top/link/n8BSG7U5gC09YC5N?sub=3
-time  2024-07-18 02:19:05.588546+08:00
+sub_info  0B  10.14G  2024-07-17 17:55:18+08:00  (剩余 10.14G -1 day, 15:14:55.315025)
+sub_url  https://dy2.dx035.top/link/j2oNBOl5ifKRzE8r?sub=3
+time  2024-07-18 02:40:17.742587+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -85,18 +85,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f654bfd2e90>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6538658bb0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f05756e3c70>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f057569a020>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  seydcok870@gmail.com
+email  htcsukdy822@gmail.com
 name  FastFly
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=a535f9710c4ccd4a1caf552c9ad877dc
-time  2024-07-18 02:19:10.114042+08:00
+sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=0553c1a918cfe02d8ea630d533558249
+time  2024-07-18 02:40:12.814372+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
