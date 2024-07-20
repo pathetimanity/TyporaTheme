@@ -6,7 +6,7 @@ email  jjyunmeaj556@www.plce.nm.pe
 last_checkin  2024-07-20 04:37:01.827935+08:00
 name  墙了个墙
 node_n  34
-sub_info  205.7M  888G  2024-07-21 04:37:01+08:00  (剩余 887.8G 14:16:37.101534)
+sub_info  234.1M  888G  2024-07-21 04:37:01+08:00  (剩余 887.8G 13:57:32.534261)
 sub_url  https://www.qlgq.top/link/704d0c8213bbd6b9?clash=1
 time  2024-07-20 04:37:02.677683+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  amfloizgy770@guerrillamail.com
 last_checkin  2024-07-20 04:16:51.821060+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  203.1M  1.13G  2024-07-21 04:16:51+08:00  (剩余 953.9M 13:56:24.653166)
+sub_info  204.1M  1.13G  2024-07-21 04:16:51+08:00  (剩余 952.9M 13:37:19.676710)
 sub_url  https://network.ayucloud.nl/link/l7qP6DtfY3tsgXwh?clash=1
 time  2024-07-20 04:16:52.719493+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  covjegvcb316@gmail.com
 last_checkin  2024-07-20 13:14:20.194807+08:00
 name  Cyanmori
 node_n  40
-sub_info  145.6K  428M  2024-07-20 19:14:20+08:00  (剩余 427.9M 4:53:54.304283)
+sub_info  182.6K  428M  2024-07-20 19:14:20+08:00  (剩余 427.8M 4:34:49.860718)
 sub_url  https://qslink.yeahfast.com/link/vhQAUU6U53w8wMbr?clash=1
 time  2024-07-20 13:14:21.894200+08:00
 type  sspanel
@@ -54,23 +54,23 @@ buy  pass
 email  ychhzjs275@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  250.3M  1G  2024-06-18 15:22:32+08:00  (剩余 773.7M -32 days, 1:01:57.567111)
+sub_info  250.3M  1G  2024-06-18 15:22:32+08:00  (剩余 773.7M -32 days, 0:42:59.980876)
 sub_url  https://proxyvip.xyz/api/v1/client/subscribe?token=c7056e2c85a2408f41849018dac33a2a
 time  2024-06-17 16:18:32.236814+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ogckpjgfl537@jkb.tmmad.com): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  获取邮箱失败: 创建 api.mail.gw 账户失败: 500 Internal Server Error '{"@context":"\\/contexts\\/Error","@type":"hydra:Error","hydra:title":"An error occurred","hydra:description":"Internal Server Error"}'
 
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  vkvfenkn378@gmail.com
-last_checkin  2024-07-20 14:20:24.539080+08:00
+email  rhmeduxl361@gmail.com
+last_checkin  2024-07-20 14:39:29.185427+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.11G  2024-07-20 10:33:50+08:00  (剩余 10.11G -1 day, 20:13:17.953472)
-sub_url  https://dy2.dx035.top/link/vqutF587KPiwr2oK?sub=3
-time  2024-07-20 14:20:30.198913+08:00
+sub_info  0B  10.13G  2024-07-20 10:54:30+08:00  (剩余 10.13G -1 day, 20:14:52.932769)
+sub_url  https://dy2.dx035.top/link/8UhELepQh7slUO2Q?sub=3
+time  2024-07-20 14:39:34.807435+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -85,18 +85,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f54969e1a80>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f548c456ef0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8c8dda57b0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8c84ce4a60>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  pydgoeg666@gmail.com
+email  brbqcwz404@gmail.com
 name  FastFly
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=bf82b9e9327621314407d8165585c0c1
-time  2024-07-20 14:20:29.652598+08:00
+sub_url  https://abcd.fastfly.life:21600/api/v1/client/subscribe?token=14eb78142effdbadb295fa3396c0738b
+time  2024-07-20 14:39:34.405772+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
