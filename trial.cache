@@ -6,7 +6,7 @@ email  jbrttnejx350@nm.pe
 last_checkin  2024-07-25 05:14:05.977571+08:00
 name  墙了个墙
 node_n  34
-sub_info  530.5M  888G  2024-07-26 05:14:05+08:00  (剩余 887.5G 12:55:36.307125)
+sub_info  536.7M  888G  2024-07-26 05:14:05+08:00  (剩余 887.5G 12:34:59.774200)
 sub_url  https://www.qlgq.top/link/28a4c208ac27ea71?clash=1
 time  2024-07-25 05:14:06.769622+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  ogcwliji544@ktse.haihantnc.xyz
 last_checkin  2024-07-25 00:40:13.123778+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  374.1M  1.834G  2024-07-25 20:27:34+08:00  (剩余 1.469G 4:09:05.658092)
+sub_info  374.3M  1.834G  2024-07-25 20:27:34+08:00  (剩余 1.468G 3:48:24.332781)
 sub_url  https://network.ayucloud.nl/link/NLkBJeSllp9cs8jN?clash=1
 time  2024-07-24 20:27:35.583335+08:00
 type  sspanel
@@ -36,7 +36,7 @@ sub_info  16.13M  502M  2024-07-25 15:05:57+08:00  (剩余 485.9M 4:18:16.046007
 sub_url  https://cyanmori.com/link/vkpa8LLci3UIoseG?clash=1
 time  2024-07-25 09:05:58.808122+08:00
 type  sspanel
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/vkpa8LLci3UIoseG?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [biubiufast.com]
 buy  pass
@@ -55,12 +55,12 @@ buy  pass
 email  ychhzjs275@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  250.3M  1G  2024-06-18 15:22:32+08:00  (剩余 773.7M -38 days, 23:03:41.939076)
+sub_info  250.3M  1G  2024-06-18 15:22:32+08:00  (剩余 773.7M -38 days, 22:43:04.857370)
 sub_url  https://proxyvip.xyz/api/v1/client/subscribe?token=c7056e2c85a2408f41849018dac33a2a
 time  2024-06-17 16:18:32.236814+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(jldbucage203@spam4.me): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(foeuhsl994@spam4.me): 邮箱后缀不处于白名单中
 
 [vipxgyun.com]
 auto_invite  F
@@ -69,7 +69,7 @@ email  hmtkalbp688@gmail.com
 last_checkin  2024-07-25 16:18:29.038537+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.12G  2024-07-25 18:18:28+08:00  (剩余 10.12G 1:59:52.303020)
+sub_info  0B  10.12G  2024-07-25 18:18:28+08:00  (剩余 10.12G 1:39:24.572632)
 sub_url  https://dy2.dx035.top/link/1yt1QPCk7EVntjNU?sub=3
 time  2024-07-25 16:18:34.229132+08:00
 type  sspanel
@@ -86,18 +86,18 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd88da7f2e0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd884f147c0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4c58ce3c40>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f4c58ce3850>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
 buy  pass
-email  wkdfumup220@gmail.com
+email  dnczkqxp34@gmail.com
 name  FastFly
 node_n  64
 sub_info  0B  0B  永不过期  (剩余 0B)
-sub_url  https://sbs.fastfly.life:21600/api/v1/client/subscribe?token=d66770d1011fab9518c23ff28d508c91
-time  2024-07-25 16:18:33.756212+08:00
+sub_url  https://abcd.fastfly.life:21600/api/v1/client/subscribe?token=0de334d3c8e84971f5b802bb08b70483
+time  2024-07-25 16:39:12.830930+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
 
