@@ -6,7 +6,7 @@ email  uhfbozrsu261@moakt.cc
 last_checkin  2024-07-30 02:39:22.212959+08:00
 name  墙了个墙
 node_n  34
-sub_info  1.455G  888G  2024-07-31 02:39:22+08:00  (剩余 886.6G 6:11:19.985731)
+sub_info  1.513G  888G  2024-07-31 02:39:22+08:00  (剩余 886.5G 5:44:24.385628)
 sub_url  https://www.qlgq.top/link/d52e42c0cc44b9fd?clash=1
 time  2024-07-30 02:39:23.422395+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  qpynkajmw778@mynanaimohomes.com
 last_checkin  2024-07-30 14:40:57.280285+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  166M  1.029G  2024-07-31 14:40:57+08:00  (剩余 888M 18:12:55.653062)
+sub_info  407.5M  1.029G  2024-07-31 14:40:57+08:00  (剩余 646.5M 17:45:59.523393)
 sub_url  https://network.ayucloud.nl/link/6NUHTsIzmB6kEJGt?clash=1
 time  2024-07-30 14:40:58.109808+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  niscggog378@gmail.com
 last_checkin  2024-07-30 18:38:33.817149+08:00
 name  Cyanmori
 node_n  40
-sub_info  158.8K  463M  2024-07-31 00:38:30+08:00  (剩余 462.8M 4:10:29.748960)
+sub_info  216.5K  463M  2024-07-31 00:38:30+08:00  (剩余 462.8M 3:43:23.667747)
 sub_url  https://qslink.yeahfast.com/link/sKIv3gFByI90KtZR?clash=1
 time  2024-07-30 18:38:34.554868+08:00
 type  sspanel
@@ -54,12 +54,12 @@ buy  pass
 email  ychhzjs275@gmail.com
 name  Proxyvip
 node_n  37
-sub_info  250.3M  1G  2024-06-18 15:22:32+08:00  (剩余 773.7M -43 days, 18:54:03.789131)
+sub_info  250.3M  1G  2024-06-18 15:22:32+08:00  (剩余 773.7M -43 days, 18:27:22.379060)
 sub_url  https://proxyvip.xyz/api/v1/client/subscribe?token=c7056e2c85a2408f41849018dac33a2a
 time  2024-06-17 16:18:32.236814+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(stwxysho187@spam4.me): 邮箱后缀不处于白名单中
+更新订阅链接/续费续签失败  注册失败(knefzkg156@ipiso.tmmad.com): 邮箱后缀不处于白名单中
 
 [vipxgyun.com]
 auto_invite  F
@@ -68,7 +68,7 @@ email  wkgpfjp261@gmail.com
 last_checkin  2024-07-30 19:36:43.757100+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  18.33K  10.1G  2024-07-30 21:36:43+08:00  (剩余 10.1G 1:08:44.869786)
+sub_info  36.68K  10.1G  2024-07-30 21:36:43+08:00  (剩余 10.1G 0:41:45.127458)
 sub_url  https://dy2.dx035.top/link/MZwlGLBytpPFDEgJ?sub=3
 time  2024-07-30 19:36:48.724391+08:00
 type  sspanel
@@ -85,8 +85,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe7b0cbeda0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe7ac47e800>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1f5557f490>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1f55589360>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
