@@ -3,37 +3,36 @@ auto_invite  F
 banned_domains  psnator.com  tmpnator.live
 buy  pass
 email  rbhoqmi627@nm.pe
-last_checkin  2024-08-04 02:19:13.904725+08:00
+last_checkin  2024-08-05 00:37:34.746023+08:00
 name  墙了个墙
 node_n  34
-sub_info  1.003G  888G  2024-08-05 02:19:13+08:00  (剩余 887G 2:03:13.107673)
+sub_info  1.003G  888.1G  2024-08-05 02:19:13+08:00  (剩余 887.1G 1:41:28.350263)
 sub_url  https://www.qlgq.top/link/e395dd4d4539d625?clash=1
 time  2024-08-04 02:19:14.652503+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ayucloud.services]
 auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com
 buy  pass
-email  zujtzcr561@mynanaimohomes.com
-last_checkin  2024-08-04 19:12:35.253167+08:00
+email  eansxhah483@xxxhi.cc
+last_checkin  2024-08-05 00:37:54.147059+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  0B  1.092G  2024-08-05 19:12:34+08:00  (剩余 1.092G 18:56:34.504397)
-sub_url  https://network.ayucloud.nl/link/CGkCYUURbilCy5If?clash=1
-time  2024-08-04 19:12:36.349743+08:00
+sub_info  0B  1.028G  2024-08-06 00:37:53+08:00  (剩余 1.028G 23:59:54.776397)
+sub_url  https://network.ayucloud.nl/link/4JWf9Nqskz3XtTvp?clash=1
+time  2024-08-05 00:37:55.095445+08:00
 type  sspanel
 
 [cyanmori.com]
 auto_invite  F
 buy  pass
 email  ifdoayx149@gmail.com
-last_checkin  2024-08-04 22:13:27.896724+08:00
+last_checkin  2024-08-05 00:37:34.746966+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  456M  2024-08-05 04:13:20+08:00  (剩余 456M 3:57:14.506444)
+sub_info  137.3K  856M  2024-08-05 04:13:20+08:00  (剩余 855.9M 3:35:38.717269)
 sub_url  https://qslink.yeahfast.com/link/y0WrMr1tRWdkdsIO?clash=1
 time  2024-08-04 22:13:28.727645+08:00
 type  sspanel
@@ -69,7 +68,7 @@ email  nlbfnpcv616@gmail.com
 last_checkin  2024-08-05 00:16:00.270067+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.1G  2024-08-05 02:16:00+08:00  (剩余 10.1G 1:59:51.323483)
+sub_info  58.82K  10.1G  2024-08-05 02:16:00+08:00  (剩余 10.1G 1:38:21.459183)
 sub_url  https://dy2.dx035.top/link/s0rMsHFftDY7Eq0a?sub=3
 time  2024-08-05 00:16:05.344030+08:00
 type  sspanel
@@ -86,8 +85,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff3f7ea71f0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7ff3e4c006d0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1b40b7dc90>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1b2c40a7d0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -106,10 +105,10 @@ type  v2board
 auto_invite  F
 buy  pass
 email  vhtcqjak504@wj1.haihantnc.xyz
-last_checkin  2024-08-04 00:39:05.391332+08:00
+last_checkin  2024-08-05 00:37:34.751626+08:00
 name  NovaLive
 node_n  5
-sub_info  10.74G  13.81G  永不过期  (剩余 3.067G)
+sub_info  10.74G  13.98G  永不过期  (剩余 3.239G)
 sub_url  https://nova.live/link/tqZ559QaB3mjwvZN?sub=3
 time  2024-03-31 17:36:04.554432+08:00
 type  sspanel
