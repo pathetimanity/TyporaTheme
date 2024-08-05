@@ -6,7 +6,7 @@ email  amczrsag879@btcstar.site
 last_checkin  2024-08-05 02:18:05.941897+08:00
 name  墙了个墙
 node_n  34
-sub_info  19.79M  888G  2024-08-06 02:18:05+08:00  (剩余 888G 15:53:36.729866)
+sub_info  39.05M  888G  2024-08-06 02:18:05+08:00  (剩余 888G 15:28:47.151776)
 sub_url  https://www.qlgq.top/link/6e3ae1daec49e9fe?clash=1
 time  2024-08-05 02:18:06.668581+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  eansxhah483@xxxhi.cc
 last_checkin  2024-08-05 00:37:54.147059+08:00
 name  AyucLouD-Services
 node_n  98
-sub_info  112.1M  1.028G  2024-08-06 00:37:53+08:00  (剩余 940.9M 14:13:21.226590)
+sub_info  118.9M  1.028G  2024-08-06 00:37:53+08:00  (剩余 934.1M 13:48:30.557110)
 sub_url  https://network.ayucloud.nl/link/4JWf9Nqskz3XtTvp?clash=1
 time  2024-08-05 00:37:55.095445+08:00
 type  sspanel
@@ -28,13 +28,13 @@ type  sspanel
 [cyanmori.com]
 auto_invite  F
 buy  pass
-email  ckvbfuwmf542@gmail.com
-last_checkin  2024-08-05 05:13:32.969605+08:00
+email  zmcqtzz344@gmail.com
+last_checkin  2024-08-05 10:49:23.203093+08:00
 name  Cyanmori
 node_n  40
-sub_info  69.95K  556M  2024-08-05 11:13:25+08:00  (剩余 555.9M 0:48:56.045753)
-sub_url  https://qslink.yeahfast.com/link/qyXtE3lmfcOncXUx?clash=1
-time  2024-08-05 05:13:33.726051+08:00
+sub_info  0B  573M  2024-08-05 16:49:15+08:00  (剩余 573M 5:59:47.848196)
+sub_url  https://qslink.yeahfast.com/link/CYmI8J5NvH5VGwte?clash=1
+time  2024-08-05 10:49:24.076884+08:00
 type  sspanel
 
 [biubiufast.com]
@@ -59,18 +59,18 @@ sub_url  https://proxyvip.xyz/api/v1/client/subscribe?token=c7056e2c85a2408f4184
 time  2024-06-17 16:18:32.236814+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  HTTPSConnectionPool(host='proxyvip.xyz', port=443): Max retries exceeded with url: /api/v1/passport/auth/login (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1007)')))
+更新旧订阅失败  HTTPSConnectionPool(host='proxyvip.xyz', port=443): Max retries exceeded with url: /api/v1/client/subscribe?token=c7056e2c85a2408f41849018dac33a2a (Caused by SSLError(SSLCertVerificationError(1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'proxyvip.xyz'. (_ssl.c:1007)")))
 
 [vipxgyun.com]
 auto_invite  F
 buy  pass
-email  vlxzger37@gmail.com
-last_checkin  2024-08-05 09:08:02.803888+08:00
+email  xrfynpcp423@gmail.com
+last_checkin  2024-08-05 10:49:20.959651+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  23.17K  10.1G  2024-08-05 11:08:02+08:00  (剩余 10.1G 0:43:33.833025)
-sub_url  https://dy2.dx035.top/link/AZVzyvUpS3HjfhJX?sub=3
-time  2024-08-05 09:08:08.603930+08:00
+sub_info  0B  10.11G  2024-08-05 12:49:20+08:00  (剩余 10.11G 1:59:39.204995)
+sub_url  https://dy2.dx035.top/link/LMNIudnywZILZPtg?sub=3
+time  2024-08-05 10:49:34.187521+08:00
 type  sspanel
 
 [bee.sulepay.com]
@@ -85,8 +85,8 @@ sub_info  0B  0B  2024-04-21 19:36:10+08:00  (剩余 0B -17 days, 2:59:11.937732
 sub_url  https://bee.sulepay.com/link/MbKWJPtWhZ7xlWkI?clash=1
 time  2024-03-22 19:36:13.168608+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcb9cb7ead0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
-更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /link/MbKWJPtWhZ7xlWkI?clash=1 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fcb75acf5e0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+尝试签到失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8e6fe17370>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
+更新旧订阅失败  HTTPSConnectionPool(host='bee.sulepay.com', port=443): Max retries exceeded with url: /auth/login (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8e6c8d71f0>: Failed to resolve 'bee.sulepay.com' ([Errno -2] Name or service not known)"))
 
 [fastestcloud.xyz]
 banned_domains  uuf.me  mydefipet.live  psnator.com
@@ -99,7 +99,7 @@ sub_url  https://fastestcloud.xyz/api/v1/client/subscribe?token=2ba04a36a593ddf0
 time  2024-07-30 03:37:26.182434+08:00
 type  v2board
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  (https://fastestcloud.xyz/api/v1/client/subscribe?token=2ba04a36a593ddf0e827a3c9dc55fcb2): 403 Forbidden '{"status":"fail","message":"token is error","data":null,"error":null}'
+更新旧订阅失败  'NoneType' object is not subscriptable
 
 [nova.live]
 auto_invite  F
