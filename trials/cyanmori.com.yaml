@@ -56,46 +56,46 @@ proxy-groups:
   tolerance: 100
   proxies: *id001
 proxies:
-- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, type: vmess, uuid: aa6cd0da-a0c8-35f0-8d27-ace9a3d2cf2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇮🇳 印度01 - Cyanmori, server: in1.lvuy.xyz, port: 10050, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇮🇳 印度02 - Cyanmori, server: in2.lvuy.xyz, port: 10051, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇰🇷 韩国01 - Cyanmori, server: kr1.lvuy.xyz, port: 10047, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇰🇷 韩国02 - Cyanmori, server: kr2.lvuy.xyz, port: 10048, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇬🇧 英国01 - Cyanmori, server: uk1.lvuy.xyz, port: 10052, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇬🇧 英国02 - Cyanmori, server: uk2.lvuy.xyz, port: 10053, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇩🇪 德国01 - Cyanmori, server: ed.lvuy.xyz, port: 10069, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: xn1.lvuy.xyz, port: 10055, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
-- {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港04 - Cyanmori, server: hk4.lvuy.xyz, port: 10033, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港05 - Cyanmori, server: hk5.lvuy.xyz, port: 10034, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港06 - Cyanmori, server: hk6.lvuy.xyz, port: 10035, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港07 - Cyanmori, server: hk7.lvuy.xyz, port: 10072, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇭🇰 香港08 - Cyanmori, server: hk8.lvuy.xyz, port: 10074, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: ℹ️ 官网：https://1100.gg - Cyanmori, server: ar.suxia.co, port: 443, client-fingerprint: chrome, type: vmess, uuid: aa6cd0da-a0c8-35f0-8d27-ace9a3d2cf2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本01 - Cyanmori, server: jp1.lvuy.xyz, port: 10037, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇯🇵 日本02 - Cyanmori, server: jp2.lvuy.xyz, port: 10038, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇯🇵 日本03 - Cyanmori, server: jp3.lvuy.xyz, port: 10039, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇯🇵 日本04 - Cyanmori, server: jp4.lvuy.xyz, port: 10058, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇹🇼 台湾01 - Cyanmori, server: tw1.lvuy.xyz, port: 10036, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇹🇼 台湾02 - Cyanmori, server: tw2.lvuy.xyz, port: 10064, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇹🇼 台湾03 - Cyanmori, server: tw3.lvuy.xyz, port: 10073, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇹🇼 台湾04 - Cyanmori, server: tw4.lvuy.xyz, port: 10077, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇸🇬 新加坡01 - Cyanmori, server: sg1.lvuy.xyz, port: 10044, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇸🇬 新加坡02 - Cyanmori, server: sg2.lvuy.xyz, port: 10045, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇸🇬 新加坡03 - Cyanmori, server: sg3.lvuy.xyz, port: 10046, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇸🇬 新加坡04 - Cyanmori, server: sg4.lvuy.xyz, port: 10068, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国01 - Cyanmori, server: us1.lvuy.xyz, port: 10040, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国02 - Cyanmori, server: us2.lvuy.xyz, port: 10041, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国03 - Cyanmori, server: us3.lvuy.xyz, port: 10042, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国04 - Cyanmori, server: us4.lvuy.xyz, port: 10043, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国05 - Cyanmori, server: us5.lvuy.xyz, port: 10067, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国06 - Cyanmori, server: us6.lvuy.xyz, port: 20036, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇺🇲 美国07 - Cyanmori, server: us7.lvuy.xyz, port: 10075, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇮🇳 印度01 - Cyanmori, server: in1.lvuy.xyz, port: 10050, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇮🇳 印度02 - Cyanmori, server: in2.lvuy.xyz, port: 10051, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇰🇷 韩国01 - Cyanmori, server: kr1.lvuy.xyz, port: 10047, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇰🇷 韩国02 - Cyanmori, server: kr2.lvuy.xyz, port: 10048, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇬🇧 英国01 - Cyanmori, server: uk1.lvuy.xyz, port: 10052, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇬🇧 英国02 - Cyanmori, server: uk2.lvuy.xyz, port: 10053, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇩🇪 德国01 - Cyanmori, server: ed.lvuy.xyz, port: 10069, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇫🇷 法国 - Cyanmori, server: fr.lvuy.xyz, port: 10076, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇦🇺 澳大利亚01 - Cyanmori, server: xn1.lvuy.xyz, port: 10055, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇦🇺 澳大利亚02 - Cyanmori, server: xn2.lvuy.xyz, port: 10054, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇦🇪 迪拜01 - Cyanmori, server: dibai1.lvuy.xyz, port: 10056, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
+- {name: 🇦🇪 迪拜02 - Cyanmori, server: dibai2.lvuy.xyz, port: 10057, client-fingerprint: chrome, type: ss, cipher: chacha20-ietf-poly1305, password: PoIYk3AkYVU52MkJ, udp: true}
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
@@ -2409,227 +2409,6 @@ rules:
 - DOMAIN-SUFFIX,stats.developingperspective.com,REJECT
 - DOMAIN-SUFFIX,track.hujiang.com,REJECT
 - DOMAIN-SUFFIX,up.qingdaonews.com,REJECT
-- IP-CIDR,8.128.0.0/10,DIRECT,no-resolve
-- IP-CIDR,8.208.0.0/12,DIRECT,no-resolve
-- IP-CIDR,14.1.112.0/22,DIRECT,no-resolve
-- IP-CIDR,41.222.240.0/22,DIRECT,no-resolve
-- IP-CIDR,41.223.119.0/24,DIRECT,no-resolve
-- IP-CIDR,43.242.168.0/22,DIRECT,no-resolve
-- IP-CIDR,45.112.212.0/22,DIRECT,no-resolve
-- IP-CIDR,47.52.0.0/16,DIRECT,no-resolve
-- IP-CIDR,47.56.0.0/15,DIRECT,no-resolve
-- IP-CIDR,47.74.0.0/15,DIRECT,no-resolve
-- IP-CIDR,47.76.0.0/14,DIRECT,no-resolve
-- IP-CIDR,47.80.0.0/12,DIRECT,no-resolve
-- IP-CIDR,47.235.0.0/16,DIRECT,no-resolve
-- IP-CIDR,47.236.0.0/14,DIRECT,no-resolve
-- IP-CIDR,47.240.0.0/14,DIRECT,no-resolve
-- IP-CIDR,47.244.0.0/15,DIRECT,no-resolve
-- IP-CIDR,47.246.0.0/16,DIRECT,no-resolve
-- IP-CIDR,47.250.0.0/15,DIRECT,no-resolve
-- IP-CIDR,47.252.0.0/15,DIRECT,no-resolve
-- IP-CIDR,47.254.0.0/16,DIRECT,no-resolve
-- IP-CIDR,59.82.0.0/20,DIRECT,no-resolve
-- IP-CIDR,59.82.240.0/21,DIRECT,no-resolve
-- IP-CIDR,59.82.248.0/22,DIRECT,no-resolve
-- IP-CIDR,72.254.0.0/16,DIRECT,no-resolve
-- IP-CIDR,103.38.56.0/22,DIRECT,no-resolve
-- IP-CIDR,103.52.76.0/22,DIRECT,no-resolve
-- IP-CIDR,103.206.40.0/22,DIRECT,no-resolve
-- IP-CIDR,110.76.21.0/24,DIRECT,no-resolve
-- IP-CIDR,110.76.23.0/24,DIRECT,no-resolve
-- IP-CIDR,112.125.0.0/17,DIRECT,no-resolve
-- IP-CIDR,116.251.64.0/18,DIRECT,no-resolve
-- IP-CIDR,119.38.208.0/20,DIRECT,no-resolve
-- IP-CIDR,119.38.224.0/20,DIRECT,no-resolve
-- IP-CIDR,119.42.224.0/20,DIRECT,no-resolve
-- IP-CIDR,139.95.0.0/16,DIRECT,no-resolve
-- IP-CIDR,140.205.1.0/24,DIRECT,no-resolve
-- IP-CIDR,140.205.122.0/24,DIRECT,no-resolve
-- IP-CIDR,147.139.0.0/16,DIRECT,no-resolve
-- IP-CIDR,149.129.0.0/16,DIRECT,no-resolve
-- IP-CIDR,155.102.0.0/16,DIRECT,no-resolve
-- IP-CIDR,161.117.0.0/16,DIRECT,no-resolve
-- IP-CIDR,163.181.0.0/16,DIRECT,no-resolve
-- IP-CIDR,170.33.0.0/16,DIRECT,no-resolve
-- IP-CIDR,198.11.128.0/18,DIRECT,no-resolve
-- IP-CIDR,205.204.96.0/19,DIRECT,no-resolve
-- IP-CIDR,19.28.0.0/23,DIRECT,no-resolve
-- IP-CIDR,45.40.192.0/19,DIRECT,no-resolve
-- IP-CIDR,49.51.0.0/16,DIRECT,no-resolve
-- IP-CIDR,62.234.0.0/16,DIRECT,no-resolve
-- IP-CIDR,94.191.0.0/17,DIRECT,no-resolve
-- IP-CIDR,103.7.28.0/22,DIRECT,no-resolve
-- IP-CIDR,103.116.50.0/23,DIRECT,no-resolve
-- IP-CIDR,103.231.60.0/24,DIRECT,no-resolve
-- IP-CIDR,109.244.0.0/16,DIRECT,no-resolve
-- IP-CIDR,111.30.128.0/21,DIRECT,no-resolve
-- IP-CIDR,111.30.136.0/24,DIRECT,no-resolve
-- IP-CIDR,111.30.139.0/24,DIRECT,no-resolve
-- IP-CIDR,111.30.140.0/23,DIRECT,no-resolve
-- IP-CIDR,115.159.0.0/16,DIRECT,no-resolve
-- IP-CIDR,119.28.0.0/15,DIRECT,no-resolve
-- IP-CIDR,120.88.56.0/23,DIRECT,no-resolve
-- IP-CIDR,121.51.0.0/16,DIRECT,no-resolve
-- IP-CIDR,129.28.0.0/16,DIRECT,no-resolve
-- IP-CIDR,129.204.0.0/16,DIRECT,no-resolve
-- IP-CIDR,129.211.0.0/16,DIRECT,no-resolve
-- IP-CIDR,132.232.0.0/16,DIRECT,no-resolve
-- IP-CIDR,134.175.0.0/16,DIRECT,no-resolve
-- IP-CIDR,146.56.192.0/18,DIRECT,no-resolve
-- IP-CIDR,148.70.0.0/16,DIRECT,no-resolve
-- IP-CIDR,150.109.0.0/16,DIRECT,no-resolve
-- IP-CIDR,152.136.0.0/16,DIRECT,no-resolve
-- IP-CIDR,162.14.0.0/16,DIRECT,no-resolve
-- IP-CIDR,162.62.0.0/16,DIRECT,no-resolve
-- IP-CIDR,170.106.130.0/24,DIRECT,no-resolve
-- IP-CIDR,182.254.0.0/16,DIRECT,no-resolve
-- IP-CIDR,188.131.128.0/17,DIRECT,no-resolve
-- IP-CIDR,203.195.128.0/17,DIRECT,no-resolve
-- IP-CIDR,203.205.128.0/17,DIRECT,no-resolve
-- IP-CIDR,210.4.138.0/24,DIRECT,no-resolve
-- IP-CIDR,211.152.128.0/23,DIRECT,no-resolve
-- IP-CIDR,211.152.132.0/23,DIRECT,no-resolve
-- IP-CIDR,211.152.148.0/23,DIRECT,no-resolve
-- IP-CIDR,212.64.0.0/17,DIRECT,no-resolve
-- IP-CIDR,212.129.128.0/17,DIRECT,no-resolve
-- IP-CIDR,45.113.192.0/22,DIRECT,no-resolve
-- IP-CIDR,63.217.23.0/24,DIRECT,no-resolve
-- IP-CIDR,63.243.252.0/24,DIRECT,no-resolve
-- IP-CIDR,103.235.44.0/22,DIRECT,no-resolve
-- IP-CIDR,104.193.88.0/22,DIRECT,no-resolve
-- IP-CIDR,106.12.0.0/15,DIRECT,no-resolve
-- IP-CIDR,114.28.224.0/20,DIRECT,no-resolve
-- IP-CIDR,119.63.192.0/21,DIRECT,no-resolve
-- IP-CIDR,180.76.0.0/24,DIRECT,no-resolve
-- IP-CIDR,180.76.0.0/16,DIRECT,no-resolve
-- IP-CIDR,182.61.0.0/16,DIRECT,no-resolve
-- IP-CIDR,185.10.104.0/22,DIRECT,no-resolve
-- IP-CIDR,202.46.48.0/20,DIRECT,no-resolve
-- IP-CIDR,203.90.238.0/24,DIRECT,no-resolve
-- IP-CIDR,43.254.0.0/22,DIRECT,no-resolve
-- IP-CIDR,45.249.212.0/22,DIRECT,no-resolve
-- IP-CIDR,49.4.0.0/17,DIRECT,no-resolve
-- IP-CIDR,78.101.192.0/19,DIRECT,no-resolve
-- IP-CIDR,78.101.224.0/20,DIRECT,no-resolve
-- IP-CIDR,81.52.161.0/24,DIRECT,no-resolve
-- IP-CIDR,85.97.220.0/22,DIRECT,no-resolve
-- IP-CIDR,103.31.200.0/22,DIRECT,no-resolve
-- IP-CIDR,103.69.140.0/23,DIRECT,no-resolve
-- IP-CIDR,103.218.216.0/22,DIRECT,no-resolve
-- IP-CIDR,114.115.128.0/17,DIRECT,no-resolve
-- IP-CIDR,114.116.0.0/16,DIRECT,no-resolve
-- IP-CIDR,116.63.128.0/18,DIRECT,no-resolve
-- IP-CIDR,116.66.184.0/22,DIRECT,no-resolve
-- IP-CIDR,116.71.96.0/20,DIRECT,no-resolve
-- IP-CIDR,116.71.128.0/21,DIRECT,no-resolve
-- IP-CIDR,116.71.136.0/22,DIRECT,no-resolve
-- IP-CIDR,116.71.141.0/24,DIRECT,no-resolve
-- IP-CIDR,116.71.142.0/24,DIRECT,no-resolve
-- IP-CIDR,116.71.243.0/24,DIRECT,no-resolve
-- IP-CIDR,116.71.244.0/24,DIRECT,no-resolve
-- IP-CIDR,116.71.251.0/24,DIRECT,no-resolve
-- IP-CIDR,117.78.0.0/18,DIRECT,no-resolve
-- IP-CIDR,119.3.0.0/16,DIRECT,no-resolve
-- IP-CIDR,119.8.0.0/21,DIRECT,no-resolve
-- IP-CIDR,119.8.32.0/19,DIRECT,no-resolve
-- IP-CIDR,121.36.0.0/17,DIRECT,no-resolve
-- IP-CIDR,121.36.128.0/18,DIRECT,no-resolve
-- IP-CIDR,121.37.0.0/17,DIRECT,no-resolve
-- IP-CIDR,122.112.128.0/17,DIRECT,no-resolve
-- IP-CIDR,139.9.0.0/18,DIRECT,no-resolve
-- IP-CIDR,139.9.64.0/19,DIRECT,no-resolve
-- IP-CIDR,139.9.100.0/22,DIRECT,no-resolve
-- IP-CIDR,139.9.104.0/21,DIRECT,no-resolve
-- IP-CIDR,139.9.112.0/20,DIRECT,no-resolve
-- IP-CIDR,139.9.128.0/18,DIRECT,no-resolve
-- IP-CIDR,139.9.192.0/19,DIRECT,no-resolve
-- IP-CIDR,139.9.224.0/20,DIRECT,no-resolve
-- IP-CIDR,139.9.240.0/21,DIRECT,no-resolve
-- IP-CIDR,139.9.248.0/22,DIRECT,no-resolve
-- IP-CIDR,139.159.128.0/19,DIRECT,no-resolve
-- IP-CIDR,139.159.160.0/22,DIRECT,no-resolve
-- IP-CIDR,139.159.164.0/23,DIRECT,no-resolve
-- IP-CIDR,139.159.168.0/21,DIRECT,no-resolve
-- IP-CIDR,139.159.176.0/20,DIRECT,no-resolve
-- IP-CIDR,139.159.192.0/18,DIRECT,no-resolve
-- IP-CIDR,159.138.0.0/18,DIRECT,no-resolve
-- IP-CIDR,159.138.64.0/21,DIRECT,no-resolve
-- IP-CIDR,159.138.79.0/24,DIRECT,no-resolve
-- IP-CIDR,159.138.80.0/20,DIRECT,no-resolve
-- IP-CIDR,159.138.96.0/20,DIRECT,no-resolve
-- IP-CIDR,159.138.112.0/21,DIRECT,no-resolve
-- IP-CIDR,159.138.125.0/24,DIRECT,no-resolve
-- IP-CIDR,159.138.128.0/18,DIRECT,no-resolve
-- IP-CIDR,159.138.192.0/20,DIRECT,no-resolve
-- IP-CIDR,159.138.223.0/24,DIRECT,no-resolve
-- IP-CIDR,159.138.224.0/19,DIRECT,no-resolve
-- IP-CIDR,168.195.92.0/22,DIRECT,no-resolve
-- IP-CIDR,185.176.76.0/22,DIRECT,no-resolve
-- IP-CIDR,197.199.0.0/18,DIRECT,no-resolve
-- IP-CIDR,197.210.163.0/24,DIRECT,no-resolve
-- IP-CIDR,197.252.1.0/24,DIRECT,no-resolve
-- IP-CIDR,197.252.2.0/23,DIRECT,no-resolve
-- IP-CIDR,197.252.4.0/22,DIRECT,no-resolve
-- IP-CIDR,197.252.8.0/21,DIRECT,no-resolve
-- IP-CIDR,200.32.52.0/24,DIRECT,no-resolve
-- IP-CIDR,200.32.54.0/24,DIRECT,no-resolve
-- IP-CIDR,200.32.57.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.0.0/22,DIRECT,no-resolve
-- IP-CIDR,203.135.4.0/23,DIRECT,no-resolve
-- IP-CIDR,203.135.8.0/23,DIRECT,no-resolve
-- IP-CIDR,203.135.11.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.13.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.20.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.22.0/23,DIRECT,no-resolve
-- IP-CIDR,203.135.24.0/23,DIRECT,no-resolve
-- IP-CIDR,203.135.26.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.29.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.33.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.38.0/23,DIRECT,no-resolve
-- IP-CIDR,203.135.40.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.43.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.48.0/24,DIRECT,no-resolve
-- IP-CIDR,203.135.50.0/24,DIRECT,no-resolve
-- IP-CIDR,42.186.0.0/16,DIRECT,no-resolve
-- IP-CIDR,45.127.128.0/22,DIRECT,no-resolve
-- IP-CIDR,45.195.24.0/24,DIRECT,no-resolve
-- IP-CIDR,45.253.132.0/22,DIRECT,no-resolve
-- IP-CIDR,45.253.240.0/22,DIRECT,no-resolve
-- IP-CIDR,45.254.48.0/23,DIRECT,no-resolve
-- IP-CIDR,59.111.0.0/20,DIRECT,no-resolve
-- IP-CIDR,59.111.128.0/17,DIRECT,no-resolve
-- IP-CIDR,103.71.120.0/21,DIRECT,no-resolve
-- IP-CIDR,103.71.128.0/22,DIRECT,no-resolve
-- IP-CIDR,103.71.196.0/22,DIRECT,no-resolve
-- IP-CIDR,103.71.200.0/22,DIRECT,no-resolve
-- IP-CIDR,103.72.12.0/22,DIRECT,no-resolve
-- IP-CIDR,103.72.18.0/23,DIRECT,no-resolve
-- IP-CIDR,103.72.24.0/22,DIRECT,no-resolve
-- IP-CIDR,103.72.28.0/23,DIRECT,no-resolve
-- IP-CIDR,103.72.38.0/23,DIRECT,no-resolve
-- IP-CIDR,103.72.40.0/23,DIRECT,no-resolve
-- IP-CIDR,103.72.44.0/22,DIRECT,no-resolve
-- IP-CIDR,103.72.48.0/21,DIRECT,no-resolve
-- IP-CIDR,103.72.128.0/21,DIRECT,no-resolve
-- IP-CIDR,103.74.24.0/21,DIRECT,no-resolve
-- IP-CIDR,103.74.48.0/22,DIRECT,no-resolve
-- IP-CIDR,103.126.92.0/22,DIRECT,no-resolve
-- IP-CIDR,103.129.252.0/22,DIRECT,no-resolve
-- IP-CIDR,103.131.252.0/22,DIRECT,no-resolve
-- IP-CIDR,103.135.240.0/22,DIRECT,no-resolve
-- IP-CIDR,103.196.64.0/22,DIRECT,no-resolve
-- IP-CIDR,106.2.32.0/19,DIRECT,no-resolve
-- IP-CIDR,106.2.64.0/18,DIRECT,no-resolve
-- IP-CIDR,114.113.196.0/22,DIRECT,no-resolve
-- IP-CIDR,114.113.200.0/22,DIRECT,no-resolve
-- IP-CIDR,115.236.112.0/20,DIRECT,no-resolve
-- IP-CIDR,115.238.76.0/22,DIRECT,no-resolve
-- IP-CIDR,123.58.160.0/19,DIRECT,no-resolve
-- IP-CIDR,223.252.192.0/19,DIRECT,no-resolve
-- IP-CIDR,101.198.128.0/18,DIRECT,no-resolve
-- IP-CIDR,101.198.192.0/19,DIRECT,no-resolve
-- IP-CIDR,101.199.196.0/22,DIRECT,no-resolve
 - IP-CIDR,1.0.1.0/24,DIRECT,no-resolve
 - IP-CIDR,1.0.2.0/23,DIRECT,no-resolve
 - IP-CIDR,1.0.8.0/21,DIRECT,no-resolve
@@ -2703,6 +2482,7 @@ rules:
 - IP-CIDR,5.154.155.58/31,DIRECT,no-resolve
 - IP-CIDR,5.154.156.50/31,DIRECT,no-resolve
 - IP-CIDR,5.154.156.54/31,DIRECT,no-resolve
+- IP-CIDR,8.128.0.0/10,DIRECT,no-resolve
 - IP-CIDR,13.104.184.80/28,DIRECT,no-resolve
 - IP-CIDR,14.0.0.0/21,DIRECT,no-resolve
 - IP-CIDR,14.0.12.0/22,DIRECT,no-resolve
@@ -2972,6 +2752,7 @@ rules:
 - IP-CIDR,42.160.0.0/12,DIRECT,no-resolve
 - IP-CIDR,42.176.0.0/13,DIRECT,no-resolve
 - IP-CIDR,42.184.0.0/15,DIRECT,no-resolve
+- IP-CIDR,42.186.0.0/16,DIRECT,no-resolve
 - IP-CIDR,42.187.0.0/18,DIRECT,no-resolve
 - IP-CIDR,42.187.64.0/19,DIRECT,no-resolve
 - IP-CIDR,42.187.96.0/20,DIRECT,no-resolve
@@ -3411,6 +3192,8 @@ rules:
 - IP-CIDR,43.255.224.0/21,DIRECT,no-resolve
 - IP-CIDR,43.255.232.0/22,DIRECT,no-resolve
 - IP-CIDR,43.255.244.0/22,DIRECT,no-resolve
+- IP-CIDR,45.40.192.0/20,DIRECT,no-resolve
+- IP-CIDR,45.40.208.0/21,DIRECT,no-resolve
 - IP-CIDR,45.40.224.0/19,DIRECT,no-resolve
 - IP-CIDR,45.65.16.0/20,DIRECT,no-resolve
 - IP-CIDR,45.112.132.0/22,DIRECT,no-resolve
@@ -3543,6 +3326,7 @@ rules:
 - IP-CIDR,45.126.220.0/23,DIRECT,no-resolve
 - IP-CIDR,45.126.222.0/24,DIRECT,no-resolve
 - IP-CIDR,45.127.8.0/21,DIRECT,no-resolve
+- IP-CIDR,45.127.128.0/22,DIRECT,no-resolve
 - IP-CIDR,45.127.144.0/21,DIRECT,no-resolve
 - IP-CIDR,45.127.156.0/22,DIRECT,no-resolve
 - IP-CIDR,45.248.8.0/22,DIRECT,no-resolve
@@ -3614,11 +3398,13 @@ rules:
 - IP-CIDR,45.253.96.0/20,DIRECT,no-resolve
 - IP-CIDR,45.253.112.0/21,DIRECT,no-resolve
 - IP-CIDR,45.253.120.0/22,DIRECT,no-resolve
+- IP-CIDR,45.253.132.0/22,DIRECT,no-resolve
 - IP-CIDR,45.253.136.0/21,DIRECT,no-resolve
 - IP-CIDR,45.253.144.0/20,DIRECT,no-resolve
 - IP-CIDR,45.253.160.0/19,DIRECT,no-resolve
 - IP-CIDR,45.253.192.0/19,DIRECT,no-resolve
 - IP-CIDR,45.253.224.0/20,DIRECT,no-resolve
+- IP-CIDR,45.253.240.0/22,DIRECT,no-resolve
 - IP-CIDR,45.254.0.0/20,DIRECT,no-resolve
 - IP-CIDR,45.254.16.0/21,DIRECT,no-resolve
 - IP-CIDR,45.254.28.0/22,DIRECT,no-resolve
@@ -3644,10 +3430,17 @@ rules:
 - IP-CIDR,45.255.248.0/22,DIRECT,no-resolve
 - IP-CIDR,46.3.111.0/24,DIRECT,no-resolve
 - IP-CIDR,46.248.24.0/23,DIRECT,no-resolve
+- IP-CIDR,47.92.0.0/14,DIRECT,no-resolve
 - IP-CIDR,47.96.0.0/11,DIRECT,no-resolve
+- IP-CIDR,49.4.0.0/17,DIRECT,no-resolve
 - IP-CIDR,49.4.160.0/19,DIRECT,no-resolve
 - IP-CIDR,49.5.0.0/16,DIRECT,no-resolve
 - IP-CIDR,49.6.0.0/15,DIRECT,no-resolve
+- IP-CIDR,49.51.57.0/24,DIRECT,no-resolve
+- IP-CIDR,49.51.58.0/23,DIRECT,no-resolve
+- IP-CIDR,49.51.60.0/23,DIRECT,no-resolve
+- IP-CIDR,49.51.110.0/23,DIRECT,no-resolve
+- IP-CIDR,49.51.112.0/20,DIRECT,no-resolve
 - IP-CIDR,49.52.0.0/14,DIRECT,no-resolve
 - IP-CIDR,49.64.0.0/11,DIRECT,no-resolve
 - IP-CIDR,49.112.0.0/13,DIRECT,no-resolve
@@ -3775,6 +3568,7 @@ rules:
 - IP-CIDR,61.232.0.0/14,DIRECT,no-resolve
 - IP-CIDR,61.236.0.0/15,DIRECT,no-resolve
 - IP-CIDR,61.240.0.0/14,DIRECT,no-resolve
+- IP-CIDR,62.234.0.0/16,DIRECT,no-resolve
 - IP-CIDR,67.220.137.144/28,DIRECT,no-resolve
 - IP-CIDR,68.79.0.0/18,DIRECT,no-resolve
 - IP-CIDR,69.230.192.0/18,DIRECT,no-resolve
@@ -3794,6 +3588,7 @@ rules:
 - IP-CIDR,93.113.109.136/29,DIRECT,no-resolve
 - IP-CIDR,93.183.14.0/24,DIRECT,no-resolve
 - IP-CIDR,93.183.18.0/24,DIRECT,no-resolve
+- IP-CIDR,94.191.0.0/17,DIRECT,no-resolve
 - IP-CIDR,101.0.0.0/22,DIRECT,no-resolve
 - IP-CIDR,101.1.0.0/22,DIRECT,no-resolve
 - IP-CIDR,101.2.172.0/22,DIRECT,no-resolve
@@ -3873,6 +3668,16 @@ rules:
 - IP-CIDR,101.192.0.0/14,DIRECT,no-resolve
 - IP-CIDR,101.196.0.0/16,DIRECT,no-resolve
 - IP-CIDR,101.198.0.0/22,DIRECT,no-resolve
+- IP-CIDR,101.198.128.0/24,DIRECT,no-resolve
+- IP-CIDR,101.198.170.0/23,DIRECT,no-resolve
+- IP-CIDR,101.198.172.0/22,DIRECT,no-resolve
+- IP-CIDR,101.198.176.0/21,DIRECT,no-resolve
+- IP-CIDR,101.198.184.0/22,DIRECT,no-resolve
+- IP-CIDR,101.198.189.0/24,DIRECT,no-resolve
+- IP-CIDR,101.198.190.0/23,DIRECT,no-resolve
+- IP-CIDR,101.198.194.0/24,DIRECT,no-resolve
+- IP-CIDR,101.198.196.0/22,DIRECT,no-resolve
+- IP-CIDR,101.198.200.0/22,DIRECT,no-resolve
 - IP-CIDR,101.198.224.0/19,DIRECT,no-resolve
 - IP-CIDR,101.199.0.0/19,DIRECT,no-resolve
 - IP-CIDR,101.199.48.0/20,DIRECT,no-resolve
@@ -4090,6 +3895,7 @@ rules:
 - IP-CIDR,103.31.148.0/22,DIRECT,no-resolve
 - IP-CIDR,103.31.160.0/22,DIRECT,no-resolve
 - IP-CIDR,103.31.168.0/22,DIRECT,no-resolve
+- IP-CIDR,103.31.200.0/22,DIRECT,no-resolve
 - IP-CIDR,103.31.242.0/23,DIRECT,no-resolve
 - IP-CIDR,103.32.0.0/15,DIRECT,no-resolve
 - IP-CIDR,103.34.0.0/16,DIRECT,no-resolve
@@ -4412,11 +4218,18 @@ rules:
 - IP-CIDR,103.71.72.0/22,DIRECT,no-resolve
 - IP-CIDR,103.71.80.0/21,DIRECT,no-resolve
 - IP-CIDR,103.71.88.0/22,DIRECT,no-resolve
+- IP-CIDR,103.71.120.0/21,DIRECT,no-resolve
+- IP-CIDR,103.71.128.0/22,DIRECT,no-resolve
+- IP-CIDR,103.71.196.0/22,DIRECT,no-resolve
+- IP-CIDR,103.71.200.0/22,DIRECT,no-resolve
 - IP-CIDR,103.71.232.0/22,DIRECT,no-resolve
+- IP-CIDR,103.72.12.0/22,DIRECT,no-resolve
 - IP-CIDR,103.72.16.0/20,DIRECT,no-resolve
 - IP-CIDR,103.72.32.0/20,DIRECT,no-resolve
+- IP-CIDR,103.72.48.0/21,DIRECT,no-resolve
 - IP-CIDR,103.72.112.0/21,DIRECT,no-resolve
 - IP-CIDR,103.72.124.0/22,DIRECT,no-resolve
+- IP-CIDR,103.72.128.0/21,DIRECT,no-resolve
 - IP-CIDR,103.72.172.0/22,DIRECT,no-resolve
 - IP-CIDR,103.72.180.0/22,DIRECT,no-resolve
 - IP-CIDR,103.72.224.0/19,DIRECT,no-resolve
@@ -4431,7 +4244,9 @@ rules:
 - IP-CIDR,103.73.204.0/22,DIRECT,no-resolve
 - IP-CIDR,103.73.208.0/22,DIRECT,no-resolve
 - IP-CIDR,103.73.248.0/22,DIRECT,no-resolve
+- IP-CIDR,103.74.24.0/21,DIRECT,no-resolve
 - IP-CIDR,103.74.32.0/20,DIRECT,no-resolve
+- IP-CIDR,103.74.48.0/22,DIRECT,no-resolve
 - IP-CIDR,103.74.56.0/21,DIRECT,no-resolve
 - IP-CIDR,103.74.80.0/22,DIRECT,no-resolve
 - IP-CIDR,103.74.124.0/22,DIRECT,no-resolve
@@ -5150,6 +4965,7 @@ rules:
 - IP-CIDR,103.195.112.0/22,DIRECT,no-resolve
 - IP-CIDR,103.195.152.0/22,DIRECT,no-resolve
 - IP-CIDR,103.195.160.0/22,DIRECT,no-resolve
+- IP-CIDR,103.196.64.0/22,DIRECT,no-resolve
 - IP-CIDR,103.196.72.0/22,DIRECT,no-resolve
 - IP-CIDR,103.196.88.0/21,DIRECT,no-resolve
 - IP-CIDR,103.196.96.0/22,DIRECT,no-resolve
@@ -5333,6 +5149,7 @@ rules:
 - IP-CIDR,103.218.178.0/23,DIRECT,no-resolve
 - IP-CIDR,103.218.192.0/20,DIRECT,no-resolve
 - IP-CIDR,103.218.208.0/21,DIRECT,no-resolve
+- IP-CIDR,103.218.216.0/22,DIRECT,no-resolve
 - IP-CIDR,103.219.24.0/21,DIRECT,no-resolve
 - IP-CIDR,103.219.32.0/21,DIRECT,no-resolve
 - IP-CIDR,103.219.64.0/22,DIRECT,no-resolve
@@ -6012,6 +5829,7 @@ rules:
 - IP-CIDR,106.224.0.0/12,DIRECT,no-resolve
 - IP-CIDR,107.176.0.0/15,DIRECT,no-resolve
 - IP-CIDR,109.71.4.0/24,DIRECT,no-resolve
+- IP-CIDR,109.244.0.0/16,DIRECT,no-resolve
 - IP-CIDR,110.6.0.0/15,DIRECT,no-resolve
 - IP-CIDR,110.16.0.0/14,DIRECT,no-resolve
 - IP-CIDR,110.34.40.0/21,DIRECT,no-resolve
@@ -6196,6 +6014,8 @@ rules:
 - IP-CIDR,114.28.196.0/22,DIRECT,no-resolve
 - IP-CIDR,114.28.200.0/21,DIRECT,no-resolve
 - IP-CIDR,114.28.208.0/20,DIRECT,no-resolve
+- IP-CIDR,114.28.232.0/23,DIRECT,no-resolve
+- IP-CIDR,114.28.234.0/24,DIRECT,no-resolve
 - IP-CIDR,114.28.240.0/20,DIRECT,no-resolve
 - IP-CIDR,114.31.64.0/21,DIRECT,no-resolve
 - IP-CIDR,114.54.0.0/15,DIRECT,no-resolve
@@ -6234,6 +6054,7 @@ rules:
 - IP-CIDR,114.113.140.0/22,DIRECT,no-resolve
 - IP-CIDR,114.113.144.0/20,DIRECT,no-resolve
 - IP-CIDR,114.113.160.0/19,DIRECT,no-resolve
+- IP-CIDR,114.113.196.0/22,DIRECT,no-resolve
 - IP-CIDR,114.113.200.0/21,DIRECT,no-resolve
 - IP-CIDR,114.113.208.0/20,DIRECT,no-resolve
 - IP-CIDR,114.113.224.0/20,DIRECT,no-resolve
@@ -6539,6 +6360,7 @@ rules:
 - IP-CIDR,119.0.0.0/15,DIRECT,no-resolve
 - IP-CIDR,119.2.0.0/19,DIRECT,no-resolve
 - IP-CIDR,119.2.128.0/17,DIRECT,no-resolve
+- IP-CIDR,119.3.0.0/16,DIRECT,no-resolve
 - IP-CIDR,119.4.0.0/14,DIRECT,no-resolve
 - IP-CIDR,119.10.0.0/17,DIRECT,no-resolve
 - IP-CIDR,119.15.136.0/21,DIRECT,no-resolve
@@ -6550,6 +6372,8 @@ rules:
 - IP-CIDR,119.20.0.0/14,DIRECT,no-resolve
 - IP-CIDR,119.27.64.0/18,DIRECT,no-resolve
 - IP-CIDR,119.27.128.0/17,DIRECT,no-resolve
+- IP-CIDR,119.28.28.0/24,DIRECT,no-resolve
+- IP-CIDR,119.29.0.0/16,DIRECT,no-resolve
 - IP-CIDR,119.30.48.0/20,DIRECT,no-resolve
 - IP-CIDR,119.31.192.0/19,DIRECT,no-resolve
 - IP-CIDR,119.32.0.0/14,DIRECT,no-resolve
@@ -6699,6 +6523,7 @@ rules:
 - IP-CIDR,121.47.0.0/16,DIRECT,no-resolve
 - IP-CIDR,121.48.0.0/15,DIRECT,no-resolve
 - IP-CIDR,121.50.8.0/21,DIRECT,no-resolve
+- IP-CIDR,121.51.0.0/16,DIRECT,no-resolve
 - IP-CIDR,121.52.160.0/19,DIRECT,no-resolve
 - IP-CIDR,121.52.208.0/20,DIRECT,no-resolve
 - IP-CIDR,121.52.224.0/19,DIRECT,no-resolve
@@ -6821,6 +6646,7 @@ rules:
 - IP-CIDR,122.112.118.0/24,DIRECT,no-resolve
 - IP-CIDR,122.112.122.0/24,DIRECT,no-resolve
 - IP-CIDR,122.112.125.0/24,DIRECT,no-resolve
+- IP-CIDR,122.112.128.0/17,DIRECT,no-resolve
 - IP-CIDR,122.113.0.0/19,DIRECT,no-resolve
 - IP-CIDR,122.113.32.0/20,DIRECT,no-resolve
 - IP-CIDR,122.113.48.0/23,DIRECT,no-resolve
@@ -7064,15 +6890,20 @@ rules:
 - IP-CIDR,125.254.128.0/17,DIRECT,no-resolve
 - IP-CIDR,128.107.24.0/23,DIRECT,no-resolve
 - IP-CIDR,128.108.0.0/16,DIRECT,no-resolve
+- IP-CIDR,129.28.0.0/16,DIRECT,no-resolve
+- IP-CIDR,129.204.0.0/16,DIRECT,no-resolve
+- IP-CIDR,129.211.0.0/16,DIRECT,no-resolve
 - IP-CIDR,130.36.146.0/23,DIRECT,no-resolve
 - IP-CIDR,130.214.218.0/23,DIRECT,no-resolve
 - IP-CIDR,131.228.96.0/23,DIRECT,no-resolve
 - IP-CIDR,131.253.12.0/29,DIRECT,no-resolve
 - IP-CIDR,131.253.12.80/28,DIRECT,no-resolve
 - IP-CIDR,131.253.12.240/29,DIRECT,no-resolve
+- IP-CIDR,132.232.0.0/16,DIRECT,no-resolve
 - IP-CIDR,132.237.134.0/24,DIRECT,no-resolve
 - IP-CIDR,134.75.107.10/31,DIRECT,no-resolve
 - IP-CIDR,134.75.107.14/31,DIRECT,no-resolve
+- IP-CIDR,134.175.0.0/16,DIRECT,no-resolve
 - IP-CIDR,137.59.59.0/24,DIRECT,no-resolve
 - IP-CIDR,137.59.88.0/22,DIRECT,no-resolve
 - IP-CIDR,138.32.244.0/24,DIRECT,no-resolve
@@ -7084,7 +6915,12 @@ rules:
 - IP-CIDR,139.5.192.0/22,DIRECT,no-resolve
 - IP-CIDR,139.5.204.0/22,DIRECT,no-resolve
 - IP-CIDR,139.5.244.0/22,DIRECT,no-resolve
+- IP-CIDR,139.9.0.0/18,DIRECT,no-resolve
+- IP-CIDR,139.9.64.0/19,DIRECT,no-resolve
 - IP-CIDR,139.9.96.0/23,DIRECT,no-resolve
+- IP-CIDR,139.9.100.0/22,DIRECT,no-resolve
+- IP-CIDR,139.9.104.0/21,DIRECT,no-resolve
+- IP-CIDR,139.9.112.0/20,DIRECT,no-resolve
 - IP-CIDR,139.9.128.0/17,DIRECT,no-resolve
 - IP-CIDR,139.129.0.0/16,DIRECT,no-resolve
 - IP-CIDR,139.138.238.0/28,DIRECT,no-resolve
@@ -7179,6 +7015,7 @@ rules:
 - IP-CIDR,144.211.80.0/24,DIRECT,no-resolve
 - IP-CIDR,144.211.138.0/24,DIRECT,no-resolve
 - IP-CIDR,144.255.0.0/16,DIRECT,no-resolve
+- IP-CIDR,146.56.192.0/18,DIRECT,no-resolve
 - IP-CIDR,146.75.187.2/31,DIRECT,no-resolve
 - IP-CIDR,146.75.189.2/31,DIRECT,no-resolve
 - IP-CIDR,146.75.196.0/31,DIRECT,no-resolve
@@ -7196,6 +7033,7 @@ rules:
 - IP-CIDR,147.243.30.64/26,DIRECT,no-resolve
 - IP-CIDR,147.243.30.128/27,DIRECT,no-resolve
 - IP-CIDR,147.243.103.0/25,DIRECT,no-resolve
+- IP-CIDR,148.70.0.0/16,DIRECT,no-resolve
 - IP-CIDR,150.0.0.0/16,DIRECT,no-resolve
 - IP-CIDR,150.115.0.0/16,DIRECT,no-resolve
 - IP-CIDR,150.121.0.0/16,DIRECT,no-resolve
@@ -7232,6 +7070,7 @@ rules:
 - IP-CIDR,150.248.0.0/16,DIRECT,no-resolve
 - IP-CIDR,150.255.0.0/16,DIRECT,no-resolve
 - IP-CIDR,152.104.128.0/17,DIRECT,no-resolve
+- IP-CIDR,152.136.0.0/16,DIRECT,no-resolve
 - IP-CIDR,153.0.0.0/16,DIRECT,no-resolve
 - IP-CIDR,153.3.0.0/16,DIRECT,no-resolve
 - IP-CIDR,153.34.0.0/15,DIRECT,no-resolve
@@ -7319,6 +7158,15 @@ rules:
 - IP-CIDR,161.163.28.0/23,DIRECT,no-resolve
 - IP-CIDR,161.189.0.0/16,DIRECT,no-resolve
 - IP-CIDR,161.207.0.0/16,DIRECT,no-resolve
+- IP-CIDR,162.14.0.0/20,DIRECT,no-resolve
+- IP-CIDR,162.14.16.0/21,DIRECT,no-resolve
+- IP-CIDR,162.14.26.0/23,DIRECT,no-resolve
+- IP-CIDR,162.14.28.0/22,DIRECT,no-resolve
+- IP-CIDR,162.14.32.0/21,DIRECT,no-resolve
+- IP-CIDR,162.14.40.0/22,DIRECT,no-resolve
+- IP-CIDR,162.14.48.0/20,DIRECT,no-resolve
+- IP-CIDR,162.14.64.0/18,DIRECT,no-resolve
+- IP-CIDR,162.14.128.0/17,DIRECT,no-resolve
 - IP-CIDR,162.105.0.0/16,DIRECT,no-resolve
 - IP-CIDR,163.0.0.0/16,DIRECT,no-resolve
 - IP-CIDR,163.47.4.0/22,DIRECT,no-resolve
@@ -7406,6 +7254,10 @@ rules:
 - IP-CIDR,175.186.0.0/15,DIRECT,no-resolve
 - IP-CIDR,175.188.0.0/14,DIRECT,no-resolve
 - IP-CIDR,178.173.240.0/24,DIRECT,no-resolve
+- IP-CIDR,180.76.16.0/20,DIRECT,no-resolve
+- IP-CIDR,180.76.32.0/19,DIRECT,no-resolve
+- IP-CIDR,180.76.64.0/18,DIRECT,no-resolve
+- IP-CIDR,180.76.128.0/17,DIRECT,no-resolve
 - IP-CIDR,180.77.0.0/16,DIRECT,no-resolve
 - IP-CIDR,180.78.0.0/15,DIRECT,no-resolve
 - IP-CIDR,180.84.0.0/15,DIRECT,no-resolve
@@ -7462,6 +7314,9 @@ rules:
 - IP-CIDR,182.51.0.0/16,DIRECT,no-resolve
 - IP-CIDR,182.54.0.0/17,DIRECT,no-resolve
 - IP-CIDR,182.54.244.0/22,DIRECT,no-resolve
+- IP-CIDR,182.61.0.0/18,DIRECT,no-resolve
+- IP-CIDR,182.61.128.0/19,DIRECT,no-resolve
+- IP-CIDR,182.61.192.0/18,DIRECT,no-resolve
 - IP-CIDR,182.80.0.0/13,DIRECT,no-resolve
 - IP-CIDR,182.88.0.0/14,DIRECT,no-resolve
 - IP-CIDR,182.92.0.0/16,DIRECT,no-resolve
@@ -7477,6 +7332,26 @@ rules:
 - IP-CIDR,182.238.0.0/16,DIRECT,no-resolve
 - IP-CIDR,182.239.0.0/19,DIRECT,no-resolve
 - IP-CIDR,182.240.0.0/13,DIRECT,no-resolve
+- IP-CIDR,182.254.0.0/24,DIRECT,no-resolve
+- IP-CIDR,182.254.1.0/29,DIRECT,no-resolve
+- IP-CIDR,182.254.1.8/30,DIRECT,no-resolve
+- IP-CIDR,182.254.1.14/31,DIRECT,no-resolve
+- IP-CIDR,182.254.1.16/29,DIRECT,no-resolve
+- IP-CIDR,182.254.1.24/30,DIRECT,no-resolve
+- IP-CIDR,182.254.1.28/31,DIRECT,no-resolve
+- IP-CIDR,182.254.1.34/31,DIRECT,no-resolve
+- IP-CIDR,182.254.1.36/30,DIRECT,no-resolve
+- IP-CIDR,182.254.1.40/29,DIRECT,no-resolve
+- IP-CIDR,182.254.1.48/28,DIRECT,no-resolve
+- IP-CIDR,182.254.1.64/26,DIRECT,no-resolve
+- IP-CIDR,182.254.1.128/25,DIRECT,no-resolve
+- IP-CIDR,182.254.2.0/23,DIRECT,no-resolve
+- IP-CIDR,182.254.4.0/22,DIRECT,no-resolve
+- IP-CIDR,182.254.8.0/21,DIRECT,no-resolve
+- IP-CIDR,182.254.16.0/20,DIRECT,no-resolve
+- IP-CIDR,182.254.32.0/19,DIRECT,no-resolve
+- IP-CIDR,182.254.64.0/18,DIRECT,no-resolve
+- IP-CIDR,182.254.128.0/17,DIRECT,no-resolve
 - IP-CIDR,183.0.0.0/10,DIRECT,no-resolve
 - IP-CIDR,183.64.0.0/13,DIRECT,no-resolve
 - IP-CIDR,183.78.160.0/21,DIRECT,no-resolve
@@ -7495,6 +7370,7 @@ rules:
 - IP-CIDR,183.184.0.0/13,DIRECT,no-resolve
 - IP-CIDR,183.192.0.0/10,DIRECT,no-resolve
 - IP-CIDR,185.241.211.0/24,DIRECT,no-resolve
+- IP-CIDR,188.131.128.0/17,DIRECT,no-resolve
 - IP-CIDR,192.23.191.0/24,DIRECT,no-resolve
 - IP-CIDR,192.55.10.0/23,DIRECT,no-resolve
 - IP-CIDR,192.55.40.0/24,DIRECT,no-resolve
@@ -8945,6 +8821,7 @@ rules:
 - IP-CIDR,203.192.0.0/19,DIRECT,no-resolve
 - IP-CIDR,203.193.224.0/19,DIRECT,no-resolve
 - IP-CIDR,203.195.64.0/19,DIRECT,no-resolve
+- IP-CIDR,203.195.128.0/17,DIRECT,no-resolve
 - IP-CIDR,203.196.0.0/21,DIRECT,no-resolve
 - IP-CIDR,203.196.28.0/22,DIRECT,no-resolve
 - IP-CIDR,203.201.181.0/24,DIRECT,no-resolve
@@ -9116,6 +8993,8 @@ rules:
 - IP-CIDR,211.157.0.0/16,DIRECT,no-resolve
 - IP-CIDR,211.158.0.0/15,DIRECT,no-resolve
 - IP-CIDR,211.160.0.0/13,DIRECT,no-resolve
+- IP-CIDR,212.64.0.0/17,DIRECT,no-resolve
+- IP-CIDR,212.129.128.0/17,DIRECT,no-resolve
 - IP-CIDR,213.199.169.0/24,DIRECT,no-resolve
 - IP-CIDR,213.255.231.0/24,DIRECT,no-resolve
 - IP-CIDR,218.0.0.0/12,DIRECT,no-resolve
