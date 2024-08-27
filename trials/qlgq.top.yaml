@@ -1305,6 +1305,8 @@ rules:
 - DOMAIN-SUFFIX,didialift.com,DIRECT
 - DOMAIN-SUFFIX,didiglobal.com,DIRECT
 - DOMAIN-SUFFIX,udache.com,DIRECT
+- DOMAIN-SUFFIX,bytefcdnrd.com,DIRECT
+- DOMAIN-SUFFIX,edgesrv.com,DIRECT
 - DOMAIN-SUFFIX,douyu.com,DIRECT
 - DOMAIN-SUFFIX,douyu.tv,DIRECT
 - DOMAIN-SUFFIX,douyuscdn.com,DIRECT
@@ -1590,6 +1592,7 @@ rules:
 - DOMAIN-SUFFIX,kaola.com,DIRECT
 - DOMAIN-SUFFIX,knewone.com,DIRECT
 - DOMAIN-SUFFIX,koowo.com,DIRECT
+- DOMAIN-SUFFIX,koyso.com,DIRECT
 - DOMAIN-SUFFIX,ksyungslb.com,DIRECT
 - DOMAIN-SUFFIX,kuaidi100.com,DIRECT
 - DOMAIN-SUFFIX,kugou.com,DIRECT
@@ -1979,7 +1982,6 @@ rules:
 - DOMAIN-SUFFIX,rtbasia.com,REJECT
 - DOMAIN-SUFFIX,sanya1.com,REJECT
 - DOMAIN-SUFFIX,scupio.com,REJECT
-- DOMAIN-SUFFIX,serving-sys.com,REJECT
 - DOMAIN-SUFFIX,shuiguo.com,REJECT
 - DOMAIN-SUFFIX,similarweb.com,REJECT
 - DOMAIN-SUFFIX,sitemeter.com,REJECT
@@ -2184,6 +2186,7 @@ rules:
 - DOMAIN-SUFFIX,sape.ru,REJECT
 - DOMAIN-SUFFIX,scorecardresearch.com,REJECT
 - DOMAIN-SUFFIX,segment.com,REJECT
+- DOMAIN-SUFFIX,serving-sys.com,REJECT
 - DOMAIN-SUFFIX,smaato.com,REJECT
 - DOMAIN-SUFFIX,smaato.net,REJECT
 - DOMAIN-SUFFIX,smartadserver.com,REJECT
