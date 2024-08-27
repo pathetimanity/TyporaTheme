@@ -1245,6 +1245,8 @@ rules:
 - DOMAIN-SUFFIX,didialift.com,DIRECT
 - DOMAIN-SUFFIX,didiglobal.com,DIRECT
 - DOMAIN-SUFFIX,udache.com,DIRECT
+- DOMAIN-SUFFIX,bytefcdnrd.com,DIRECT
+- DOMAIN-SUFFIX,edgesrv.com,DIRECT
 - DOMAIN-SUFFIX,douyu.com,DIRECT
 - DOMAIN-SUFFIX,douyu.tv,DIRECT
 - DOMAIN-SUFFIX,douyuscdn.com,DIRECT
