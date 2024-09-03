@@ -5,8 +5,25 @@ allow-lan: true
 mode: rule
 log-level: info
 external-controller: :9090
-proxy-groups: []
-proxy-providers: {}
+proxy-groups:
+- name: 🚀 节点选择
+  type: select
+  use: &id001
+  - All
+- name: ♻️ 自动选择
+  type: url-test
+  tolerance: 100
+  use: *id001
+proxy-providers:
+  All:
+    type: http
+    url: https://raw.kgithub.com/pathetimanity/TyporaTheme/main/trials_providers/cyanmori.com/All.yaml
+    interval: 180
+    path: trials_providers/cyanmori.com/All.yaml
+    health-check:
+      enable: true
+      url: https://i.ytimg.com/generate_204
+      interval: 30
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
