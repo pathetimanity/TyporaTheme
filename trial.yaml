@@ -9,21 +9,6 @@ proxy-groups:
 - name: 🚀 节点选择
   type: select
   proxies: &id001
-  - 🇭🇰 香港 1 - 西瓜皮是真的皮
-  - 🇭🇰 香港 2 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
-  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
-  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
-  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
-  - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
-  - 🇺🇸 美国 1 - 西瓜皮是真的皮
-  - 🇺🇸 美国 2 - 西瓜皮是真的皮
-  - 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮
-  - 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮
-  - 🇻🇳 越南 1 - 西瓜皮是真的皮
-  - 🇻🇳 越南 2 - 西瓜皮是真的皮
-  - 🇮🇳 印度 1 - 西瓜皮是真的皮
   - 🇭🇰 香港01 - Cyanmori
   - 🇭🇰 香港02 - Cyanmori
   - 🇭🇰 香港03 - Cyanmori
@@ -197,6 +182,21 @@ proxy-groups:
   - 🇲🇾 马来西亚 001 - 墙了个墙
   - 🇲🇾 马来西亚 002 - 墙了个墙
   - 🇲🇾 马来西亚 003 - 墙了个墙
+  - 🇭🇰 香港 1 - 西瓜皮是真的皮
+  - 🇭🇰 香港 2 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮
+  - 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮
+  - 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮
+  - 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮
+  - 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮
+  - 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮
+  - 🇺🇸 美国 1 - 西瓜皮是真的皮
+  - 🇺🇸 美国 2 - 西瓜皮是真的皮
+  - 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮
+  - 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮
+  - 🇻🇳 越南 1 - 西瓜皮是真的皮
+  - 🇻🇳 越南 2 - 西瓜皮是真的皮
+  - 🇮🇳 印度 1 - 西瓜皮是真的皮
 - name: ♻️ 自动选择
   type: url-test
   url: https://i.ytimg.com/generate_204
@@ -204,21 +204,6 @@ proxy-groups:
   tolerance: 100
   proxies: *id001
 proxies:
-- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19891, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19892, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19893, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19894, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
-- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 - {name: 🇭🇰 香港01 - Cyanmori, server: hk1.lvuy.xyz, port: 10031, type: ss, cipher: chacha20-ietf-poly1305, password: Ge7t1FFRDn6zObNQ, udp: true}
 - {name: 🇭🇰 香港02 - Cyanmori, server: hk2.lvuy.xyz, port: 10032, type: ss, cipher: chacha20-ietf-poly1305, password: Ge7t1FFRDn6zObNQ, udp: true}
 - {name: 🇭🇰 香港03 - Cyanmori, server: hk3.lvuy.xyz, port: 12345, type: ss, cipher: chacha20-ietf-poly1305, password: Ge7t1FFRDn6zObNQ, udp: true}
@@ -392,6 +377,21 @@ proxies:
 - {name: 🇲🇾 马来西亚 001 - 墙了个墙, server: klvip101.qlgq.fun, port: 10443, type: trojan, password: d19dca3a-a2e6-3ca7-93f0-0586e1c0b7b2, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇲🇾 马来西亚 002 - 墙了个墙, server: klvip101.qlgq.fun, port: 20443, type: trojan, password: d19dca3a-a2e6-3ca7-93f0-0586e1c0b7b2, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
 - {name: 🇲🇾 马来西亚 003 - 墙了个墙, server: klvip101.qlgq.fun, port: 30443, type: trojan, password: d19dca3a-a2e6-3ca7-93f0-0586e1c0b7b2, sni: klvip101.qlgq.fun, skip-cert-verify: true, network: grpc, grpc-opts: {grpc-service-name: klvip101}, udp: true}
+- {name: 🇭🇰 香港 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19811, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇭🇰 香港 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19812, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 1 动画疯 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19821, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇹🇼 台湾 2 动画疯 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19822, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 1 Nico Abema - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19831, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇯🇵 日本 2 Nico Abema - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19832, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 1 GPT/Netflix  - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19841, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇸🇬 新加坡 2 GPT/Netflix - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19842, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 29811, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇺🇸 美国 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19862, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19891, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度尼西亚 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19892, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 1 - 西瓜皮是真的皮, server: xgcma.dx002.top, port: 19893, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇻🇳 越南 2 - 西瓜皮是真的皮, server: xgcta.dx002.top, port: 19894, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+- {name: 🇮🇳 印度 1 - 西瓜皮是真的皮, server: xg-cm1.dx001.top, port: 19882, type: vmess, uuid: 0598b860-184d-3e41-bd45-f9b1ddd6af00, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
 rules:
 - DOMAIN-SUFFIX,bing.com,🚀 节点选择
 - DOMAIN-KEYWORD,.blogspot.,🚀 节点选择
