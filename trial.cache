@@ -3,10 +3,10 @@ auto_invite  F
 banned_domains  psnator.com  tmpnator.live  smartnator.com
 buy  pass
 email  oapfdwb658@965.tmmad.com
-last_checkin  2024-09-10 02:20:34.180972+08:00
+last_checkin  2024-09-11 00:41:56.937300+08:00
 name  墙了个墙
 node_n  34
-sub_info  9.197G  888G  2024-09-11 02:20:34+08:00  (剩余 878.8G 2:02:10.530834)
+sub_info  9.209G  888G  2024-09-11 02:20:34+08:00  (剩余 878.8G 1:38:32.539104)
 sub_url  https://www.qlgq.top/link/2b15862ecaf9c4c0?clash=1
 time  2024-09-10 02:20:40.343399+08:00
 type  sspanel
@@ -17,10 +17,10 @@ auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live
 buy  pass
 email  iwagpsyvt592@linshiyou.com
-last_checkin  2024-09-10 16:41:05.254332+08:00
+last_checkin  2024-09-11 00:41:56.936677+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  201.9M  1.146G  2024-09-11 16:41:04+08:00  (剩余 971.1M 16:22:38.137327)
+sub_info  202M  1.878G  2024-09-11 16:41:04+08:00  (剩余 1.681G 15:59:02.668788)
 sub_url  https://network.ayucloud.nl/link/sgOGzeDt0LXdvK2b?clash=1
 time  2024-09-10 16:41:06.250149+08:00
 type  sspanel
@@ -29,10 +29,10 @@ type  sspanel
 auto_invite  F
 buy  pass
 email  pkjftxtmf368@gmail.com
-last_checkin  2024-09-10 22:14:55.099555+08:00
+last_checkin  2024-09-11 00:41:56.939026+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  470M  2024-09-11 04:14:22+08:00  (剩余 470M 3:55:53.985083)
+sub_info  0B  931M  2024-09-11 04:14:22+08:00  (剩余 931M 3:32:19.141505)
 sub_url  https://qslink.yeahfast.com/link/UKhkbDK9VxTYiFIJ?clash=1
 time  2024-09-10 22:14:56.039832+08:00
 type  sspanel
@@ -41,13 +41,12 @@ type  sspanel
 auto_invite  F
 buy  pass
 email  ueauudi454@gmail.com
-last_checkin  2024-09-10 00:19:01.473131+08:00
+last_checkin  2024-09-11 00:41:56.940126+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  3.3G  2024-08-12 12:02:31+08:00  (剩余 3.3G -30 days, 12:25:10.526600)
+sub_info  0B  3.415G  2024-08-12 12:02:31+08:00  (剩余 3.415G -30 days, 11:20:29.145297)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
-保存base64/clash订阅失败  mapping values are not allowed here in "<byte string>", line 9, column 23: <title>url.v1.mk | 502: Bad gateway</title> ^ (line: 9)
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(dwjztglaq647@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(manzhexfs543@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
