@@ -6,7 +6,7 @@ email  ovltfbld255@disbox.net
 last_checkin  2024-09-17 02:45:14.323575+08:00
 name  墙了个墙
 node_n  34
-sub_info  134G  888G  2024-09-18 02:45:14+08:00  (剩余 754G 10:24:46.496162)
+sub_info  134G  888G  2024-09-18 02:45:14+08:00  (剩余 754G 10:03:18.904753)
 sub_url  https://www.qlgq.top/link/7b4cdd89da9f14ec?clash=1
 time  2024-09-17 02:45:24.546110+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  xxlbren889@guerrillamail.com
 last_checkin  2024-09-17 06:01:20.077607+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  130.3M  1.104G  2024-09-18 06:01:19+08:00  (剩余 999.7M 13:40:50.744697)
+sub_info  136.5M  1.104G  2024-09-18 06:01:19+08:00  (剩余 993.5M 13:19:27.733892)
 sub_url  https://network.ayucloud.nl/link/IV3lIlBqn9wgEmzw?clash=1
 time  2024-09-17 06:01:21.091327+08:00
 type  sspanel
@@ -32,7 +32,7 @@ email  vypkwyl419@gmail.com
 last_checkin  2024-09-17 15:36:02.176027+08:00
 name  Cyanmori
 node_n  40
-sub_info  0B  581M  2024-09-17 21:35:25+08:00  (剩余 581M 5:14:54.879359)
+sub_info  0B  581M  2024-09-17 21:35:25+08:00  (剩余 581M 4:53:31.525739)
 sub_url  https://cyanmori.com/link/yihwL2VxrswvzA3m?clash=1
 time  2024-09-17 15:36:03.009152+08:00
 type  sspanel
@@ -48,5 +48,6 @@ sub_info  0B  4.127G  2024-08-12 12:02:31+08:00  (剩余 4.127G -37 days, 19:41:
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(cjohgnr968@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(kladczs190@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
