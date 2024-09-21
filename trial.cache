@@ -6,7 +6,7 @@ email  bjtslom703@moakt.co
 last_checkin  2024-09-22 00:41:57.351079+08:00
 name  墙了个墙
 node_n  30
-sub_info  5.121G  888.1G  2024-09-22 22:12:57+08:00  (剩余 882.9G 14:58:39.319197)
+sub_info  5.256G  888.1G  2024-09-22 22:12:57+08:00  (剩余 882.8G 14:36:32.843413)
 sub_url  https://www.qlgq.top/link/ff849ffb716b42ac?clash=1
 time  2024-09-21 22:12:58.447280+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  tmooonti581@guerrillamail.org
 last_checkin  2024-09-22 01:15:06.242871+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  27.33M  1.138G  2024-09-23 01:15:05+08:00  (剩余 1.111G 18:00:41.958712)
+sub_info  27.45M  1.138G  2024-09-23 01:15:05+08:00  (剩余 1.111G 17:38:42.081168)
 sub_url  https://network.ayucloud.nl/link/xGbLMm9qp2UIu8wk?clash=1
 time  2024-09-22 01:15:07.224212+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -50,5 +50,6 @@ sub_info  0B  4.696G  2024-08-12 12:02:31+08:00  (剩余 4.696G -41 days, 4:47:5
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(jrrdysqd109@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(mhflykfy631@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
