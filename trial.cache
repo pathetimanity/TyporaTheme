@@ -6,7 +6,7 @@ email  bjtslom703@moakt.co
 last_checkin  2024-09-21 22:12:57.581844+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-09-22 22:12:57+08:00  (剩余 888G 23:59:55.815533)
+sub_info  26.86K  888G  2024-09-22 22:12:57+08:00  (剩余 888G 23:36:27.680964)
 sub_url  https://www.qlgq.top/link/ff849ffb716b42ac?clash=1
 time  2024-09-21 22:12:58.447280+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  ehpyyfh599@guerrillamail.biz
 last_checkin  2024-09-21 01:37:51.685603+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  60.52M  1.104G  2024-09-22 01:37:51+08:00  (剩余 1.044G 3:24:54.564201)
+sub_info  60.79M  1.104G  2024-09-22 01:37:51+08:00  (剩余 1.044G 3:01:21.169461)
 sub_url  https://network.ayucloud.nl/link/iWugChJgxHTpm5tw?clash=1
 time  2024-09-21 01:37:52.653377+08:00
 type  sspanel
@@ -51,4 +51,5 @@ sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(nyycsyk204@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(bzhnvtlb888@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
