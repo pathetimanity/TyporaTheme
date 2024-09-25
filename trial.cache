@@ -6,7 +6,7 @@ email  khfempy705@teml.net
 last_checkin  2024-09-25 00:44:10.083444+08:00
 name  墙了个墙
 node_n  30
-sub_info  967.6M  888.1G  2024-09-25 21:23:42+08:00  (剩余 887.1G 3:05:20.242152)
+sub_info  991.7M  888.1G  2024-09-25 21:23:42+08:00  (剩余 887.1G 2:41:56.720890)
 sub_url  https://www.qlgq.top/link/380e723da6564945?clash=1
 time  2024-09-24 21:23:43.999369+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  nqpmntn379@btcstar.site
 last_checkin  2024-09-25 16:23:10.842854+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  18.78M  1.09G  2024-09-26 16:23:10+08:00  (剩余 1.072G 22:04:41.730187)
+sub_info  18.88M  1.09G  2024-09-26 16:23:10+08:00  (剩余 1.071G 21:41:21.014956)
 sub_url  https://network.ayucloud.nl/link/h8ZfAOId85NvL655?clash=1
 time  2024-09-25 16:23:11.734458+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-09-25 00:44:10.085469+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  5.046G  2024-08-12 12:02:31+08:00  (剩余 5.046G -45 days, 17:43:44.844265)
+sub_info  0B  5.046G  2024-08-12 12:02:31+08:00  (剩余 5.046G -45 days, 17:20:31.375024)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(sleiczpjr664@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(opakhve708@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
