@@ -6,7 +6,7 @@ email  xnskgzvki308@guerrillamail.org
 last_checkin  2024-09-26 00:46:56.131404+08:00
 name  墙了个墙
 node_n  30
-sub_info  722.3M  888G  2024-09-26 21:24:48+08:00  (剩余 887.3G 2:11:13.344911)
+sub_info  733.6M  888G  2024-09-26 21:24:48+08:00  (剩余 887.3G 1:47:38.654360)
 sub_url  https://www.qlgq.top/link/3543f55e888b2445?clash=1
 time  2024-09-25 21:24:49.233963+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  cfhocdbsn762@btcstar.site
 last_checkin  2024-09-26 16:20:57.124673+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  5.943M  1.098G  2024-09-27 16:20:56+08:00  (剩余 1.092G 21:07:23.085489)
+sub_info  6.067M  1.098G  2024-09-27 16:20:56+08:00  (剩余 1.092G 20:43:50.133155)
 sub_url  https://network.ayucloud.nl/link/51qG6AwDrLQOSKN1?clash=1
 time  2024-09-26 16:20:58.090705+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-09-26 00:46:56.133447+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  5.172G  2024-08-12 12:02:31+08:00  (剩余 5.172G -46 days, 16:48:45.183377)
+sub_info  0B  5.172G  2024-08-12 12:02:31+08:00  (剩余 5.172G -46 days, 16:25:03.962778)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(tosbbdsn916@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(sgsmxine256@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
