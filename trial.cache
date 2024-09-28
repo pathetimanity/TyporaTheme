@@ -6,7 +6,7 @@ email  lljpsazjl477@tmpeml.com
 last_checkin  2024-09-29 00:41:02.654838+08:00
 name  墙了个墙
 node_n  30
-sub_info  198.9M  888G  2024-09-29 20:59:27+08:00  (剩余 887.9G 16:22:54.383887)
+sub_info  217.2M  888G  2024-09-29 20:59:27+08:00  (剩余 887.8G 15:45:02.094761)
 sub_url  https://www.qlgq.top/link/b681b6e560139c60?clash=1
 time  2024-09-28 20:59:28.165399+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  cngtmjj354@bccto.cc
 last_checkin  2024-09-29 00:41:02.653827+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  61.22M  1.85G  2024-09-29 16:40:53+08:00  (剩余 1.79G 12:04:18.290376)
+sub_info  61.34M  1.85G  2024-09-29 16:40:53+08:00  (剩余 1.79G 11:26:26.158027)
 sub_url  https://network.ayucloud.nl/link/1JYQ1OJ1V8DBrafq?clash=1
 time  2024-09-28 16:40:54.490448+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-09-29 00:41:02.656804+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  5.545G  2024-08-12 12:02:31+08:00  (剩余 5.545G -48 days, 7:25:35.926368)
+sub_info  0B  5.545G  2024-08-12 12:02:31+08:00  (剩余 5.545G -48 days, 6:47:56.326121)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(mloxxvld234@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(wbvfowz15@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
