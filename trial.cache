@@ -6,7 +6,7 @@ email  yuqcikk171@muatoc.com
 last_checkin  2024-10-02 00:44:45.470780+08:00
 name  墙了个墙
 node_n  30
-sub_info  883.4M  888.1G  2024-10-02 21:24:28+08:00  (剩余 887.2G 20:10:01.280858)
+sub_info  889.6M  888.1G  2024-10-02 21:24:28+08:00  (剩余 887.2G 19:46:30.110240)
 sub_url  https://www.qlgq.top/link/99bee4165bef44c6?clash=1
 time  2024-10-01 21:24:29.072230+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  uugvngsg798@snapmail.cc
 last_checkin  2024-10-02 00:44:45.469593+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  152.5M  1.812G  2024-10-02 16:21:55+08:00  (剩余 1.664G 15:07:24.500798)
+sub_info  152.6M  1.812G  2024-10-02 16:21:55+08:00  (剩余 1.663G 14:43:52.860229)
 sub_url  https://network.ayucloud.nl/link/g7xcy8R7JqO3VMC5?clash=1
 time  2024-10-01 16:21:56.564069+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-10-02 00:44:45.473053+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  5.895G  2024-08-12 12:02:31+08:00  (剩余 5.895G -51 days, 10:47:49.094320)
+sub_info  0B  5.895G  2024-08-12 12:02:31+08:00  (剩余 5.895G -51 days, 10:24:31.503783)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ceyomjf909@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(cjuxuexns376@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
