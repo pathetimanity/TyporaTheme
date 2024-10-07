@@ -6,7 +6,7 @@ email  ntcylbqhc168@456.junenestor.shop
 last_checkin  2024-10-07 00:40:40.146828+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.255G  888.1G  2024-10-07 20:29:04+08:00  (剩余 886.8G 2:10:45.140106)
+sub_info  1.268G  888.1G  2024-10-07 20:29:04+08:00  (剩余 886.8G 1:46:35.128857)
 sub_url  https://www.qlgq.top/link/7012752dc4cede9c?clash=1
 time  2024-10-06 20:29:05.732989+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  matbuan406@guerrillamail.org
 last_checkin  2024-10-07 00:40:40.145880+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  216.2M  1.769G  2024-10-07 22:38:17+08:00  (剩余 1.557G 4:19:54.255354)
+sub_info  220.1M  1.769G  2024-10-07 22:38:17+08:00  (剩余 1.554G 3:55:43.874539)
 sub_url  https://network.ayucloud.nl/link/h9AE2kfRQPkNsIOO?clash=1
 time  2024-10-06 22:38:18.694727+08:00
 type  sspanel
@@ -50,5 +50,6 @@ sub_info  0B  6.507G  2024-08-12 12:02:31+08:00  (剩余 6.507G -57 days, 17:44:
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(xyvrqafvk940@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+保存base64/clash订阅失败  string indices must be integers
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  注册失败(qqpcicjy691@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
