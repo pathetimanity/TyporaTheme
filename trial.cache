@@ -6,7 +6,7 @@ email  lhwxzyh625@jkd.tmmad.com
 last_checkin  2024-10-09 12:40:52.184643+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.267G  888G  2024-10-10 12:40:52+08:00  (剩余 886.8G 15:17:03.030822)
+sub_info  1.672G  888G  2024-10-10 12:40:52+08:00  (剩余 886.4G 14:59:46.573403)
 sub_url  https://www.qlgq.top/link/c71ca3b906f1aadb?clash=1
 time  2024-10-09 12:40:53.262274+08:00
 type  sspanel
@@ -16,15 +16,14 @@ auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live
 buy  pass
-email  ndgdcrtr427@456.donnachase.shop
-last_checkin  2024-10-09 00:44:18.806092+08:00
+email  slvcblfi639@854326.com
+last_checkin  2024-10-09 21:41:36.715906+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  432.3M  1.809G  2024-10-09 21:40:12+08:00  (剩余 1.386G 0:16:10.848326)
-sub_url  https://network.ayucloud.nl/link/9jPlIKlZSRuEOgZf?clash=1
-time  2024-10-08 21:40:13.912006+08:00
+sub_info  0B  1.161G  2024-10-10 21:41:36+08:00  (剩余 1.161G 23:59:55.838269)
+sub_url  https://network.ayucloud.nl/link/ivwfpX9v5rTcDBpm?clash=1
+time  2024-10-09 21:41:37.565437+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(hnbgjgzb924@disbox.net): 邮箱后缀已被拉黑
 
 [cyanmori.com]
 auto_invite  F
@@ -38,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
