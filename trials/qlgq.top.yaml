@@ -1092,6 +1092,40 @@ rules:
 - DOMAIN-SUFFIX,zeronet.io,🚀 节点选择
 - DOMAIN-SUFFIX,z-lib.org,🚀 节点选择
 - DOMAIN-SUFFIX,zoom.us,🚀 节点选择
+- DOMAIN-SUFFIX,acl4.ssr,DIRECT
+- DOMAIN-SUFFIX,ip6-localhost,DIRECT
+- DOMAIN-SUFFIX,ip6-loopback,DIRECT
+- DOMAIN-SUFFIX,lan,DIRECT
+- DOMAIN-SUFFIX,local,DIRECT
+- DOMAIN-SUFFIX,localhost,DIRECT
+- IP-CIDR,0.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,10.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,100.64.0.0/10,DIRECT,no-resolve
+- IP-CIDR,127.0.0.0/8,DIRECT,no-resolve
+- IP-CIDR,172.16.0.0/12,DIRECT,no-resolve
+- IP-CIDR,192.168.0.0/16,DIRECT,no-resolve
+- IP-CIDR,198.18.0.0/16,DIRECT,no-resolve
+- IP-CIDR,224.0.0.0/4,DIRECT,no-resolve
+- IP-CIDR6,::1/128,DIRECT,no-resolve
+- IP-CIDR6,fc00::/7,DIRECT,no-resolve
+- IP-CIDR6,fe80::/10,DIRECT,no-resolve
+- DOMAIN,instant.arubanetworks.com,DIRECT
+- DOMAIN,setmeup.arubanetworks.com,DIRECT
+- DOMAIN,router.asus.com,DIRECT
+- DOMAIN,www.asusrouter.com,DIRECT
+- DOMAIN-SUFFIX,hiwifi.com,DIRECT
+- DOMAIN-SUFFIX,leike.cc,DIRECT
+- DOMAIN-SUFFIX,miwifi.com,DIRECT
+- DOMAIN-SUFFIX,my.router,DIRECT
+- DOMAIN-SUFFIX,p.to,DIRECT
+- DOMAIN-SUFFIX,peiluyou.com,DIRECT
+- DOMAIN-SUFFIX,phicomm.me,DIRECT
+- DOMAIN-SUFFIX,router.ctc,DIRECT
+- DOMAIN-SUFFIX,routerlogin.com,DIRECT
+- DOMAIN-SUFFIX,tendawifi.com,DIRECT
+- DOMAIN-SUFFIX,zte.home,DIRECT
+- DOMAIN-SUFFIX,tplogin.cn,DIRECT
+- DOMAIN-SUFFIX,wifi.cmcc,DIRECT
 - DOMAIN-SUFFIX,ol.epicgames.com,DIRECT
 - DOMAIN-SUFFIX,dizhensubao.getui.com,DIRECT
 - DOMAIN-SUFFIX,tracking-protection.cdn.mozilla.net,DIRECT
@@ -1430,7 +1464,6 @@ rules:
 - DOMAIN-SUFFIX,zmzfile.com,DIRECT
 - DOMAIN-SUFFIX,teamviewer.com,DIRECT
 - IP-CIDR,139.220.243.27/32,DIRECT,no-resolve
-- IP-CIDR,172.16.102.56/32,DIRECT,no-resolve
 - IP-CIDR,185.188.32.1/28,DIRECT,no-resolve
 - IP-CIDR,221.226.128.146/32,DIRECT,no-resolve
 - IP-CIDR6,2a0b:b580::/48,DIRECT,no-resolve
@@ -1682,6 +1715,14 @@ rules:
 - DOMAIN-SUFFIX,zhipin.com,DIRECT
 - DOMAIN-SUFFIX,zhongsou.com,DIRECT
 - DOMAIN-SUFFIX,zhuihd.com,DIRECT
+- DOMAIN-SUFFIX,inter.ptqy.gitv.tv,DIRECT
+- IP-CIDR,23.40.241.251/32,DIRECT,no-resolve
+- IP-CIDR,23.40.242.10/32,DIRECT,no-resolve
+- IP-CIDR,103.44.56.0/22,DIRECT,no-resolve
+- IP-CIDR,118.26.32.0/23,DIRECT,no-resolve
+- IP-CIDR,118.26.120.0/24,DIRECT,no-resolve
+- IP-CIDR,223.119.62.225/28,DIRECT,no-resolve
+- IP-CIDR,106.11.0.0/16,DIRECT,no-resolve
 - DOMAIN-KEYWORD,admarvel,REJECT
 - DOMAIN-KEYWORD,admaster,REJECT
 - DOMAIN-KEYWORD,adsage,REJECT
@@ -4128,7 +4169,6 @@ rules:
 - IP-CIDR,103.43.220.0/22,DIRECT,no-resolve
 - IP-CIDR,103.43.224.0/22,DIRECT,no-resolve
 - IP-CIDR,103.43.240.0/22,DIRECT,no-resolve
-- IP-CIDR,103.44.58.0/23,DIRECT,no-resolve
 - IP-CIDR,103.44.80.0/22,DIRECT,no-resolve
 - IP-CIDR,103.44.120.0/21,DIRECT,no-resolve
 - IP-CIDR,103.44.144.0/22,DIRECT,no-resolve
@@ -5914,7 +5954,6 @@ rules:
 - IP-CIDR,106.3.192.0/18,DIRECT,no-resolve
 - IP-CIDR,106.4.0.0/14,DIRECT,no-resolve
 - IP-CIDR,106.8.0.0/15,DIRECT,no-resolve
-- IP-CIDR,106.11.0.0/16,DIRECT,no-resolve
 - IP-CIDR,106.12.0.0/14,DIRECT,no-resolve
 - IP-CIDR,106.16.0.0/12,DIRECT,no-resolve
 - IP-CIDR,106.32.0.0/12,DIRECT,no-resolve
@@ -9357,4 +9396,6 @@ rules:
 - IP-CIDR,223.255.0.0/17,DIRECT,no-resolve
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
+- DOMAIN-SUFFIX,wxdown.org,DIRECT
+- GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择
