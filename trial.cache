@@ -3,10 +3,10 @@ auto_invite  F
 banned_domains  psnator.com  tmpnator.live  smartnator.com  MAIL.WVWVW.TECH  mynanaimohomes.com
 buy  pass
 email  shwanae716@disbox.org
-last_checkin  2024-10-19 11:20:22.249407+08:00
+last_checkin  2024-10-20 00:42:10.723039+08:00
 name  墙了个墙
 node_n  30
-sub_info  10.67M  888G  2024-10-20 11:20:22+08:00  (剩余 888G 11:01:36.477842)
+sub_info  10.67M  888G  2024-10-20 11:20:22+08:00  (剩余 888G 10:38:08.723725)
 sub_url  https://www.qlgq.top/link/4732333808fb72d6?clash=1
 time  2024-10-19 11:20:23.021457+08:00
 type  sspanel
@@ -17,10 +17,10 @@ auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com
 buy  pass
 email  enqsryir899@xxxhi.cc
-last_checkin  2024-10-19 20:58:25.108602+08:00
+last_checkin  2024-10-20 00:42:10.721808+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  246.6M  1.144G  2024-10-20 20:58:24+08:00  (剩余 924.4M 20:39:37.489071)
+sub_info  286M  1.808G  2024-10-20 20:58:24+08:00  (剩余 1.528G 20:16:09.652005)
 sub_url  https://network.ayucloud.nl/link/WLzfP2KRKFjKhgtA?clash=1
 time  2024-10-19 20:58:26.075304+08:00
 type  sspanel
@@ -37,18 +37,18 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
 buy  pass
 email  ueauudi454@gmail.com
-last_checkin  2024-10-19 00:43:35.406409+08:00
+last_checkin  2024-10-20 00:42:10.725127+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  7.778G  2024-08-12 12:02:31+08:00  (剩余 7.778G -69 days, 11:43:42.435178)
+sub_info  0B  7.88G  2024-08-12 12:02:31+08:00  (剩余 7.88G -69 days, 11:19:54.131635)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(qqetmgn523@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(omnkzcu795@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
