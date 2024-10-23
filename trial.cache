@@ -11,7 +11,7 @@ sub_url  https://qlgq.top/link/0d3ca5f254b0cc33?clash=1
 time  2024-10-22 03:36:39.674853+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/0d3ca5f254b0cc33?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
 
 [ayucloud.services]
 auth_path  user
@@ -22,7 +22,7 @@ email  oxjnbjdn409@111.wgtmc.shop
 last_checkin  2024-10-24 00:45:40.928969+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  172.5M  1.912G  2024-10-24 21:40:30+08:00  (剩余 1.744G 14:24:20.932528)
+sub_info  172.6M  1.912G  2024-10-24 21:40:30+08:00  (剩余 1.744G 14:03:59.615467)
 sub_url  https://network.ayucloud.nl/link/hSc7SKQ2jFIgY3A3?clash=1
 time  2024-10-23 21:40:31.593193+08:00
 type  sspanel
@@ -39,7 +39,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -48,9 +48,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-10-24 00:45:40.932132+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  8.365G  2024-08-12 12:02:31+08:00  (剩余 8.365G -73 days, 4:46:22.288068)
+sub_info  0B  8.365G  2024-08-12 12:02:31+08:00  (剩余 8.365G -73 days, 4:26:00.219991)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(qbyjuie425@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(eytascgf218@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
