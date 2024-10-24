@@ -11,20 +11,20 @@ sub_url  https://qlgq.top/link/0d3ca5f254b0cc33?clash=1
 time  2024-10-22 03:36:39.674853+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/0d3ca5f254b0cc33?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
 
 [ayucloud.services]
 auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop
 buy  pass
-email  glboaeapf747@guerrillamail.biz
-last_checkin  2024-10-24 21:23:59.527800+08:00
+email  yiovtblpk781@guerrillamail.net
+last_checkin  2024-10-24 23:39:27.412461+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  391.1M  1.056G  2024-10-25 21:23:59+08:00  (剩余 689.9M 22:06:12.657018)
-sub_url  https://network.ayucloud.nl/link/VZkkkiZMh3pmeTbg?clash=1
-time  2024-10-24 21:24:00.452489+08:00
+sub_info  0B  1.074G  2024-10-25 23:39:27+08:00  (剩余 1.074G 23:59:55.863478)
+sub_url  https://network.ayucloud.nl/link/QZWNN8CgGG7axmfs?clash=1
+time  2024-10-24 23:39:28.325607+08:00
 type  sspanel
 
 [cyanmori.com]
@@ -39,7 +39,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -48,10 +48,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-10-24 00:45:40.932132+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  8.365G  2024-08-12 12:02:31+08:00  (剩余 8.365G -74 days, 13:46:28.060898)
+sub_info  0B  8.365G  2024-08-12 12:02:31+08:00  (剩余 8.365G -74 days, 12:23:28.520570)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(fxaqdskl512@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(talwtjwf649@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
