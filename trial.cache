@@ -22,7 +22,7 @@ email  ulznikbf210@111.wgtmc.shop
 last_checkin  2024-10-27 00:40:43.546000+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  350.2M  1.641G  2024-10-27 23:37:07+08:00  (剩余 1.299G 6:01:15.509398)
+sub_info  350.5M  1.641G  2024-10-27 23:37:07+08:00  (剩余 1.298G 5:21:10.820190)
 sub_url  https://network.ayucloud.nl/link/LmWJjRfX8qhkSyXs?clash=1
 time  2024-10-26 23:37:08.995339+08:00
 type  sspanel
@@ -48,9 +48,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-10-27 00:40:43.549252+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  8.708G  2024-08-12 12:02:31+08:00  (剩余 8.708G -77 days, 18:25:31.452108)
+sub_info  0B  8.708G  2024-08-12 12:02:31+08:00  (剩余 8.708G -77 days, 17:46:41.709395)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-更新订阅链接/续费续签失败  注册失败(bgcdmwe617@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(ixszshu852@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
