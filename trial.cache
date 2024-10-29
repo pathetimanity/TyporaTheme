@@ -11,7 +11,7 @@ sub_url  https://qlgq.top/link/0d3ca5f254b0cc33?clash=1
 time  2024-10-22 03:36:39.674853+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/0d3ca5f254b0cc33?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
 
 [ayucloud.services]
 auth_path  user
@@ -22,7 +22,7 @@ email  zljcfqr304@111.cvrmpr.shop
 last_checkin  2024-10-29 22:15:44.461250+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  6.661M  1.097G  2024-10-30 22:15:44+08:00  (剩余 1.09G 22:36:16.831673)
+sub_info  6.786M  1.097G  2024-10-30 22:15:44+08:00  (剩余 1.09G 21:55:02.746112)
 sub_url  https://network.ayucloud.nl/link/fVHb3q3ZwBTjKdRj?clash=1
 time  2024-10-29 22:15:45.206996+08:00
 type  sspanel
@@ -48,9 +48,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-10-29 00:46:38.365167+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  8.947G  2024-08-12 12:02:31+08:00  (剩余 8.947G -79 days, 12:23:00.359383)
+sub_info  0B  8.947G  2024-08-12 12:02:31+08:00  (剩余 8.947G -79 days, 11:41:29.249774)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(uwawdggam945@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(qmtubfpfe787@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
