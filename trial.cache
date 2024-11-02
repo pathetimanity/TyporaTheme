@@ -2,13 +2,13 @@
 auto_invite  F
 banned_domains  psnator.com  tmpnator.live  smartnator.com  MAIL.WVWVW.TECH  mynanaimohomes.com
 buy  pass
-email  iaoirywa272@tmpmail.net
-last_checkin  2024-11-02 00:42:38.433444+08:00
+email  sujyoovx305@guerrillamail.net
+last_checkin  2024-11-02 10:34:43.255120+08:00
 name  墙了个墙
 node_n  30
-sub_info  2.629G  888G  2024-11-02 10:46:55+08:00  (剩余 885.4G 1:33:19.000560)
-sub_url  https://www.qlgq.top/link/cc9c6c0339401cc4?clash=1
-time  2024-11-01 10:46:55.815482+08:00
+sub_info  0B  888G  2024-11-03 10:34:43+08:00  (剩余 888G 23:59:58.031581)
+sub_url  https://www.qlgq.top/link/cb8e9a1fabb1b96c?clash=1
+time  2024-11-02 10:34:43.932724+08:00
 type  sspanel
 
 [ayucloud.services]
@@ -16,13 +16,13 @@ auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc
 buy  pass
-email  rjhcugbyh539@mail.wvwvw.tech
-last_checkin  2024-11-02 00:42:38.432117+08:00
+email  zfdftkinr558@linshiyou.com
+last_checkin  2024-11-02 10:34:33.059312+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  1.121G  1.671G  2024-11-02 18:41:36+08:00  (剩余 563.3M 9:28:00.995222)
-sub_url  https://network.ayucloud.nl/link/9qjpclGcCs5E0h9a?clash=1
-time  2024-11-01 18:41:37.546547+08:00
+sub_info  0B  1.186G  2024-11-03 10:34:32+08:00  (剩余 1.186G 23:59:55.275880)
+sub_url  https://network.ayucloud.nl/link/Zt2kJ6tEcvALkB3n?clash=1
+time  2024-11-02 10:34:33.836635+08:00
 type  sspanel
 
 [cyanmori.com]
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-11-02 00:42:38.435432+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  9.454G  2024-08-12 12:02:31+08:00  (剩余 9.454G -82 days, 2:48:41.345484)
+sub_info  0B  9.454G  2024-08-12 12:02:31+08:00  (剩余 9.454G -82 days, 1:28:07.568198)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(pzxfmwlhn453@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(yraghycck154@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
