@@ -6,7 +6,7 @@ email  hoyjjuflq730@111.vzfpx.shop
 last_checkin  2024-11-06 00:42:17.520696+08:00
 name  墙了个墙
 node_n  30
-sub_info  225.4M  888.1G  2024-11-06 21:39:01+08:00  (剩余 887.8G 16:24:24.081613)
+sub_info  237.6M  888.1G  2024-11-06 21:39:01+08:00  (剩余 887.8G 16:02:14.401841)
 sub_url  https://www.qlgq.top/link/c4c11aabc0a236a9?clash=1
 time  2024-11-05 21:39:02.920302+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  bunttucl270@mail.wvwvw.tech
 last_checkin  2024-11-06 02:43:05.867502+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  31.12M  1.075G  2024-11-07 02:43:05+08:00  (剩余 1.045G 21:28:26.381441)
+sub_info  31.24M  1.075G  2024-11-07 02:43:05+08:00  (剩余 1.045G 21:06:15.692072)
 sub_url  https://network.ayucloud.nl/link/7yetEqeeIYbjAsjs?clash=1
 time  2024-11-06 02:43:06.768331+08:00
 type  sspanel
@@ -36,8 +36,8 @@ sub_info  0B  584M  2024-09-19 20:43:01+08:00  (剩余 584M 4:01:07.368293)
 sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-11-06 00:42:17.523026+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  9.925G  2024-08-12 12:02:31+08:00  (剩余 9.925G -86 days, 6:47:34.862935)
+sub_info  0B  9.925G  2024-08-12 12:02:31+08:00  (剩余 9.925G -86 days, 6:25:27.977107)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(iukvpvcni545@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(nnmbxsdb544@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
