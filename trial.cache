@@ -6,7 +6,7 @@ email  hoyjjuflq730@111.vzfpx.shop
 last_checkin  2024-11-05 21:39:02.029692+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-11-06 21:39:01+08:00  (剩余 888G 23:59:56.968493)
+sub_info  13K  888G  2024-11-06 21:39:01+08:00  (剩余 888G 23:23:50.123314)
 sub_url  https://www.qlgq.top/link/c4c11aabc0a236a9?clash=1
 time  2024-11-05 21:39:02.920302+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  vspgcpr300@guerrillamail.biz
 last_checkin  2024-11-05 03:14:08.135323+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  667.4M  1.243G  2024-11-06 03:14:07+08:00  (剩余 605.6M 5:35:30.379807)
+sub_info  673.7M  1.243G  2024-11-06 03:14:07+08:00  (剩余 599.3M 4:58:51.279076)
 sub_url  https://network.ayucloud.nl/link/FHPavKP7yntS94cU?clash=1
 time  2024-11-05 03:14:08.991940+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-11-05 00:43:23.563151+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  9.792G  2024-08-12 12:02:31+08:00  (剩余 9.792G -86 days, 14:23:53.917468)
+sub_info  0B  9.792G  2024-08-12 12:02:31+08:00  (剩余 9.792G -86 days, 13:47:08.349673)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(srtqvefjg161@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(mcubxsyeu550@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
