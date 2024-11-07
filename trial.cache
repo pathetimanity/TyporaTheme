@@ -6,10 +6,11 @@ email  ufdyiqu708@mail.wvwvw.tech
 last_checkin  2024-11-07 00:43:34.857540+08:00
 name  墙了个墙
 node_n  30
-sub_info  952.2M  888.1G  2024-11-07 21:22:15+08:00  (剩余 887.1G 9:40:14.937908)
+sub_info  971.6M  888.1G  2024-11-07 21:22:15+08:00  (剩余 887.1G 9:02:56.812754)
 sub_url  https://www.qlgq.top/link/fab68b997cee49a7?clash=1
 time  2024-11-06 21:22:16.119426+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ayucloud.services]
 auth_path  user
@@ -20,7 +21,7 @@ email  ijztkdveq81@mynanaimohomes.com
 last_checkin  2024-11-07 02:21:47.252877+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  182.5M  1.096G  2024-11-08 02:21:46+08:00  (剩余 939.5M 14:39:43.493549)
+sub_info  182.6M  1.096G  2024-11-08 02:21:46+08:00  (剩余 939.4M 14:02:27.131337)
 sub_url  https://network.ayucloud.nl/link/BLg8fzp1nvpixXPS?clash=1
 time  2024-11-07 02:21:48.062625+08:00
 type  sspanel
@@ -37,7 +38,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +47,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-11-07 00:43:34.859621+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.04G  2024-08-12 12:02:31+08:00  (剩余 10.04G -87 days, 0:20:12.125965)
+sub_info  0B  10.04G  2024-08-12 12:02:31+08:00  (剩余 10.04G -88 days, 23:42:59.343755)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(nhiyoqph662@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(slfgkdyba712@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
