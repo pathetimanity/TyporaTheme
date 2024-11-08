@@ -6,7 +6,7 @@ email  mfqasxf902@disbox.net
 last_checkin  2024-11-08 00:43:39.667207+08:00
 name  墙了个墙
 node_n  30
-sub_info  651.2M  888.1G  2024-11-08 21:21:17+08:00  (剩余 887.4G 10:46:14.126942)
+sub_info  820M  888.1G  2024-11-08 21:21:17+08:00  (剩余 887.3G 10:01:27.316131)
 sub_url  https://www.qlgq.top/link/9bc761b8b8d92f57?clash=1
 time  2024-11-07 21:21:17.973630+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  jmwhqgglb790@x866.cc
 last_checkin  2024-11-08 03:13:03.335495+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  533M  1.207G  2024-11-09 03:13:02+08:00  (剩余 703M 16:37:57.742646)
+sub_info  536.9M  1.207G  2024-11-09 03:13:02+08:00  (剩余 699.1M 15:52:59.330941)
 sub_url  https://network.ayucloud.nl/link/pnlrjjXQ1WMRSu9q?clash=1
 time  2024-11-08 03:13:04.268331+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -46,9 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-11-08 00:43:39.669282+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.18G  2024-08-12 12:02:31+08:00  (剩余 10.18G -88 days, 1:27:13.936810)
+sub_info  0B  10.18G  2024-08-12 12:02:31+08:00  (剩余 10.18G -88 days, 0:42:26.956318)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(ydjqkpocv79@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(yafmvylqk396@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
