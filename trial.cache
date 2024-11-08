@@ -6,7 +6,7 @@ email  mfqasxf902@disbox.net
 last_checkin  2024-11-08 00:43:39.667207+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.138G  888.1G  2024-11-08 21:21:17+08:00  (剩余 886.9G 6:37:20.143449)
+sub_info  1.149G  888.1G  2024-11-08 21:21:17+08:00  (剩余 886.9G 6:06:41.276285)
 sub_url  https://www.qlgq.top/link/9bc761b8b8d92f57?clash=1
 time  2024-11-07 21:21:17.973630+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  onbhlkgc171@mynanaimohomes.com
 last_checkin  2024-11-08 14:22:41.066556+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.091G  2024-11-09 14:22:40+08:00  (剩余 1.091G 23:38:42.974259)
+sub_info  171.6M  1.091G  2024-11-09 14:22:40+08:00  (剩余 945.4M 23:08:01.075846)
 sub_url  https://network.ayucloud.nl/link/8E6CtJg57fwllMMk?clash=1
 time  2024-11-08 14:22:41.924022+08:00
 type  sspanel
@@ -36,7 +36,7 @@ sub_info  0B  584M  2024-09-19 20:43:01+08:00  (剩余 584M 4:01:07.368293)
 sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
-尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
@@ -46,10 +46,9 @@ email  ueauudi454@gmail.com
 last_checkin  2024-11-08 00:43:39.669282+08:00
 name  西瓜皮是真的皮
 node_n  15
-sub_info  0B  10.18G  2024-08-12 12:02:31+08:00  (剩余 10.18G -89 days, 21:39:45.109015)
+sub_info  0B  10.18G  2024-08-12 12:02:31+08:00  (剩余 10.18G -89 days, 20:47:47.910830)
 sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(dwrowfmz395@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
+更新订阅链接/续费续签失败  注册失败(rwrabuhrj305@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (302 Found '')
