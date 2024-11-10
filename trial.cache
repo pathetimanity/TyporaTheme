@@ -6,7 +6,7 @@ email  ahdoluyr481@222.wgtmc.shop
 last_checkin  2024-11-10 10:37:54.490271+08:00
 name  墙了个墙
 node_n  30
-sub_info  31.54M  888G  2024-11-11 10:37:54+08:00  (剩余 888G 22:19:41.587470)
+sub_info  43.16M  888G  2024-11-11 10:37:54+08:00  (剩余 888G 21:58:34.264822)
 sub_url  https://www.qlgq.top/link/73d7d7abd27b8475?clash=1
 time  2024-11-10 10:37:55.245060+08:00
 type  sspanel
@@ -14,7 +14,7 @@ type  sspanel
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc
+banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc
 buy  pass
 email  hanyvjhe136@guerrillamail.net
 last_checkin  2024-11-10 01:13:10.535295+08:00
@@ -24,6 +24,9 @@ sub_info  818.7M  1.149G  2024-11-11 01:13:10+08:00  (剩余 358.3M 12:54:57.521
 sub_url  https://network.ayucloud.nl/link/HhzKNr6KbKuuOFdX?clash=1
 time  2024-11-10 01:13:11.465735+08:00
 type  sspanel
+保存base64/clash订阅失败  'NoneType' object is not iterable
+保存订阅信息失败  no sub info
+更新订阅链接/续费续签失败  获取邮箱验证码超时(pktjope213@lista.cc)
 
 [cyanmori.com]
 auto_invite  F
