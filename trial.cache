@@ -6,26 +6,24 @@ email  zfvpvxhxk852@rgzx.tmmad.com
 last_checkin  2024-11-11 10:36:30.129461+08:00
 name  墙了个墙
 node_n  30
-sub_info  53.01M  888G  2024-11-12 10:36:30+08:00  (剩余 888G 21:55:52.591846)
+sub_info  73.16M  888G  2024-11-12 10:36:30+08:00  (剩余 888G 21:19:42.432518)
 sub_url  https://www.qlgq.top/link/99c8d3ab8d36e187?clash=1
 time  2024-11-11 10:36:30.815804+08:00
 type  sspanel
-保存base64/clash订阅失败  'NoneType' object is not iterable
 
 [ayucloud.services]
 auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc
 buy  pass
-email  uyyesijy551@ipiso.tmmad.com
-last_checkin  2024-11-11 00:40:04.396737+08:00
+email  ccppztb795@222.wkhxn.shop
+last_checkin  2024-11-11 13:16:49.781631+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  258.5M  1.783G  2024-11-11 13:14:39+08:00  (剩余 1.531G 0:34:00.736311)
-sub_url  https://network.ayucloud.nl/link/ImcqH4KwKYgip4n1?clash=1
-time  2024-11-10 13:14:40.357442+08:00
+sub_info  0B  1.122G  2024-11-12 13:16:49+08:00  (剩余 1.122G 23:59:50.040534)
+sub_url  https://network.ayucloud.nl/link/N8lw2e2I1srpT5Xr?clash=1
+time  2024-11-11 13:16:50.503741+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(bfjnrnmrt298@moakt.ws): 邮箱后缀已被拉黑
 
 [cyanmori.com]
 auto_invite  F
@@ -54,4 +52,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
