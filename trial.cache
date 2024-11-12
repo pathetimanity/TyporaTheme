@@ -6,7 +6,7 @@ email  mfjecrf615@mxl001.win
 last_checkin  2024-11-12 10:32:40.690763+08:00
 name  墙了个墙
 node_n  30
-sub_info  199.3M  888G  2024-11-13 10:32:40+08:00  (剩余 887.8G 16:15:43.849102)
+sub_info  229.2M  888G  2024-11-13 10:32:40+08:00  (剩余 887.8G 15:51:50.572840)
 sub_url  https://www.qlgq.top/link/cf51287f6ed9232e?clash=1
 time  2024-11-12 10:32:41.702566+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  zrqcnphma21@rgzx.tmmad.com
 last_checkin  2024-11-12 13:15:33.821038+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  220M  1.209G  2024-11-13 13:15:33+08:00  (剩余 1018M 18:58:35.228302)
+sub_info  220.1M  1.209G  2024-11-13 13:15:33+08:00  (剩余 1018M 18:34:41.349770)
 sub_url  https://network.ayucloud.nl/link/oiZWVhjSxDFVQ3ye?clash=1
 time  2024-11-12 13:15:34.714782+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
