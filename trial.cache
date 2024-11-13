@@ -6,7 +6,7 @@ email  lglfcxeh654@guerrillamail.org
 last_checkin  2024-11-14 00:43:27.895608+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.715G  888.1G  2024-11-14 10:35:38+08:00  (剩余 886.4G 3:56:41.087870)
+sub_info  1.734G  888.1G  2024-11-14 10:35:38+08:00  (剩余 886.3G 3:20:25.039355)
 sub_url  https://www.qlgq.top/link/d6cfa4c7695af9bd?clash=1
 time  2024-11-13 10:35:39.631908+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  amaxoyn871@guerrillamail.net
 last_checkin  2024-11-14 00:43:27.895156+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  738.7M  1.648G  2024-11-14 13:16:27+08:00  (剩余 949.3M 6:37:26.754465)
+sub_info  738.8M  1.648G  2024-11-14 13:16:27+08:00  (剩余 949.2M 6:01:13.923423)
 sub_url  https://network.ayucloud.nl/link/vsrNT0Lgy40ssEYm?clash=1
 time  2024-11-13 13:16:29.258293+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
