@@ -6,7 +6,7 @@ email  fylqmovx620@sharklasers.com
 last_checkin  2024-11-15 00:44:58.027907+08:00
 name  墙了个墙
 node_n  30
-sub_info  536.7M  888.1G  2024-11-15 10:36:24+08:00  (剩余 887.5G 8:57:10.119158)
+sub_info  555M  888.1G  2024-11-15 10:36:24+08:00  (剩余 887.5G 8:13:59.404130)
 sub_url  https://www.qlgq.top/link/4d02faba4e80316a?clash=1
 time  2024-11-14 10:36:25.072238+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  aaoojzoqu280@lplso.tmmad.com
 last_checkin  2024-11-15 00:44:58.026752+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  196.9M  1.687G  2024-11-15 12:42:11+08:00  (剩余 1.494G 11:02:56.050141)
+sub_info  197M  1.687G  2024-11-15 12:42:11+08:00  (剩余 1.494G 10:19:39.975191)
 sub_url  https://network.ayucloud.nl/link/q4kVtvkb0j5VJd4f?clash=1
 time  2024-11-14 12:42:12.668558+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  (https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
