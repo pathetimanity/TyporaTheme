@@ -6,7 +6,7 @@ email  gfnrjmikp960@222.wfmvz.shop
 last_checkin  2024-11-20 11:48:26.180440+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.058G  888G  2024-11-21 11:48:26+08:00  (剩余 887G 14:22:55.293135)
+sub_info  1.425G  888G  2024-11-21 11:48:26+08:00  (剩余 886.6G 14:06:07.318873)
 sub_url  https://www.qlgq.top/link/d59ba6cc68bc7f6c?clash=1
 time  2024-11-20 11:48:26.965184+08:00
 type  sspanel
@@ -16,15 +16,14 @@ auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc  miteon.com
 buy  pass
-email  pwkxqwqb954@222.vzakf.shop
-last_checkin  2024-11-20 00:45:45.434112+08:00
+email  eyfztaok475@222.wkhxn.shop
+last_checkin  2024-11-20 21:43:16.657521+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  382.8M  1.759G  2024-11-20 21:26:20+08:00  (剩余 1.385G 0:00:37.776928)
-sub_url  https://network.ayucloud.nl/link/YZGJyT9MqM4DyRlX?clash=1
-time  2024-11-19 21:26:22.118735+08:00
+sub_info  0B  1.194G  2024-11-21 21:43:16+08:00  (剩余 1.194G 23:59:55.279677)
+sub_url  https://network.ayucloud.nl/link/zvXgoGwhmNPv1IpM?clash=1
+time  2024-11-20 21:43:17.489038+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(nmzritnbk758@tmail.ws): 邮箱后缀已被拉黑
 
 [cyanmori.com]
 auto_invite  F
@@ -38,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -53,4 +52,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
