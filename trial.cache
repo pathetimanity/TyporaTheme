@@ -6,7 +6,7 @@ email  gfnrjmikp960@222.wfmvz.shop
 last_checkin  2024-11-21 00:46:32.608673+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.692G  888.1G  2024-11-21 11:48:26+08:00  (剩余 886.4G 4:11:07.412374)
+sub_info  1.799G  888.1G  2024-11-21 11:48:26+08:00  (剩余 886.3G 2:30:26.025291)
 sub_url  https://www.qlgq.top/link/d59ba6cc68bc7f6c?clash=1
 time  2024-11-20 11:48:26.965184+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  eyfztaok475@222.wkhxn.shop
 last_checkin  2024-11-21 00:46:32.607454+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  364.6M  1.795G  2024-11-21 21:43:16+08:00  (剩余 1.439G 14:05:56.907652)
+sub_info  426M  1.795G  2024-11-21 21:43:16+08:00  (剩余 1.379G 12:25:18.945894)
 sub_url  https://network.ayucloud.nl/link/zvXgoGwhmNPv1IpM?clash=1
 time  2024-11-20 21:43:17.489038+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -51,5 +51,5 @@ sub_url  https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3
 time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+尝试签到失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
