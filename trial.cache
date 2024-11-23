@@ -22,7 +22,7 @@ email  dmwbinq564@mxl001.win
 last_checkin  2024-11-23 00:45:00.261377+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  212.3M  1.78G  2024-11-23 22:41:22+08:00  (剩余 1.573G 11:15:47.726771)
+sub_info  212.3M  1.78G  2024-11-23 22:41:22+08:00  (剩余 1.573G 10:55:58.562813)
 sub_url  https://network.ayucloud.nl/link/lUxAGc4jo7QwOyhm?clash=1
 time  2024-11-22 22:41:23.710613+08:00
 type  sspanel
@@ -39,7 +39,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
@@ -54,4 +54,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  (https://vipxgyun.com/link/XV8rN64i9Nyo1Bmt?sub=3): 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>cloudflare</center>\r\n</body>\r\n</html>\r\n'
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
