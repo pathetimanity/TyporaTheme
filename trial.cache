@@ -6,7 +6,7 @@ email  eknlhqjrj170@333.vtnli.shop
 last_checkin  2024-11-25 00:43:10.750953+08:00
 name  墙了个墙
 node_n  30
-sub_info  4.026G  888.1G  2024-11-25 23:15:28+08:00  (剩余 884G 1:48:56.579754)
+sub_info  4.434G  888.1G  2024-11-25 23:15:28+08:00  (剩余 883.6G 1:31:49.632534)
 sub_url  https://www.qlgq.top/link/53f0bfbcb5515e2c?clash=1
 time  2024-11-24 23:15:29.288734+08:00
 type  sspanel
@@ -20,11 +20,12 @@ email  ldofiit98@lplso.tmmad.com
 last_checkin  2024-11-25 00:43:10.749770+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  617.4M  1.812G  2024-11-25 21:38:22+08:00  (剩余 1.209G 0:11:49.138739)
+sub_info  813.6K  0B  2024-11-25 21:38:22+08:00  (剩余 -813.6K -1 day, 23:54:34.676346)
 sub_url  https://network.ayucloud.nl/link/RbXpREvXnfBx43uN?clash=1
 time  2024-11-24 21:38:23.937560+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(iuqsapwws143@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
+保存base64/clash订阅失败  'NoneType' object is not iterable
+更新订阅链接/续费续签失败  注册失败(cvymhbtqf29@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed '<html>\r\n<head><title>405 Not Allowed</title></head>\r\n<body>\r\n<center><h1>405 Not Allowed</h1></center>\r\n<hr><center>openresty</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n')
 
 [cyanmori.com]
 auto_invite  F
@@ -53,4 +54,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
