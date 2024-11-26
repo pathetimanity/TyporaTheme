@@ -6,7 +6,7 @@ email  pnjrfjou289@x866.cc
 last_checkin  2024-11-26 22:16:34.811226+08:00
 name  墙了个墙
 node_n  30
-sub_info  77.08M  888G  2024-11-27 22:16:34+08:00  (剩余 888G 22:35:32.837362)
+sub_info  97.51M  888G  2024-11-27 22:16:34+08:00  (剩余 887.9G 21:54:04.757085)
 sub_url  https://www.qlgq.top/link/fee15c3feb45b814?clash=1
 time  2024-11-26 22:16:35.552799+08:00
 type  sspanel
@@ -16,13 +16,13 @@ auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc  miteon.com  xxxhi.cc
 buy  pass
-email  olizsvv871@guerrillamail.com
-last_checkin  2024-11-26 00:22:02.053434+08:00
+email  qdwwnaxwm607@youxiang.dev
+last_checkin  2024-11-27 00:22:41.136659+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  886.1M  1.117G  2024-11-27 00:22:01+08:00  (剩余 257.9M 0:40:59.954987)
-sub_url  https://network.ayucloud.nl/link/Ab1Na19BGRDGzsy1?clash=1
-time  2024-11-26 00:22:02.856559+08:00
+sub_info  0B  1.151G  2024-11-28 00:22:40+08:00  (剩余 1.151G 23:59:54.857800)
+sub_url  https://network.ayucloud.nl/link/eU1t8BKIRUlY1rRE?clash=1
+time  2024-11-27 00:22:41.896415+08:00
 type  sspanel
 
 [cyanmori.com]
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
