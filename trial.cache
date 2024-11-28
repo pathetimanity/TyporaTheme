@@ -1,15 +1,16 @@
 [qlgq.top]
 auto_invite  F
-banned_domains  psnator.com  tmpnator.live  smartnator.com  MAIL.WVWVW.TECH  mynanaimohomes.com  mydefipet.live  snapmail.cc  muatoc.com
+banned_domains  psnator.com  tmpnator.live  smartnator.com  MAIL.WVWVW.TECH  mynanaimohomes.com  mydefipet.live  snapmail.cc  muatoc.com  maxamba.com
 buy  pass
 email  yaxbikxwe402@wfes.site
 last_checkin  2024-11-28 00:46:49.239969+08:00
 name  墙了个墙
 node_n  30
-sub_info  1.329G  888G  2024-11-28 21:46:13+08:00  (剩余 886.7G 1:11:28.474223)
+sub_info  1.367G  888G  2024-11-28 21:46:13+08:00  (剩余 886.7G 0:16:30.253003)
 sub_url  https://www.qlgq.top/link/e5c2cedd1dc06439?clash=1
 time  2024-11-27 21:46:14.808459+08:00
 type  sspanel
+更新订阅链接/续费续签失败  获取邮箱验证码超时(nxhcbcs337@maxamba.com)
 
 [ayucloud.services]
 auth_path  user
@@ -20,7 +21,7 @@ email  pztswtbd941@guerrillamail.net
 last_checkin  2024-11-28 00:49:38.973018+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  600.9M  1.155G  2024-11-29 00:49:38+08:00  (剩余 582.1M 4:14:52.558929)
+sub_info  603.1M  1.155G  2024-11-29 00:49:38+08:00  (剩余 579.9M 3:22:55.212182)
 sub_url  https://network.ayucloud.nl/link/xP0vowmU16zU7iFJ?clash=1
 time  2024-11-28 00:49:39.905024+08:00
 type  sspanel
@@ -52,4 +53,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
