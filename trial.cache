@@ -6,7 +6,7 @@ email  jskojvdzd864@mail.wvwvw.tech
 last_checkin  2024-11-28 22:18:23.193351+08:00
 name  墙了个墙
 node_n  30
-sub_info  20.67M  888G  2024-11-29 22:18:23+08:00  (剩余 888G 22:38:32.824816)
+sub_info  39.71M  888G  2024-11-29 22:18:23+08:00  (剩余 888G 21:57:29.298888)
 sub_url  https://www.qlgq.top/link/a7badac58f35e62b?clash=1
 time  2024-11-28 22:18:23.935845+08:00
 type  sspanel
@@ -20,10 +20,11 @@ email  pztswtbd941@guerrillamail.net
 last_checkin  2024-11-28 00:49:38.973018+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  707.6M  1.155G  2024-11-29 00:49:38+08:00  (剩余 475.4M 1:09:46.753109)
+sub_info  815.9M  1.155G  2024-11-29 00:49:38+08:00  (剩余 367.1M 0:28:33.896932)
 sub_url  https://network.ayucloud.nl/link/xP0vowmU16zU7iFJ?clash=1
 time  2024-11-28 00:49:39.905024+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(zrtnbdm816@disbox.org): 邮箱后缀已被拉黑
 
 [cyanmori.com]
 auto_invite  F
@@ -52,4 +53,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
