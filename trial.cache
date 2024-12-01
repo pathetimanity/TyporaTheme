@@ -6,7 +6,7 @@ email  bmhddboy437@spam4.me
 last_checkin  2024-12-02 00:43:03.524366+08:00
 name  墙了个墙
 node_n  30
-sub_info  103.3M  888.1G  2024-12-02 21:23:00+08:00  (剩余 888G 17:46:19.006878)
+sub_info  137.3M  888.1G  2024-12-02 21:23:00+08:00  (剩余 887.9G 17:05:35.409871)
 sub_url  https://www.qlgq.top/link/ffe5c4983b284628?clash=1
 time  2024-12-01 21:23:01.787806+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  dosiyqsby356@guerrillamail.com
 last_checkin  2024-12-02 00:43:03.523089+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  315.7M  1.889G  2024-12-02 19:36:50+08:00  (剩余 1.58G 16:00:01.558392)
+sub_info  538.6M  1.889G  2024-12-02 19:36:50+08:00  (剩余 1.363G 15:19:22.106588)
 sub_url  https://network.ayucloud.nl/link/lfaw8M90223EJkW7?clash=1
 time  2024-12-01 19:36:52.123385+08:00
 type  sspanel
@@ -52,4 +52,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
