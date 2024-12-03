@@ -3,10 +3,10 @@ auto_invite  F
 banned_domains  psnator.com  tmpnator.live  smartnator.com  MAIL.WVWVW.TECH  mynanaimohomes.com  mydefipet.live  snapmail.cc  muatoc.com  maxamba.com  nespressopixie.com
 buy  pass
 email  chobsik610@jkb.tmmad.com
-last_checkin  2024-12-03 21:27:34.205844+08:00
+last_checkin  2024-12-04 00:48:03.917293+08:00
 name  墙了个墙
 node_n  30
-sub_info  60.45M  888G  2024-12-04 21:27:34+08:00  (剩余 888G 21:06:15.383195)
+sub_info  73.63M  888G  2024-12-04 21:27:34+08:00  (剩余 887.9G 20:39:25.632026)
 sub_url  https://www.qlgq.top/link/1367fc646d53fb3e?clash=1
 time  2024-12-03 21:27:35.035464+08:00
 type  sspanel
@@ -17,10 +17,10 @@ auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc  miteon.com  xxxhi.cc
 buy  pass
 email  xhkpfmgj464@guerrillamail.org
-last_checkin  2024-12-03 19:14:42.821551+08:00
+last_checkin  2024-12-04 00:48:03.916239+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  23.62M  1.143G  2024-12-04 19:14:42+08:00  (剩余 1.12G 18:53:21.747627)
+sub_info  23.75M  1.858G  2024-12-04 19:14:42+08:00  (剩余 1.835G 18:26:30.738221)
 sub_url  https://network.ayucloud.nl/link/UgHgALPxBR18idsl?clash=1
 time  2024-12-03 19:14:43.798042+08:00
 type  sspanel
@@ -37,7 +37,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
