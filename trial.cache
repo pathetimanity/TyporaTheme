@@ -6,7 +6,7 @@ email  btotkdco405@rgzx.tmmad.com
 last_checkin  2024-12-10 00:47:43.899064+08:00
 name  墙了个墙
 node_n  30
-sub_info  447.6M  888G  2024-12-10 21:27:59+08:00  (剩余 887.6G 7:02:39.796501)
+sub_info  454.2M  888G  2024-12-10 21:27:59+08:00  (剩余 887.6G 6:39:53.848125)
 sub_url  https://www.qlgq.top/link/f7098515280d7c6d?clash=1
 time  2024-12-09 21:28:00.375735+08:00
 type  sspanel
@@ -20,11 +20,10 @@ email  nbtwsmevu112@mynanaimohomes.com
 last_checkin  2024-12-10 00:47:43.897784+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  69.1M  1.667G  2024-12-10 21:46:01+08:00  (剩余 1.6G 8:04:47.127848)
+sub_info  76.81M  1.667G  2024-12-10 21:46:01+08:00  (剩余 1.592G 6:57:52.540672)
 sub_url  https://network.ayucloud.nl/link/7je2HmfElq4fbDZQ?clash=1
 time  2024-12-09 21:46:02.288025+08:00
 type  sspanel
-更新旧订阅失败  解析 json 失败: Expecting value: line 1 column 1 (char 0) (200 OK "<br />\n<b>Warning</b>: file_exists(): open_basedir restriction in effect. File(/www/wwwroot/2023.cloudnetwork.pro/vendor/composer/../voku/anti-xss/src/voku/helper/Bootup.php) is not within the allowed path(s): (/www/wwwroot/2023.cloudnetwork.pro/public/:/tmp/) in <b>/www/wwwroot/2023.cloudnetwork.pro/vendor/composer/ClassLoader.php</b> on line <b>384</b><br />\n<br />\n<b>Warning</b>: file_exists(): open_basedir restriction in effect. File(/www/wwwroot/2023.cloudnetwork.pro/vendor/composer/../voku/portable-utf8/src/voku/helper/Bootup.php) is not within the allowed path(s): (/www/wwwroot/2023.cloudnetwork.pro/public/:/tmp/) in <b>/www/wwwroot/2023.cloudnetwork.pro/vendor/composer/ClassLoader.php</b> on line <b>384</b><br />\n<br />\n<b>Warning</b>: file_exists(): open_basedir restriction in effect. File(/www/wwwroot/2023.cloudnetwork.pro/vendor/composer/../nesbot/carbon/src/voku/helper/Bootup.php) is not within the allowed path(s): (/www/wwwroot/2023.cloudnetwork.pro/public/:/tmp/) in <b>/www/wwwroot/2023.cloudnetwork.pro/vendor/composer/ClassLoader.php</b> on line <b>394</b><br />\n<br />\n<b>Fatal error</b>: Uncaught Error: Class 'voku\\helper\\Bootup' not found in /www/wwwroot/2023.cloudnetwork.pro/vendor/voku/portable-utf8/bootstrap.php:5\nStack trace:\n#0 /www/wwwroot/2023.cloudnetwork.pro/vendor/composer/autoload_real.php(69): require()\n#1 /www/wwwroot/2023.cloudnetwork.pro/vendor/composer/autoload_real.php(59): composerRequire8ccba2bdb44812cd3d15b61e2fe1c22c()\n#2 /www/wwwroot/2023.cloudnetwork.pro/vendor/autoload.php(7): ComposerAutoloaderInit8ccba2bdb44812cd3d15b61e2fe1c22c::getLoader()\n#3 /www/wwwroot/2023.cloudnetwork.pro/bootstrap.php(17): require('/www/wwwroot/20...')\n#4 /www/wwwroot/2023.cloudnetwork.pro/public/index.php(19): require('/www/wwwroot/20...')\n#5 {main}\n thrown in <b>/www/wwwroot/2023.cloudnetwork.pro/vendor/voku/portable-utf8/bootstrap.php</b> on line <b>5</b><br />\n")
 
 [cyanmori.com]
 auto_invite  F
