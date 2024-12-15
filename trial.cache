@@ -10,6 +10,7 @@ sub_info  25.71M  888G  2024-12-16 21:39:18+08:00  (剩余 888G 22:01:43.630953)
 sub_url  https://www.qlgq.top/link/ddd9bf5b6ef8ffae?clash=1
 time  2024-12-15 21:39:19.516382+08:00
 type  sspanel
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/ddd9bf5b6ef8ffae?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
 
 [ayucloud.services]
 auth_path  user
@@ -20,7 +21,7 @@ email  qpvhfzttk499@965.tmmad.com
 last_checkin  2024-12-15 21:22:27.576904+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  34.82M  1.166G  2024-12-16 21:22:27+08:00  (剩余 1.132G 21:44:49.163561)
+sub_info  37.09M  1.166G  2024-12-16 21:22:27+08:00  (剩余 1.13G 21:03:02.942137)
 sub_url  https://network.ayucloud.nl/link/6rrBfFAquqc76j73?clash=1
 time  2024-12-15 21:22:28.846348+08:00
 type  sspanel
