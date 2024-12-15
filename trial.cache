@@ -6,7 +6,7 @@ email  neghhlzgp345@moakt.ws
 last_checkin  2024-12-15 21:39:18.820365+08:00
 name  墙了个墙
 node_n  30
-sub_info  0B  888G  2024-12-16 21:39:18+08:00  (剩余 888G 23:59:54.612312)
+sub_info  4.875K  888G  2024-12-16 21:39:18+08:00  (剩余 888G 23:25:07.672266)
 sub_url  https://www.qlgq.top/link/ddd9bf5b6ef8ffae?clash=1
 time  2024-12-15 21:39:19.516382+08:00
 type  sspanel
@@ -20,7 +20,7 @@ email  qpvhfzttk499@965.tmmad.com
 last_checkin  2024-12-15 21:22:27.576904+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  2.618M  1.166G  2024-12-16 21:22:27+08:00  (剩余 1.163G 23:43:20.764819)
+sub_info  16.73M  1.166G  2024-12-16 21:22:27+08:00  (剩余 1.15G 23:08:14.130612)
 sub_url  https://network.ayucloud.nl/link/6rrBfFAquqc76j73?clash=1
 time  2024-12-15 21:22:28.846348+08:00
 type  sspanel
@@ -52,4 +52,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
