@@ -11,7 +11,7 @@ sub_url  https://qlgq.top/link/ddd9bf5b6ef8ffae?clash=1
 time  2024-12-15 21:39:19.516382+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/ddd9bf5b6ef8ffae?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
 
 [ayucloud.services]
 auth_path  user
@@ -22,7 +22,7 @@ email  kleykvt223@linshiyou.com
 last_checkin  2024-12-17 00:47:13.216541+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  273.6M  1.668G  2024-12-17 16:24:27+08:00  (剩余 1.401G 12:47:58.715165)
+sub_info  277.3M  1.668G  2024-12-17 16:24:27+08:00  (剩余 1.397G 12:05:10.975569)
 sub_url  https://network.ayucloud.nl/link/IvQc5QnjhWyWpLen?clash=1
 time  2024-12-16 16:24:28.409400+08:00
 type  sspanel
@@ -39,7 +39,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
 
 [vipxgyun.com]
 auto_invite  F
