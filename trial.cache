@@ -18,13 +18,13 @@ auth_path  user
 auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc  miteon.com  xxxhi.cc  nespressopixie.com
 buy  pass
-email  qpvhfzttk499@965.tmmad.com
-last_checkin  2024-12-16 00:42:42.437333+08:00
+email  kleykvt223@linshiyou.com
+last_checkin  2024-12-16 16:24:27.521210+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  445.4M  1.825G  2024-12-16 21:22:27+08:00  (剩余 1.39G 5:43:57.474382)
-sub_url  https://network.ayucloud.nl/link/6rrBfFAquqc76j73?clash=1
-time  2024-12-15 21:22:28.846348+08:00
+sub_info  0B  1.052G  2024-12-17 16:24:27+08:00  (剩余 1.052G 23:59:55.409968)
+sub_url  https://network.ayucloud.nl/link/IvQc5QnjhWyWpLen?clash=1
+time  2024-12-16 16:24:28.409400+08:00
 type  sspanel
 
 [cyanmori.com]
@@ -39,7 +39,7 @@ sub_url  https://cyanmori.com/link/F5jSlfHR74lFJMt9?clash=1
 time  2024-09-19 14:43:39.531814+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='cyanmori.com', port=443): Max retries exceeded with url: /link/F5jSlfHR74lFJMt9?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='cyanmori.com', port=443): Read timed out. (read timeout=30)"))
 
 [vipxgyun.com]
 auto_invite  F
@@ -54,4 +54,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
