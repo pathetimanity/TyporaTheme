@@ -11,7 +11,7 @@ sub_url  https://qlgq.top/link/ddd9bf5b6ef8ffae?clash=1
 time  2024-12-15 21:39:19.516382+08:00
 type  sspanel
 尝试签到失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)
+更新旧订阅失败  HTTPSConnectionPool(host='qlgq.top', port=443): Max retries exceeded with url: /link/ddd9bf5b6ef8ffae?clash=1 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='qlgq.top', port=443): Read timed out. (read timeout=30)"))
 
 [ayucloud.services]
 auth_path  user
@@ -19,10 +19,10 @@ auto_invite  F
 banned_domains  yzm.de  smartnator.com  psnator.com  MAIL.WVWVW.TECH  femailtor.com  mydefipet.live  tmpnator.live  maxamba.com  456.gracebrown.shop  789.craigbyrge.shop  snapmail.cc  lista.cc  miteon.com  xxxhi.cc  nespressopixie.com
 buy  pass
 email  bfvzrno138@guerrillamail.biz
-last_checkin  2024-12-17 16:46:47.654749+08:00
+last_checkin  2024-12-18 00:47:43.832347+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  529.5M  1.136G  2024-12-18 16:46:47+08:00  (剩余 633.5M 16:24:32.657233)
+sub_info  529.5M  1.847G  2024-12-18 16:46:47+08:00  (剩余 1.33G 15:58:54.392412)
 sub_url  https://network.ayucloud.nl/link/HkWSfZnysnIhTpha?clash=1
 time  2024-12-17 16:46:48.523168+08:00
 type  sspanel
@@ -54,4 +54,4 @@ time  2024-08-12 20:30:41.824006+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
 尝试签到失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
-更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Max retries exceeded with url: /link/XV8rN64i9Nyo1Bmt?sub=3 (Caused by ReadTimeoutError("HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)"))
+更新旧订阅失败  HTTPSConnectionPool(host='vipxgyun.com', port=443): Read timed out. (read timeout=30)
